@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.jinn.projectf">
    <application
-        android:label="projectf"
+        android:label="ProjectF"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

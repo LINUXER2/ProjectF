@@ -1,7 +1,13 @@
 import 'package:flutter/material.dart';
 
+import 'assets.dart';
+import 'bottom_bar_item.dart';
+
 class BottomBar extends StatefulWidget {
-  const BottomBar({Key? key}) : super(key: key);
+  final OnBottomTabClicked? onTap;
+  final int currentIndex;
+
+  const BottomBar({Key? key, required this.currentIndex, this.onTap}) : super(key: key);
 
   @override
   State<StatefulWidget> createState() => BottomBarState();
@@ -17,13 +23,38 @@ class BottomBarState extends State<BottomBar> {
         border: Border(top: BorderSide(width: 0.5, color: Colors.black)),
       ),
       child: Row(
-        mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-        crossAxisAlignment: CrossAxisAlignment.center,
-        children: const [
-          Text("首页", style: TextStyle(color: Colors.black, fontSize: 12)),
-          Text("开发中", style: TextStyle(color: Colors.black, fontSize: 12)),
-          Text("开发中", style: TextStyle(color: Colors.black, fontSize: 12)),
-          Text("设置", style: TextStyle(color: Colors.black, fontSize: 12)),
+        mainAxisAlignment: MainAxisAlignment.spaceAround,
+        crossAxisAlignment: CrossAxisAlignment.end,
+        mainAxisSize: MainAxisSize.max,
+        children: [
+          Expanded(
+              child: BottomBarItem(
+                  index: 0,
+                  text: '首页',
+                  img: Assets.assets_images_tab_main_webp,
+                  onTap: widget.onTap,
+                  selected: widget.currentIndex == 0 ? true : false)),
+          Expanded(
+              child: BottomBarItem(
+                  index: 1,
+                  text: '开发中',
+                  img: Assets.assets_images_tab_discovery_webp,
+                  onTap: widget.onTap,
+                  selected: widget.currentIndex == 1 ? true : false)),
+          Expanded(
+              child: BottomBarItem(
+                  index: 2,
+                  text: '开发中',
+                  img: Assets.assets_images_tab_message_webp,
+                  onTap: widget.onTap,
+                  selected: widget.currentIndex == 2 ? true : false)),
+          Expanded(
+              child: BottomBarItem(
+                  index: 3,
+                  text: '设置',
+                  img: Assets.assets_images_tab_settings_webp,
+                  onTap: widget.onTap,
+                  selected: widget.currentIndex == 3 ? true : false)),
         ],
       ),
     );

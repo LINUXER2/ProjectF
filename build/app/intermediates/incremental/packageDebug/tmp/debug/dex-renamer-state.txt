@@ -1,4 +1,0 @@
-#Mon Oct 09 18:51:19 CST 2023
-base.0=/Users/lijinhua/open_proj/ProjectF/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
-renamed.0=classes.dex
-path.0=classes.dex

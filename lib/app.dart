@@ -1,5 +1,7 @@
 import 'dart:async';
 
+import 'package:common/network/http_utils.dart';
+import 'package:common/utils/log_utils.dart';
 import 'package:common/utils/system_utils.dart';
 import 'package:discovery/page/discovery_page.dart';
 import 'package:flutter/material.dart';
@@ -7,13 +9,47 @@ import 'package:main/page/main_page.dart';
 import 'package:news/page/news_page.dart';
 import 'package:settings/page/settings_page.dart';
 import 'package:projectf/bottom_bar.dart';
+import 'package:flutter_localizations/flutter_localizations.dart';
+import 'package:flutter/cupertino.dart';
 
 void main() {
-  runZonedGuarded<Future<void>>(() async {
-    runApp(const MyApp());
-  }, (error, stackTrace) async {
-    print("$error,$stackTrace");
-  });
+  _init();
+  runZonedGuarded<Future<void>>(
+    () async {
+      runApp(const MyApp());
+    },
+    (error, stackTrace) async {},
+    zoneSpecification: ZoneSpecification(
+      ///拦截print
+      print: (Zone self, ZoneDelegate parent, Zone zone, String message) {
+        if (parent != null) {
+          parent.print(zone, message);
+        }
+      },
+      /// 拦截未处理的异步错误
+      handleUncaughtError: (Zone self, ZoneDelegate parent, Zone zone, Object error, StackTrace stackTrace) {
+        parent.print(zone, '${error.toString()} $stackTrace');
+      },
+    ),
+  );
+}
+
+/// flutter 在抛出异常时，会回调FlutterError.onError
+void setErrorCallBack() {
+  final error = FlutterError.onError;
+  FlutterError.onError = (FlutterErrorDetails details) {
+    error?.call(details);
+    reportError(details);
+  };
+}
+
+void reportError(FlutterErrorDetails errorDetails) {
+  LogUtils.dogE("$errorDetails");
+}
+
+void _init() async {
+  setErrorCallBack();
+  HttpUtils.init();
 }
 
 class MyApp extends StatelessWidget {
@@ -47,9 +83,35 @@ class _MyHomePageState extends State<MyHomePage> {
   late List<GlobalKey> _keys;
   int _currentIndex = 0;
 
+  final String _tag = "_MyHomePageState";
+
   @override
   Widget build(BuildContext context) {
-    print("jinn2.screen test:width:${System.width},height:${System.height},statusHeight:${System.statusHeight},ratio:${System.devicePixelRatio}");
+    LogUtils.d(
+        _tag, "screen test:width:${System.width},height:${System.height},statusHeight:${System.statusHeight},ratio:${System.devicePixelRatio}");
+    return MaterialApp(
+      localizationsDelegates: [
+        DefaultCupertinoLocalizations.delegate,
+        GlobalMaterialLocalizations.delegate,
+        GlobalWidgetsLocalizations.delegate,
+      ],
+      supportedLocales: [
+        Locale('en', 'US'),
+        Locale('zh', 'CN'),
+      ],
+      localeResolutionCallback: (Locale? locale, Iterable<Locale>? iterable) {
+        LogUtils.d(_tag, "onLocaleChanged,current:${locale?.languageCode}");
+        return locale;
+      },
+      home: Builder(
+        builder: (context) {
+          return _renderHome();
+        },
+      ),
+    );
+  }
+
+  Widget _renderHome() {
     return Scaffold(
       appBar: AppBar(
         title: Text(widget.title),
@@ -86,7 +148,7 @@ class _MyHomePageState extends State<MyHomePage> {
   }
 
   void onBottomTabClicked(int index) {
-    print("onBottomTabClicked:$index");
+    LogUtils.d(_tag, "onBottomTabClicked:$index");
     _pageController.jumpToPage(index);
     _currentIndex = index;
     setState(() {});

@@ -1,5 +1,7 @@
 import 'dart:io';
 
+import 'package:common/network/base_response.dart';
+import 'package:common/network/common_response.dart';
 import 'package:dio/dio.dart';
 import 'package:dio/io.dart';
 
@@ -25,20 +27,30 @@ class HttpUtils {
     // 在调试模式下需要抓包调试，所以我们使用代理，并禁用HTTPS证书校验
     if (debug) {
       (_dio.httpClientAdapter as DefaultHttpClientAdapter).onHttpClientCreate = (client) {
-        // client.findProxy = (uri) {
-        //   return 'PROXY 192.168.50.154:8888';
-        // };
+        client.findProxy = (uri) {
+          return 'PROXY 172.19.34.172:9090';
+        };
         //代理工具会提供一个抓包的自签名证书，会通不过证书校验，所以我们禁用证书校验
         client.badCertificateCallback = (X509Certificate cert, String host, int port) => true;
       };
     }
   }
 
-  static Future<Response> get(String url, {Map<String, String>? params}) async {
-    return await _dio.get(url, queryParameters: params);
+  static Future<BaseResponse> get(String url, {Map<String, String>? params}) async {
+    try {
+      Response response = await _dio.get(url, queryParameters: params);
+      return CommonResponse.handleResponse(response);
+    } on Exception catch (e) {
+      return CommonResponse.handleException(e);
+    }
   }
 
-  static Future<Response> post(String url, {Map<String, String>? params}) async {
-    return await _dio.post(url, data: params);
+  static Future<BaseResponse> post(String url, {Map<String, String>? params}) async {
+    try {
+      Response response = await _dio.post(url, queryParameters: params);
+      return CommonResponse.handleResponse(response);
+    } on Exception catch (e) {
+      return CommonResponse.handleException(e);
+    }
   }
 }

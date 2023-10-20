@@ -7,7 +7,7 @@ import 'package:dio/io.dart';
 
 class HttpUtils {
   static late Dio _dio;
-  static bool debug = true;
+  static bool debug = false;
 
   static void init() {
     _dio = Dio(BaseOptions(

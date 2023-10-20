@@ -26,6 +26,7 @@ void main() {
           parent.print(zone, message);
         }
       },
+
       /// 拦截未处理的异步错误
       handleUncaughtError: (Zone self, ZoneDelegate parent, Zone zone, Object error, StackTrace stackTrace) {
         parent.print(zone, '${error.toString()} $stackTrace');
@@ -86,16 +87,45 @@ class _MyHomePageState extends State<MyHomePage> {
   final String _tag = "_MyHomePageState";
 
   @override
+  void initState() {
+    super.initState();
+    LogUtils.d(_tag, "initState");
+    _pageController = PageController();
+    _initPages();
+    WidgetsBinding.instance.addPostFrameCallback((timeStamp) {
+      LogUtils.d(
+          _tag, "screen test:width:${System.width},height:${System.height},statusHeight:${System.statusHeight},ratio:${System.devicePixelRatio}");
+    });
+  }
+
+  @override
+  void didChangeDependencies() {
+    super.didChangeDependencies();
+    LogUtils.d(_tag, "didChangeDependencies");
+  }
+
+  @override
+  void didUpdateWidget(MyHomePage oldWidget) {
+    super.didUpdateWidget(oldWidget);
+    LogUtils.d(_tag, "didUpdateWidget");
+  }
+
+  @override
+  void dispose() {
+    super.dispose();
+    LogUtils.d(_tag, "dispose");
+    _pageController.dispose();
+  }
+
+  @override
   Widget build(BuildContext context) {
-    LogUtils.d(
-        _tag, "screen test:width:${System.width},height:${System.height},statusHeight:${System.statusHeight},ratio:${System.devicePixelRatio}");
     return MaterialApp(
-      localizationsDelegates: [
+      localizationsDelegates: const [
         DefaultCupertinoLocalizations.delegate,
         GlobalMaterialLocalizations.delegate,
         GlobalWidgetsLocalizations.delegate,
       ],
-      supportedLocales: [
+      supportedLocales: const [
         Locale('en', 'US'),
         Locale('zh', 'CN'),
       ],
@@ -120,17 +150,14 @@ class _MyHomePageState extends State<MyHomePage> {
           child: PageView(
         children: _pages,
         controller: _pageController,
+
+        ///pageView本身没有缓存page，该参数设为true，可以预加载相邻一个page，但仍可能会销毁
+        ///要实现永不销毁，需page继承AutomaticKeepAlive并将wantKeepAlive设为true（或者将page用KeepAliveWrapper包裹）
+        //  allowImplicitScrolling: true,
         physics: const NeverScrollableScrollPhysics(),
       )),
       bottomNavigationBar: BottomBar(onTap: onBottomTabClicked, currentIndex: _currentIndex),
     );
-  }
-
-  @override
-  void initState() {
-    super.initState();
-    _pageController = PageController();
-    _initPages();
   }
 
   void _initPages() {
@@ -152,21 +179,5 @@ class _MyHomePageState extends State<MyHomePage> {
     _pageController.jumpToPage(index);
     _currentIndex = index;
     setState(() {});
-  }
-
-  @override
-  void didChangeDependencies() {
-    super.didChangeDependencies();
-  }
-
-  @override
-  void dispose() {
-    super.dispose();
-    _pageController.dispose();
-  }
-
-  @override
-  void didUpdateWidget(MyHomePage oldWidget) {
-    super.didUpdateWidget(oldWidget);
   }
 }

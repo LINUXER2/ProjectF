@@ -11,6 +11,8 @@ dependencies:
   flutter:
     sdk: flutter
 
+  common:
+    path: ../../baseModule/common
 dev_dependencies:
   flutter_test:
     sdk: flutter

@@ -1,6 +1,6 @@
-/// issueList : [{"releaseTime":1697072400000,"type":"morning","date":1697072400000,"publishTime":1697072400000,"itemList":[{"type":"banner2","data":{"dataType":"Banner","id":0,"title":"","description":"","image":"http://img.kaiyanapp.com/eef24aa10ab6cf17b5a512943ec22053.jpeg?imageMogr2/quality/60/format/jpg","actionUrl":"","adTrack":null,"shade":false,"label":null,"labelList":null,"header":null,"autoPlay":false},"trackingData":null,"tag":null,"id":0,"adIndex":-1},{"type":"video","data":{"dataType":"VideoBeanForClient","id":320279,"title":"坐上轮渡，去追一次甲板上的惬意黄昏","description":"创作者乘船前往法国科西嘉岛，科西嘉岛位于地中海西部，他记录下了轮渡航行过程中的惬意午后。阳光使海面熠熠生辉，游客们都坐在甲板上享受着海风和阳光的温暖，海鸥飞来和人们玩耍，在夕阳的黄金时刻，一切都是那么融洽，只有海鸥和海风的声音。创作者使用 Sony FX3 拍摄，背景音乐是 The Night We Met - Lord Huron。 From Lohro","library":"DAILY","tags":[{"id":10,"name":"跟着开眼看世界","actionUrl":"eyepetizer://tag/10/?title=%E8%B7%9F%E7%9D%80%E5%BC%80%E7%9C%BC%E7%9C%8B%E4%B8%96%E7%95%8C","adTrack":null,"desc":"去你想去的地方，发现世界的美","bgPicture":"http://img.kaiyanapp.com/7ea328a893aa1f092b9328a53494a267.png?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/50dab5468ecd2dbe5eb99dab5d608a0a.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"IMPORTANT","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":14},{"id":202,"name":"唯美","actionUrl":"eyepetizer://tag/202/?title=%E5%94%AF%E7%BE%8E","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/965a0a74d0af871eb174b5c7def6fd6d.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/965a0a74d0af871eb174b5c7def6fd6d.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":142,"name":"浪漫","actionUrl":"eyepetizer://tag/142/?title=%E6%B5%AA%E6%BC%AB","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/460ed0b9e2912a5a0f64e4ede5e8159c.jpeg?imageMogr2/quality/100","headerImage":"http://img.kaiyanapp.com/775357709cbbb780e2544f28e7a5f2b2.jpeg?imageMogr2/quality/100","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":1159,"name":"胶片风","actionUrl":"eyepetizer://tag/1159/?title=%E8%83%B6%E7%89%87%E9%A3%8E","adTrack":null,"desc":"让定格记忆，变得更有味道","bgPicture":"http://img.kaiyanapp.com/b5df2f1f634844c7955b6a29bde7cb01.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/b5df2f1f634844c7955b6a29bde7cb01.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":true,"newestEndTime":1586876401000,"communityIndex":11},{"id":148,"name":"匠心","actionUrl":"eyepetizer://tag/148/?title=%E5%8C%A0%E5%BF%83","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/cf568288dc8087fa728308f2623b9527.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/cf568288dc8087fa728308f2623b9527.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":52,"name":"风光大片","actionUrl":"eyepetizer://tag/52/?title=%E9%A3%8E%E5%85%89%E5%A4%A7%E7%89%87","adTrack":null,"desc":"","bgPicture":"http://img.kaiyanapp.com/e484dd6aa22ea3c2e604812b44f8c60c.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/f333f225c9ccc78819120f3a888b2e7e.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":1019,"name":"旅行","actionUrl":"eyepetizer://tag/1019/?title=%E6%97%85%E8%A1%8C","adTrack":null,"desc":"世界这么大，总有你的目的地","bgPicture":"http://img.kaiyanapp.com/67b5aa7b489b33e7894e04d293e9b01f.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/67b5aa7b489b33e7894e04d293e9b01f.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0}],"consumption":{"collectionCount":74,"shareCount":15,"replyCount":7,"realCollectionCount":39},"resourceType":"video","slogan":null,"provider":{"name":"YouTube","alias":"youtube","icon":"http://ali-img.kaiyanapp.com/fa20228bc5b921e837156923a58713f6.png"},"category":"旅行","author":{"id":1313,"icon":"http://ali-img.kaiyanapp.com/385d659e77af15fa4be37fe638c75917.jpeg?imageMogr2/quality/60/format/jpg","name":"全球旅行视频精选","description":"在这个世界上的很多地方都有着美丽的景色，我们用相机用镜头记录下这一切。","link":"","latestReleaseTime":1697072408000,"videoNum":2861,"adTrack":null,"follow":{"itemType":"author","itemId":1313,"followed":false},"shield":{"itemType":"author","itemId":1313,"shielded":false},"approvedNotReadyVideoCount":0,"ifPgc":true,"recSort":0,"expert":false},"cover":{"feed":"http://ali-img.kaiyanapp.com/d31727efc8974b39e3849458b2321885.jpeg?imageMogr2/quality/60/format/jpg","detail":"http://ali-img.kaiyanapp.com/d31727efc8974b39e3849458b2321885.jpeg?imageMogr2/quality/60/format/jpg","blurred":"http://ali-img.kaiyanapp.com/b18a36656b3594d1f79c51b4cc932d27.jpeg?imageMogr2/quality/60/format/jpg","sharing":null,"homepage":"http://img.kaiyanapp.com/d31727efc8974b39e3849458b2321885.jpeg?imageView2/1/w/720/h/560/format/jpg/q/75|watermark/1/image/aHR0cDovL2ltZy5rYWl5YW5hcHAuY29tL2JsYWNrXzMwLnBuZw==/dissolve/100/gravity/Center/dx/0/dy/0|imageslim"},"playUrl":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320279&resourceType=video&editionType=default&source=aliyun&playUrlType=url_oss&udid=","thumbPlayUrl":null,"duration":84,"webUrl":{"raw":"http://www.eyepetizer.net/detail.html?vid=320279","forWeibo":"https://m.eyepetizer.net/u1/video-detail?video_id=320279&resource_type=video&utm_campaign=routine&utm_medium=share&utm_source=weibo&uid=0"},"releaseTime":1697072408000,"playInfo":[],"campaign":null,"waterMarks":null,"ad":false,"adTrack":[],"type":"NORMAL","titlePgc":"旅行 甲板上的惬意午后","descriptionPgc":"","remark":null,"ifLimitVideo":false,"searchWeight":0,"brandWebsiteInfo":null,"videoPosterBean":null,"idx":0,"shareAdTrack":null,"favoriteAdTrack":null,"webAdTrack":null,"date":1697072400000,"promotion":null,"label":null,"labelList":[],"descriptionEditor":"创作者乘船前往法国科西嘉岛，科西嘉岛位于地中海西部，他记录下了轮渡航行过程中的惬意午后。阳光使海面熠熠生辉，游客们都坐在甲板上享受着海风和阳光的温暖，海鸥飞来和人们玩耍，在夕阳的黄金时刻，一切都是那么融洽，只有海鸥和海风的声音。创作者使用 Sony FX3 拍摄，背景音乐是 The Night We Met - Lord Huron。 From Lohro","collected":false,"reallyCollected":false,"played":false,"subtitles":[],"lastViewTime":null,"playlists":null,"src":null,"recallSource":null,"recall_source":null},"trackingData":null,"tag":null,"id":0,"adIndex":-1},{"type":"video","data":{"dataType":"VideoBeanForClient","id":320276,"title":"神反转搞笑广告，意大利人的终极秘密","description":"英国人布莱恩很努力想给意大利女友的父母留下深刻印象。在餐桌上，布莱恩试图将饺子冒充成他自己的「家庭食谱」，并表示都是自己亲手包的，而女友和她的父亲觉得这个饺子的味道和折叠形状和她妈妈做的一模一样。原来，事实上是布莱恩和女友的妈妈都在用美味的 La Famiglia Rana 牌饺子冒充成自己亲手做的，于是他们约定好，一起保守这个秘密…… From La Famiglia Rana","library":"DAILY","tags":[{"id":748,"name":"这些广告超有梗","actionUrl":"eyepetizer://tag/748/?title=%E8%BF%99%E4%BA%9B%E5%B9%BF%E5%91%8A%E8%B6%85%E6%9C%89%E6%A2%97","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/9056413cfeffaf0c841d894390aa8e08.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/ff0f6d0ad5f4b6211a3f746aaaffd916.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"IMPORTANT","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":134,"name":"反转","actionUrl":"eyepetizer://tag/134/?title=%E5%8F%8D%E8%BD%AC","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/c4daeee307e8efca77e095faaf5a5ab9.png?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/c4daeee307e8efca77e095faaf5a5ab9.png?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":162,"name":"无厘头","actionUrl":"eyepetizer://tag/162/?title=%E6%97%A0%E5%8E%98%E5%A4%B4","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/3a5752f4b99d70debee8d099ef6a49a7.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/3a5752f4b99d70debee8d099ef6a49a7.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":146,"name":"666","actionUrl":"eyepetizer://tag/146/?title=666","adTrack":null,"desc":null,"bgPicture":"https://i.ytimg.com/vi/MKWWhf8RAV8/maxresdefault.jpg","headerImage":"http://img.kaiyanapp.com/522f7e51abb07a4a4438b82ee54174a4.jpeg?imageMogr2/quality/100","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":144,"name":"魔性","actionUrl":"eyepetizer://tag/144/?title=%E9%AD%94%E6%80%A7","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/f7a6f01d5425dcba563ef114501c169e.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/f7a6f01d5425dcba563ef114501c169e.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":140,"name":"搞笑","actionUrl":"eyepetizer://tag/140/?title=%E6%90%9E%E7%AC%91","adTrack":null,"desc":"哈哈哈哈哈哈哈哈","bgPicture":"http://img.kaiyanapp.com/f787d5053443499e8d787911cd8b3876.jpeg?imageMogr2/quality/100","headerImage":"http://img.kaiyanapp.com/f2b803d3c383bba5a3888b2709160b6e.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":16,"name":"广告","actionUrl":"eyepetizer://tag/16/?title=%E5%B9%BF%E5%91%8A","adTrack":null,"desc":"为广告人的精彩创意点赞","bgPicture":"http://img.kaiyanapp.com/e41e74fe73882b552de00d95d56748d2.jpeg?imageMogr2/quality/60","headerImage":"http://img.kaiyanapp.com/23d1a1dce9756535d314aed3cf9777a0.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0}],"consumption":{"collectionCount":109,"shareCount":45,"replyCount":5,"realCollectionCount":68},"resourceType":"video","slogan":"","provider":{"name":"投稿","alias":"PGC2","icon":""},"category":"广告","author":{"id":2162,"icon":"http://ali-img.kaiyanapp.com/98beab66d3885a139b54f21e91817c4f.jpeg","name":"全球广告精选","description":"我们精选世界最好看的广告，为全世界广告人的精彩创意点赞。","link":"","latestReleaseTime":1697072415000,"videoNum":3072,"adTrack":null,"follow":{"itemType":"author","itemId":2162,"followed":false},"shield":{"itemType":"author","itemId":2162,"shielded":false},"approvedNotReadyVideoCount":0,"ifPgc":true,"recSort":0,"expert":false},"cover":{"feed":"http://ali-img.kaiyanapp.com/65c2b96d4da187d559a54f9d42d9ae53.jpeg?imageMogr2/quality/60/format/jpg","detail":"http://ali-img.kaiyanapp.com/65c2b96d4da187d559a54f9d42d9ae53.jpeg?imageMogr2/quality/60/format/jpg","blurred":"http://ali-img.kaiyanapp.com/91db52e5d777d79c381f5c6bd22ee56b.jpeg?imageMogr2/quality/60/format/jpg","sharing":null,"homepage":"http://img.kaiyanapp.com/65c2b96d4da187d559a54f9d42d9ae53.jpeg?imageView2/1/w/720/h/560/format/jpg/q/75|watermark/1/image/aHR0cDovL2ltZy5rYWl5YW5hcHAuY29tL2JsYWNrXzMwLnBuZw==/dissolve/100/gravity/Center/dx/0/dy/0|imageslim"},"playUrl":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320276&resourceType=video&editionType=default&source=aliyun&playUrlType=url_oss&udid=","thumbPlayUrl":"","duration":60,"webUrl":{"raw":"http://www.eyepetizer.net/detail.html?vid=320276","forWeibo":"https://m.eyepetizer.net/u1/video-detail?video_id=320276&resource_type=video&utm_campaign=routine&utm_medium=share&utm_source=weibo&uid=0"},"releaseTime":1697072414000,"playInfo":[{"height":720,"width":1280,"urlList":[{"name":"aliyun","url":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320276&resourceType=video&editionType=high&source=aliyun&playUrlType=url_oss&udid=","size":7615558},{"name":"ucloud","url":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320276&resourceType=video&editionType=high&source=ucloud&playUrlType=url_oss&udid=","size":7615558}],"name":"高清","type":"high","url":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320276&resourceType=video&editionType=high&source=aliyun&playUrlType=url_oss&udid="}],"campaign":null,"waterMarks":null,"ad":false,"adTrack":[],"type":"NORMAL","titlePgc":"","descriptionPgc":"","remark":null,"ifLimitVideo":false,"searchWeight":0,"brandWebsiteInfo":null,"videoPosterBean":null,"idx":0,"shareAdTrack":null,"favoriteAdTrack":null,"webAdTrack":null,"date":1697072400000,"promotion":null,"label":null,"labelList":[],"descriptionEditor":"英国人布莱恩很努力想给意大利女友的父母留下深刻印象。在餐桌上，布莱恩试图将饺子冒充成他自己的「家庭食谱」，并表示都是自己亲手包的，而女友和她的父亲觉得这个饺子的味道和折叠形状和她妈妈做的一模一样。原来，事实上是布莱恩和女友的妈妈都在用美味的 La Famiglia Rana 牌饺子冒充成自己亲手做的，于是他们约定好，一起保守这个秘密…… From La Famiglia Rana","collected":false,"reallyCollected":false,"played":false,"subtitles":[],"lastViewTime":null,"playlists":null,"src":null,"recallSource":null,"recall_source":null},"trackingData":null,"tag":null,"id":0,"adIndex":-1},{"type":"video","data":{"dataType":"VideoBeanForClient","id":320309,"title":"全片在「打嗝」的广告，居然是为了公益","description":"两个孩子坐在床上，吃完一碗食物，其中一个孩子心满意足地打了个嗝。一系列空盘子和孩子们打嗝的镜头随之而来，形成一首打嗝的交响曲…… 对很多人来说，打嗝是很恶心的事，但对于加拿大世界宣明会来说则不然，打嗝声代表送餐成功，世界上少了一个挨饿的孩子。加拿大世界宣明会是一个全球救援、发展和宣传组织，与儿童、家庭及社区合作，通过解决贫困和不公正的根源来充分发挥他们的潜力。 From World Vision Canada","library":"DAILY","tags":[{"id":748,"name":"这些广告超有梗","actionUrl":"eyepetizer://tag/748/?title=%E8%BF%99%E4%BA%9B%E5%B9%BF%E5%91%8A%E8%B6%85%E6%9C%89%E6%A2%97","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/9056413cfeffaf0c841d894390aa8e08.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/ff0f6d0ad5f4b6211a3f746aaaffd916.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"IMPORTANT","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":138,"name":"催泪","actionUrl":"eyepetizer://tag/138/?title=%E5%82%AC%E6%B3%AA","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/7ba4f1351d788f6afe9ff3726f39e949.jpeg?imageMogr2/quality/100","headerImage":"http://img.kaiyanapp.com/75c01d50d8be90203f9aa131c227a7f3.jpeg?imageMogr2/quality/60","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":176,"name":"感人","actionUrl":"eyepetizer://tag/176/?title=%E6%84%9F%E4%BA%BA","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/8b4dbcea6462e9c54994a46c9670e8f0.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/8b4dbcea6462e9c54994a46c9670e8f0.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":152,"name":"童趣","actionUrl":"eyepetizer://tag/152/?title=%E7%AB%A5%E8%B6%A3","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/7c804af18adac2028b220651621bad87.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/7c804af18adac2028b220651621bad87.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":148,"name":"匠心","actionUrl":"eyepetizer://tag/148/?title=%E5%8C%A0%E5%BF%83","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/cf568288dc8087fa728308f2623b9527.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/cf568288dc8087fa728308f2623b9527.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":40,"name":"公益","actionUrl":"eyepetizer://tag/40/?title=%E5%85%AC%E7%9B%8A","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/7d875f63d28804d0635ce8b286e047c5.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/7d875f63d28804d0635ce8b286e047c5.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":16,"name":"广告","actionUrl":"eyepetizer://tag/16/?title=%E5%B9%BF%E5%91%8A","adTrack":null,"desc":"为广告人的精彩创意点赞","bgPicture":"http://img.kaiyanapp.com/e41e74fe73882b552de00d95d56748d2.jpeg?imageMogr2/quality/60","headerImage":"http://img.kaiyanapp.com/23d1a1dce9756535d314aed3cf9777a0.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0}],"consumption":{"collectionCount":41,"shareCount":34,"replyCount":5,"realCollectionCount":13},"resourceType":"video","slogan":"","provider":{"name":"YouTube","alias":"youtube","icon":"http://ali-img.kaiyanapp.com/fa20228bc5b921e837156923a58713f6.png"},"category":"广告","author":{"id":2162,"icon":"http://ali-img.kaiyanapp.com/98beab66d3885a139b54f21e91817c4f.jpeg","name":"全球广告精选","description":"我们精选世界最好看的广告，为全世界广告人的精彩创意点赞。","link":"","latestReleaseTime":1697072415000,"videoNum":3072,"adTrack":null,"follow":{"itemType":"author","itemId":2162,"followed":false},"shield":{"itemType":"author","itemId":2162,"shielded":false},"approvedNotReadyVideoCount":0,"ifPgc":true,"recSort":0,"expert":false},"cover":{"feed":"http://ali-img.kaiyanapp.com/836ddf74972aeb1d6f82bc01c693656b.jpeg?imageMogr2/quality/60/format/jpg","detail":"http://ali-img.kaiyanapp.com/836ddf74972aeb1d6f82bc01c693656b.jpeg?imageMogr2/quality/60/format/jpg","blurred":"http://ali-img.kaiyanapp.com/9c02af981b88ade07b8141e077bb519e.jpeg?imageMogr2/quality/60/format/jpg","sharing":null,"homepage":"http://img.kaiyanapp.com/836ddf74972aeb1d6f82bc01c693656b.jpeg?imageView2/1/w/720/h/560/format/jpg/q/75|watermark/1/image/aHR0cDovL2ltZy5rYWl5YW5hcHAuY29tL2JsYWNrXzMwLnBuZw==/dissolve/100/gravity/Center/dx/0/dy/0|imageslim"},"playUrl":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320309&resourceType=video&editionType=default&source=aliyun&playUrlType=url_oss&udid=","thumbPlayUrl":"","duration":31,"webUrl":{"raw":"http://www.eyepetizer.net/detail.html?vid=320309","forWeibo":"https://m.eyepetizer.net/u1/video-detail?video_id=320309&resource_type=video&utm_campaign=routine&utm_medium=share&utm_source=weibo&uid=0"},"releaseTime":1697072415000,"playInfo":[{"height":1080,"width":1920,"urlList":[{"name":"aliyun","url":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320309&resourceType=video&editionType=high&source=aliyun&playUrlType=url_oss&udid=","size":7078976},{"name":"ucloud","url":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320309&resourceType=video&editionType=high&source=ucloud&playUrlType=url_oss&udid=","size":7078976}],"name":"高清","type":"high","url":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320309&resourceType=video&editionType=high&source=aliyun&playUrlType=url_oss&udid="}],"campaign":null,"waterMarks":null,"ad":false,"adTrack":[],"type":"NORMAL","titlePgc":"","descriptionPgc":"","remark":"https://www.adsoftheworld.com/campaigns/burp","ifLimitVideo":false,"searchWeight":0,"brandWebsiteInfo":null,"videoPosterBean":null,"idx":0,"shareAdTrack":null,"favoriteAdTrack":null,"webAdTrack":null,"date":1697072400000,"promotion":null,"label":null,"labelList":[],"descriptionEditor":"两个孩子坐在床上，吃完一碗食物，其中一个孩子心满意足地打了个嗝。一系列空盘子和孩子们打嗝的镜头随之而来，形成一首打嗝的交响曲…… 对很多人来说，打嗝是很恶心的事，但对于加拿大世界宣明会来说则不然，打嗝声代表送餐成功，世界上少了一个挨饿的孩子。加拿大世界宣明会是一个全球救援、发展和宣传组织，与儿童、家庭及社区合作，通过解决贫困和不公正的根源来充分发挥他们的潜力。 From World Vision Canada","collected":false,"reallyCollected":false,"played":false,"subtitles":[],"lastViewTime":null,"playlists":null,"src":null,"recallSource":null,"recall_source":null},"trackingData":null,"tag":null,"id":0,"adIndex":-1},{"type":"video","data":{"dataType":"VideoBeanForClient","id":316798,"title":"获奖动画「纯净生活」，魔幻的度假危机","description":"四个有性格缺陷的朋友前往热带地区度假，但在旅行中却出了一些问题。创作者试图探索的主题是从美好的热带天堂度假后回到家的新奇感受。Pura vida 在西班牙语中意为纯净的生活，在哥斯达黎加，它是一个特殊的短语，能表示问候、谢谢、保重等各种，就像电影本身一样，意味着一切。创作者的个人风格显著，粗糙不稳定的线条和鲜艳色彩。该短片获得了加拿大短片电影节最佳动画短片、纽约动画电影节最佳原创设计奖项。 From Nata Metlukh","library":"DAILY","tags":[{"id":14,"name":"动画梦工厂","actionUrl":"eyepetizer://tag/14/?title=%E5%8A%A8%E7%94%BB%E6%A2%A6%E5%B7%A5%E5%8E%82","adTrack":null,"desc":"有趣的人永远不缺童心","bgPicture":"http://img.kaiyanapp.com/afb9e7d7f061d10ade5ebcb524dc8679.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/f9eae3e0321fa1e99a7b38641b5536a2.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"IMPORTANT","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":146,"name":"666","actionUrl":"eyepetizer://tag/146/?title=666","adTrack":null,"desc":null,"bgPicture":"https://i.ytimg.com/vi/MKWWhf8RAV8/maxresdefault.jpg","headerImage":"http://img.kaiyanapp.com/522f7e51abb07a4a4438b82ee54174a4.jpeg?imageMogr2/quality/100","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":144,"name":"魔性","actionUrl":"eyepetizer://tag/144/?title=%E9%AD%94%E6%80%A7","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/f7a6f01d5425dcba563ef114501c169e.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/f7a6f01d5425dcba563ef114501c169e.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":174,"name":"治愈","actionUrl":"eyepetizer://tag/174/?title=%E6%B2%BB%E6%84%88","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/5417e0d8f72d7bb3f1cd69eb75b0759e.jpeg?imageMogr2/quality/60","headerImage":"http://img.kaiyanapp.com/5417e0d8f72d7bb3f1cd69eb75b0759e.jpeg?imageMogr2/quality/60","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":112,"name":"友情","actionUrl":"eyepetizer://tag/112/?title=%E5%8F%8B%E6%83%85","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/d8de76d625b55fa4d435b58fd5081f53.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/d8de76d625b55fa4d435b58fd5081f53.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":150,"name":"青春","actionUrl":"eyepetizer://tag/150/?title=%E9%9D%92%E6%98%A5","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/34d33f611dbfe38e4d00cd4ab43212e7.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/58e3e0ec1e583a6debcc0f80d16c86fe.jpeg?imageMogr2/quality/100","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":148,"name":"匠心","actionUrl":"eyepetizer://tag/148/?title=%E5%8C%A0%E5%BF%83","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/cf568288dc8087fa728308f2623b9527.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/cf568288dc8087fa728308f2623b9527.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":1023,"name":"动画","actionUrl":"eyepetizer://tag/1023/?title=%E5%8A%A8%E7%94%BB","adTrack":null,"desc":"有趣的人永远不缺童心","bgPicture":"http://img.kaiyanapp.com/349cbd33cdf71fc74d5e9c7a00b444fd.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/208aa67386c045497389f015ae28dd29.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0}],"consumption":{"collectionCount":19,"shareCount":60,"replyCount":6,"realCollectionCount":13},"resourceType":"video","slogan":null,"provider":{"name":"Vimeo","alias":"vimeo","icon":"http://ali-img.kaiyanapp.com/c3ad630be461cbb081649c9e21d6cbe3.png"},"category":"动画","author":{"id":5329,"icon":"http://ali-img.kaiyanapp.com/6d8409b09b145ade2650168af7c64398.jpeg?imageMogr2/quality/60/format/jpg","name":"特别·版本 Special Edition","description":"全球最有趣、最劲爆的超新鲜短视频收纳站！","link":"","latestReleaseTime":1697072417000,"videoNum":225,"adTrack":null,"follow":{"itemType":"author","itemId":5329,"followed":false},"shield":{"itemType":"author","itemId":5329,"shielded":false},"approvedNotReadyVideoCount":0,"ifPgc":true,"recSort":0,"expert":false},"cover":{"feed":"http://ali-img.kaiyanapp.com/d19efc7fb56cd6598f0ec1d513c88bd7.jpeg?imageMogr2/quality/60/format/jpg","detail":"http://ali-img.kaiyanapp.com/d19efc7fb56cd6598f0ec1d513c88bd7.jpeg?imageMogr2/quality/60/format/jpg","blurred":"http://ali-img.kaiyanapp.com/f9768405ab05663904ff0ca01642bd69.jpeg?imageMogr2/quality/60/format/jpg","sharing":null,"homepage":"http://img.kaiyanapp.com/d19efc7fb56cd6598f0ec1d513c88bd7.jpeg?imageView2/1/w/720/h/560/format/jpg/q/75|watermark/1/image/aHR0cDovL2ltZy5rYWl5YW5hcHAuY29tL2JsYWNrXzMwLnBuZw==/dissolve/100/gravity/Center/dx/0/dy/0|imageslim"},"playUrl":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=316798&resourceType=video&editionType=default&source=aliyun&playUrlType=url_oss&udid=","thumbPlayUrl":null,"duration":575,"webUrl":{"raw":"http://www.eyepetizer.net/detail.html?vid=316798","forWeibo":"https://m.eyepetizer.net/u1/video-detail?video_id=316798&resource_type=video&utm_campaign=routine&utm_medium=share&utm_source=weibo&uid=0"},"releaseTime":1697072417000,"playInfo":[],"campaign":null,"waterMarks":null,"ad":false,"adTrack":[],"type":"NORMAL","titlePgc":"动画 纯净的生活","descriptionPgc":"","remark":"","ifLimitVideo":false,"searchWeight":0,"brandWebsiteInfo":null,"videoPosterBean":null,"idx":0,"shareAdTrack":null,"favoriteAdTrack":null,"webAdTrack":null,"date":1697072400000,"promotion":null,"label":null,"labelList":[],"descriptionEditor":"四个有性格缺陷的朋友前往热带地区度假，但在旅行中却出了一些问题。创作者试图探索的主题是从美好的热带天堂度假后回到家的新奇感受。Pura vida 在西班牙语中意为纯净的生活，在哥斯达黎加，它是一个特殊的短语，能表示问候、谢谢、保重等各种，就像电影本身一样，意味着一切。创作者的个人风格显著，粗糙不稳定的线条和鲜艳色彩。该短片获得了加拿大短片电影节最佳动画短片、纽约动画电影节最佳原创设计奖项。 From Nata Metlukh","collected":false,"reallyCollected":false,"played":false,"subtitles":[],"lastViewTime":null,"playlists":null,"src":null,"recallSource":null,"recall_source":null},"trackingData":null,"tag":null,"id":0,"adIndex":-1},{"type":"video","data":{"dataType":"VideoBeanForClient","id":320280,"title":"版本答案，更适合 Z 世代的三星耳机","description":"为了给挑剔的 Z 世代受众带来更高的音频体验，三星发布了「Feeling of Sound」系列的第四部广告，由著名美国音乐艺术家和制作人 Yaeji 担任主角。跟着三星一起，享受这场听觉盛宴吧！","library":"DAILY","tags":[{"id":748,"name":"这些广告超有梗","actionUrl":"eyepetizer://tag/748/?title=%E8%BF%99%E4%BA%9B%E5%B9%BF%E5%91%8A%E8%B6%85%E6%9C%89%E6%A2%97","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/9056413cfeffaf0c841d894390aa8e08.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/ff0f6d0ad5f4b6211a3f746aaaffd916.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"IMPORTANT","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":146,"name":"666","actionUrl":"eyepetizer://tag/146/?title=666","adTrack":null,"desc":null,"bgPicture":"https://i.ytimg.com/vi/MKWWhf8RAV8/maxresdefault.jpg","headerImage":"http://img.kaiyanapp.com/522f7e51abb07a4a4438b82ee54174a4.jpeg?imageMogr2/quality/100","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":200,"name":"酷炫","actionUrl":"eyepetizer://tag/200/?title=%E9%85%B7%E7%82%AB","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/71f39f985df512d0d9fb52b82737bcf5.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/71f39f985df512d0d9fb52b82737bcf5.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":204,"name":"精致","actionUrl":"eyepetizer://tag/204/?title=%E7%B2%BE%E8%87%B4","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/ee3a04688868510772ca7c30fdc7fce6.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/ee3a04688868510772ca7c30fdc7fce6.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":16,"name":"广告","actionUrl":"eyepetizer://tag/16/?title=%E5%B9%BF%E5%91%8A","adTrack":null,"desc":"为广告人的精彩创意点赞","bgPicture":"http://img.kaiyanapp.com/e41e74fe73882b552de00d95d56748d2.jpeg?imageMogr2/quality/60","headerImage":"http://img.kaiyanapp.com/23d1a1dce9756535d314aed3cf9777a0.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":2,"name":"创意","actionUrl":"eyepetizer://tag/2/?title=%E5%88%9B%E6%84%8F","adTrack":null,"desc":"技术与审美结合，探索视觉的无限可能","bgPicture":"http://img.kaiyanapp.com/1b457058cf2b317304ff9f70543c040d.png?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/fdefdb34cbe3d2ac9964d306febe9025.jpeg?imageMogr2/quality/100","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":1603,"name":"三星 Samsung","actionUrl":"eyepetizer://tag/1603/?title=%E4%B8%89%E6%98%9F%20Samsung","adTrack":null,"desc":"三星电子是三星集团旗下的子公司，韩国最大的消费电子产品及电子组件制造商，亦是全球最大的信息技术公司。","bgPicture":"http://img.kaiyanapp.com/39401fbccfebcc6af7a52b2759f33ac2.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/39401fbccfebcc6af7a52b2759f33ac2.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0}],"consumption":{"collectionCount":13,"shareCount":7,"replyCount":5,"realCollectionCount":6},"resourceType":"video","slogan":null,"provider":{"name":"YouTube","alias":"youtube","icon":"http://ali-img.kaiyanapp.com/fa20228bc5b921e837156923a58713f6.png"},"category":"广告","author":{"id":5476,"icon":"http://ali-img.kaiyanapp.com/39401fbccfebcc6af7a52b2759f33ac2.jpeg?imageMogr2/quality/60/format/jpg","name":"三星 Samsung 广告精选","description":"三星电子是三星集团旗下的子公司，韩国最大的消费电子产品及电子组件制造商，亦是全球最大的信息技术公司。","link":"","latestReleaseTime":1697072418000,"videoNum":2165,"adTrack":null,"follow":{"itemType":"author","itemId":5476,"followed":false},"shield":{"itemType":"author","itemId":5476,"shielded":false},"approvedNotReadyVideoCount":0,"ifPgc":true,"recSort":0,"expert":false},"cover":{"feed":"http://ali-img.kaiyanapp.com/39db5c8ad30e549a1d21448c736b5614.jpeg?imageMogr2/quality/60/format/jpg","detail":"http://ali-img.kaiyanapp.com/39db5c8ad30e549a1d21448c736b5614.jpeg?imageMogr2/quality/60/format/jpg","blurred":"http://ali-img.kaiyanapp.com/e479326ea0a49aad82b246f17a824c76.jpeg?imageMogr2/quality/60/format/jpg","sharing":null,"homepage":"http://img.kaiyanapp.com/39db5c8ad30e549a1d21448c736b5614.jpeg?imageView2/1/w/720/h/560/format/jpg/q/75|watermark/1/image/aHR0cDovL2ltZy5rYWl5YW5hcHAuY29tL2JsYWNrXzMwLnBuZw==/dissolve/100/gravity/Center/dx/0/dy/0|imageslim"},"playUrl":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320280&resourceType=video&editionType=default&source=aliyun&playUrlType=url_oss&udid=","thumbPlayUrl":null,"duration":76,"webUrl":{"raw":"http://www.eyepetizer.net/detail.html?vid=320280","forWeibo":"https://m.eyepetizer.net/u1/video-detail?video_id=320280&resource_type=video&utm_campaign=routine&utm_medium=share&utm_source=weibo&uid=0"},"releaseTime":1697072418000,"playInfo":[{"height":720,"width":1280,"urlList":[{"name":"aliyun","url":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320280&resourceType=video&editionType=high&source=aliyun&playUrlType=url_oss&udid=","size":8908913},{"name":"ucloud","url":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320280&resourceType=video&editionType=high&source=ucloud&playUrlType=url_oss&udid=","size":8908913}],"name":"高清","type":"high","url":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320280&resourceType=video&editionType=high&source=aliyun&playUrlType=url_oss&udid="}],"campaign":null,"waterMarks":null,"ad":false,"adTrack":[],"type":"NORMAL","titlePgc":"广告 三星","descriptionPgc":"","remark":"https://www.adsoftheworld.com/campaigns/feeling-of-sound","ifLimitVideo":false,"searchWeight":0,"brandWebsiteInfo":null,"videoPosterBean":null,"idx":0,"shareAdTrack":null,"favoriteAdTrack":null,"webAdTrack":null,"date":1697072400000,"promotion":null,"label":null,"labelList":[],"descriptionEditor":"为了给挑剔的 Z 世代受众带来更高的音频体验，三星发布了「Feeling of Sound」系列的第四部广告，由著名美国音乐艺术家和制作人 Yaeji 担任主角。跟着三星一起，享受这场听觉盛宴吧！","collected":false,"reallyCollected":false,"played":false,"subtitles":[],"lastViewTime":null,"playlists":null,"src":null,"recallSource":null,"recall_source":null},"trackingData":null,"tag":null,"id":0,"adIndex":-1},{"type":"video","data":{"dataType":"VideoBeanForClient","id":320192,"title":"这动手能力...大神用乐高搭建水上乐园","description":"乐高大神 Build it with Bricks 制作了一个可运行的全自动乐高水上乐园，该游乐设施使用 8 个大型动力功能电机，通过 2 个离心泵实现每小时 1800 升的实测出水量。该游乐设施的最大亮点是，从落水处到升降山的路线长度为 2.6 米，配有 2 辆游乐车。From Build it with Bricks","library":"DAILY","tags":[{"id":744,"name":"每日创意灵感","actionUrl":"eyepetizer://tag/744/?title=%E6%AF%8F%E6%97%A5%E5%88%9B%E6%84%8F%E7%81%B5%E6%84%9F","adTrack":null,"desc":"技术与审美结合，探索视觉的无限可能","bgPicture":"http://img.kaiyanapp.com/bc2479c09cd15cb93b69d82e5f21c3fc.png?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/bc2479c09cd15cb93b69d82e5f21c3fc.png?imageMogr2/quality/60/format/jpg","tagRecType":"IMPORTANT","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":200,"name":"酷炫","actionUrl":"eyepetizer://tag/200/?title=%E9%85%B7%E7%82%AB","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/71f39f985df512d0d9fb52b82737bcf5.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/71f39f985df512d0d9fb52b82737bcf5.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":172,"name":"什么鬼","actionUrl":"eyepetizer://tag/172/?title=%E4%BB%80%E4%B9%88%E9%AC%BC","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/e6b5568e865b26f3f84270e613955e59.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/e6b5568e865b26f3f84270e613955e59.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":204,"name":"精致","actionUrl":"eyepetizer://tag/204/?title=%E7%B2%BE%E8%87%B4","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/ee3a04688868510772ca7c30fdc7fce6.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/ee3a04688868510772ca7c30fdc7fce6.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":146,"name":"666","actionUrl":"eyepetizer://tag/146/?title=666","adTrack":null,"desc":null,"bgPicture":"https://i.ytimg.com/vi/MKWWhf8RAV8/maxresdefault.jpg","headerImage":"http://img.kaiyanapp.com/522f7e51abb07a4a4438b82ee54174a4.jpeg?imageMogr2/quality/100","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":148,"name":"匠心","actionUrl":"eyepetizer://tag/148/?title=%E5%8C%A0%E5%BF%83","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/cf568288dc8087fa728308f2623b9527.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/cf568288dc8087fa728308f2623b9527.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":2,"name":"创意","actionUrl":"eyepetizer://tag/2/?title=%E5%88%9B%E6%84%8F","adTrack":null,"desc":"技术与审美结合，探索视觉的无限可能","bgPicture":"http://img.kaiyanapp.com/1b457058cf2b317304ff9f70543c040d.png?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/fdefdb34cbe3d2ac9964d306febe9025.jpeg?imageMogr2/quality/100","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0}],"consumption":{"collectionCount":68,"shareCount":34,"replyCount":6,"realCollectionCount":68},"resourceType":"video","slogan":null,"provider":{"name":"YouTube","alias":"youtube","icon":"http://ali-img.kaiyanapp.com/fa20228bc5b921e837156923a58713f6.png"},"category":"创意","author":{"id":2161,"icon":"http://ali-img.kaiyanapp.com/f4a9aba1c6857ee0cefcdc5aee0a1fc9.png?imageMogr2/quality/60/format/jpg","name":"全球创意视频精选","description":"我们精选最有创意的视频，我们用技术与审美结合，探索视觉的无限可能。","link":"","latestReleaseTime":1697072420000,"videoNum":2004,"adTrack":null,"follow":{"itemType":"author","itemId":2161,"followed":false},"shield":{"itemType":"author","itemId":2161,"shielded":false},"approvedNotReadyVideoCount":0,"ifPgc":true,"recSort":0,"expert":false},"cover":{"feed":"http://ali-img.kaiyanapp.com/85714103cdd700b81185a31ec83da56c.png?imageMogr2/quality/60/format/jpg","detail":"http://ali-img.kaiyanapp.com/85714103cdd700b81185a31ec83da56c.png?imageMogr2/quality/60/format/jpg","blurred":"http://ali-img.kaiyanapp.com/e69235271adf06825c793d837c4f38e3.png?imageMogr2/quality/60/format/jpg","sharing":null,"homepage":"http://img.kaiyanapp.com/85714103cdd700b81185a31ec83da56c.png?imageView2/1/w/720/h/560/format/jpg/q/75|watermark/1/image/aHR0cDovL2ltZy5rYWl5YW5hcHAuY29tL2JsYWNrXzMwLnBuZw==/dissolve/100/gravity/Center/dx/0/dy/0|imageslim"},"playUrl":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320192&resourceType=video&editionType=default&source=aliyun&playUrlType=url_oss&udid=","thumbPlayUrl":null,"duration":395,"webUrl":{"raw":"http://www.eyepetizer.net/detail.html?vid=320192","forWeibo":"https://m.eyepetizer.net/u1/video-detail?video_id=320192&resource_type=video&utm_campaign=routine&utm_medium=share&utm_source=weibo&uid=0"},"releaseTime":1697072420000,"playInfo":[{"height":720,"width":1280,"urlList":[{"name":"aliyun","url":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320192&resourceType=video&editionType=high&source=aliyun&playUrlType=url_oss&udid=","size":56556172},{"name":"ucloud","url":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320192&resourceType=video&editionType=high&source=ucloud&playUrlType=url_oss&udid=","size":56556172}],"name":"高清","type":"high","url":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320192&resourceType=video&editionType=high&source=aliyun&playUrlType=url_oss&udid="}],"campaign":null,"waterMarks":null,"ad":false,"adTrack":[],"type":"NORMAL","titlePgc":"创意f 乐高","descriptionPgc":"","remark":null,"ifLimitVideo":false,"searchWeight":0,"brandWebsiteInfo":null,"videoPosterBean":null,"idx":0,"shareAdTrack":null,"favoriteAdTrack":null,"webAdTrack":null,"date":1697072400000,"promotion":null,"label":null,"labelList":[],"descriptionEditor":"乐高大神 Build it with Bricks 制作了一个可运行的全自动乐高水上乐园，该游乐设施使用 8 个大型动力功能电机，通过 2 个离心泵实现每小时 1800 升的实测出水量。该游乐设施的最大亮点是，从落水处到升降山的路线长度为 2.6 米，配有 2 辆游乐车。From Build it with Bricks","collected":false,"reallyCollected":false,"played":false,"subtitles":[],"lastViewTime":null,"playlists":null,"src":null,"recallSource":null,"recall_source":null},"trackingData":null,"tag":null,"id":0,"adIndex":-1},{"type":"video","data":{"dataType":"VideoBeanForClient","id":320292,"title":"360° 全屋透明的大胆住宅，屋顶造浴缸","description":"广东佛山沙水村，有一栋超级大胆的房子，路过的人都会忍不住停下来看几眼，它没有外墙，且 360 度透明，屋顶上还有一个大浴缸，更令人意外的是，屋主刘湛洪竟是一个 60 后。9 月，一条来到广东佛山，拜访了这个 60 后、90 后、00 后共居的「无墙之家」。","library":"DAILY","tags":[{"id":743,"name":"记录精选","actionUrl":"eyepetizer://tag/743/?title=%E8%AE%B0%E5%BD%95%E7%B2%BE%E9%80%89","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/a082f44b88e78daaf19fa4e1a2faaa5a.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/a082f44b88e78daaf19fa4e1a2faaa5a.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"IMPORTANT","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":172,"name":"什么鬼","actionUrl":"eyepetizer://tag/172/?title=%E4%BB%80%E4%B9%88%E9%AC%BC","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/e6b5568e865b26f3f84270e613955e59.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/e6b5568e865b26f3f84270e613955e59.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":148,"name":"匠心","actionUrl":"eyepetizer://tag/148/?title=%E5%8C%A0%E5%BF%83","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/cf568288dc8087fa728308f2623b9527.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/cf568288dc8087fa728308f2623b9527.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":146,"name":"666","actionUrl":"eyepetizer://tag/146/?title=666","adTrack":null,"desc":null,"bgPicture":"https://i.ytimg.com/vi/MKWWhf8RAV8/maxresdefault.jpg","headerImage":"http://img.kaiyanapp.com/522f7e51abb07a4a4438b82ee54174a4.jpeg?imageMogr2/quality/100","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":24,"name":"记录","actionUrl":"eyepetizer://tag/24/?title=%E8%AE%B0%E5%BD%95","adTrack":null,"desc":"告诉他们为什么与众不同","bgPicture":"http://img.kaiyanapp.com/c3984cad49455e01637347e0c8f6a37d.jpeg?imageMogr2/quality/100","headerImage":"http://img.kaiyanapp.com/fd76dab1411e07f0dcf45309720134f9.jpeg?imageMogr2/quality/100","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":666,"name":"生活","actionUrl":"eyepetizer://tag/666/?title=%E7%94%9F%E6%B4%BB","adTrack":null,"desc":"匠心、健康、生活感悟","bgPicture":"http://img.kaiyanapp.com/95ba262a92ac99db76794ca56233d5d1.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/06c71c30bca59ed5aed471e4ddfd2f6b.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":534,"name":"人文","actionUrl":"eyepetizer://tag/534/?title=%E4%BA%BA%E6%96%87","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/5d6ee9241a0e2196bc1754b35f6f15e5.jpeg?imageMogr2/quality/100","headerImage":"http://img.kaiyanapp.com/16b60131c2bc0885683ce7ee6ac75b52.jpeg?imageMogr2/quality/100","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0}],"consumption":{"collectionCount":35,"shareCount":11,"replyCount":1,"realCollectionCount":35},"resourceType":"video","slogan":null,"provider":{"name":"PGC","alias":"PGC","icon":""},"category":"生活","author":{"id":170,"icon":"http://ali-img.kaiyanapp.com/b1f252f2a97e014f6de7e65709c5eedd.png?imageMogr2/quality/60/format/jpg","name":"一条","description":"所有未在美中度过的生活，都是被浪费了。","link":"","latestReleaseTime":1697012338000,"videoNum":2270,"adTrack":null,"follow":{"itemType":"author","itemId":170,"followed":false},"shield":{"itemType":"author","itemId":170,"shielded":false},"approvedNotReadyVideoCount":0,"ifPgc":true,"recSort":0,"expert":false},"cover":{"feed":"http://ali-img.kaiyanapp.com/9340007f8a47d14960a855111ce98834.jpeg?imageMogr2/quality/60/format/jpg","detail":"http://ali-img.kaiyanapp.com/9340007f8a47d14960a855111ce98834.jpeg?imageMogr2/quality/60/format/jpg","blurred":"http://ali-img.kaiyanapp.com/c8459d6d6a01b740084f98d8657629b8.jpeg?imageMogr2/quality/60/format/jpg","sharing":null,"homepage":"http://img.kaiyanapp.com/9340007f8a47d14960a855111ce98834.jpeg?imageView2/1/w/720/h/560/format/jpg/q/75|watermark/1/image/aHR0cDovL2ltZy5rYWl5YW5hcHAuY29tL2JsYWNrXzMwLnBuZw==/dissolve/100/gravity/Center/dx/0/dy/0|imageslim"},"playUrl":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320292&resourceType=video&editionType=default&source=aliyun&playUrlType=url_oss&udid=","thumbPlayUrl":null,"duration":240,"webUrl":{"raw":"http://www.eyepetizer.net/detail.html?vid=320292","forWeibo":"https://m.eyepetizer.net/u1/video-detail?video_id=320292&resource_type=video&utm_campaign=routine&utm_medium=share&utm_source=weibo&uid=0"},"releaseTime":1697012338000,"playInfo":[],"campaign":null,"waterMarks":null,"ad":false,"adTrack":[],"type":"NORMAL","titlePgc":"360°全屋透明的大胆住宅，屋顶造浴缸","descriptionPgc":"广东佛山沙水村，有一栋“大胆”的房子，路过的人都会忍不住停下来看几眼，它没有外墙，且360度透明，屋顶上还有一个大浴缸，更令人意外的是，屋主刘湛洪竟是一个60后。9月，一条来到广东佛山，拜访了这个60后、90后、00后共居的“无墙之家”。\n","remark":"","ifLimitVideo":false,"searchWeight":0,"brandWebsiteInfo":null,"videoPosterBean":null,"idx":0,"shareAdTrack":null,"favoriteAdTrack":null,"webAdTrack":null,"date":1697072400000,"promotion":null,"label":null,"labelList":[],"descriptionEditor":"广东佛山沙水村，有一栋超级大胆的房子，路过的人都会忍不住停下来看几眼，它没有外墙，且 360 度透明，屋顶上还有一个大浴缸，更令人意外的是，屋主刘湛洪竟是一个 60 后。9 月，一条来到广东佛山，拜访了这个 60 后、90 后、00 后共居的「无墙之家」。","collected":false,"reallyCollected":false,"played":false,"subtitles":[],"lastViewTime":null,"playlists":null,"src":null,"recallSource":null,"recall_source":null},"trackingData":null,"tag":null,"id":0,"adIndex":-1},{"type":"video","data":{"dataType":"VideoBeanForClient","id":320073,"title":"职场潜规则！哈佛导师手把手教你升职","description":"由于种种原因，职场并不是一个公平竞争的环境。当你没有特权时，如何才能出人头地，获得梦寐以求的晋升？哈佛大学职业指导师 Gorick Ng 认为关键在于了解成功的潜规则。Ng 认为，低头只会让你走得更远。冉冉升起的新星与停滞不前者的区别在于他们所建立的关系、他们所产生的影响，以及他们对经理目标的明确理解，即使这些目标并没有被明确表达出来。From Big Think","library":"DAILY","tags":[{"id":48,"name":"盘点","actionUrl":"eyepetizer://tag/48/?title=%E7%9B%98%E7%82%B9","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/a6deee1ffa8ab1fe30c8af96075dca69.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/d0a0a82e073587f3c0b6bcce05476a70.jpeg?imageMogr2/quality/100","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":666,"name":"生活","actionUrl":"eyepetizer://tag/666/?title=%E7%94%9F%E6%B4%BB","adTrack":null,"desc":"匠心、健康、生活感悟","bgPicture":"http://img.kaiyanapp.com/95ba262a92ac99db76794ca56233d5d1.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/06c71c30bca59ed5aed471e4ddfd2f6b.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":702,"name":"人物","actionUrl":"eyepetizer://tag/702/?title=%E4%BA%BA%E7%89%A9","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/9101692746a60cd7360838bf394703c1.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/9101692746a60cd7360838bf394703c1.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":146,"name":"666","actionUrl":"eyepetizer://tag/146/?title=666","adTrack":null,"desc":null,"bgPicture":"https://i.ytimg.com/vi/MKWWhf8RAV8/maxresdefault.jpg","headerImage":"http://img.kaiyanapp.com/522f7e51abb07a4a4438b82ee54174a4.jpeg?imageMogr2/quality/100","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":148,"name":"匠心","actionUrl":"eyepetizer://tag/148/?title=%E5%8C%A0%E5%BF%83","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/cf568288dc8087fa728308f2623b9527.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/cf568288dc8087fa728308f2623b9527.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":1024,"name":"科技","actionUrl":"eyepetizer://tag/1024/?title=%E7%A7%91%E6%8A%80","adTrack":null,"desc":"新知识与一切先进生产力","bgPicture":"http://img.kaiyanapp.com/7e326064edc565ac6355921cfe4b3e46.png?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/810adad06df812462bb0e00501fa679c.png?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":1040,"name":"科普","actionUrl":"eyepetizer://tag/1040/?title=%E7%A7%91%E6%99%AE","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/86af95dab03ab8fac3342517e83b07bb.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/86af95dab03ab8fac3342517e83b07bb.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0}],"consumption":{"collectionCount":109,"shareCount":11,"replyCount":2,"realCollectionCount":41},"resourceType":"video","slogan":null,"provider":{"name":"YouTube","alias":"youtube","icon":"http://ali-img.kaiyanapp.com/fa20228bc5b921e837156923a58713f6.png"},"category":"科技","author":{"id":2171,"icon":"http://ali-img.kaiyanapp.com/0117b9108c7cff43700db8af5e24f2bf.jpeg","name":"开眼科技精选","description":"新知识与一切先进生产力","link":"","latestReleaseTime":1697072421000,"videoNum":492,"adTrack":null,"follow":{"itemType":"author","itemId":2171,"followed":false},"shield":{"itemType":"author","itemId":2171,"shielded":false},"approvedNotReadyVideoCount":0,"ifPgc":true,"recSort":0,"expert":false},"cover":{"feed":"http://ali-img.kaiyanapp.com/8b38bd8348c0a7998b678d47388f12bb.jpeg?imageMogr2/quality/60/format/jpg","detail":"http://ali-img.kaiyanapp.com/8b38bd8348c0a7998b678d47388f12bb.jpeg?imageMogr2/quality/60/format/jpg","blurred":"http://ali-img.kaiyanapp.com/2707999c82a131edcac3f60cbc4c2527.jpeg?imageMogr2/quality/60/format/jpg","sharing":null,"homepage":"http://img.kaiyanapp.com/8b38bd8348c0a7998b678d47388f12bb.jpeg?imageView2/1/w/720/h/560/format/jpg/q/75|watermark/1/image/aHR0cDovL2ltZy5rYWl5YW5hcHAuY29tL2JsYWNrXzMwLnBuZw==/dissolve/100/gravity/Center/dx/0/dy/0|imageslim"},"playUrl":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320073&resourceType=video&editionType=default&source=aliyun&playUrlType=url_oss&udid=","thumbPlayUrl":null,"duration":356,"webUrl":{"raw":"http://www.eyepetizer.net/detail.html?vid=320073","forWeibo":"https://m.eyepetizer.net/u1/video-detail?video_id=320073&resource_type=video&utm_campaign=routine&utm_medium=share&utm_source=weibo&uid=0"},"releaseTime":1697072421000,"playInfo":[{"height":720,"width":1280,"urlList":[{"name":"aliyun","url":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320073&resourceType=video&editionType=high&source=aliyun&playUrlType=url_oss&udid=","size":39171079},{"name":"ucloud","url":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320073&resourceType=video&editionType=high&source=ucloud&playUrlType=url_oss&udid=","size":39171079}],"name":"高清","type":"high","url":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320073&resourceType=video&editionType=high&source=aliyun&playUrlType=url_oss&udid="}],"campaign":null,"waterMarks":null,"ad":false,"adTrack":[],"type":"NORMAL","titlePgc":"科普f 如何升职","descriptionPgc":"","remark":null,"ifLimitVideo":false,"searchWeight":0,"brandWebsiteInfo":null,"videoPosterBean":null,"idx":0,"shareAdTrack":null,"favoriteAdTrack":null,"webAdTrack":null,"date":1697072400000,"promotion":null,"label":null,"labelList":[],"descriptionEditor":"由于种种原因，职场并不是一个公平竞争的环境。当你没有特权时，如何才能出人头地，获得梦寐以求的晋升？哈佛大学职业指导师 Gorick Ng 认为关键在于了解成功的潜规则。Ng 认为，低头只会让你走得更远。冉冉升起的新星与停滞不前者的区别在于他们所建立的关系、他们所产生的影响，以及他们对经理目标的明确理解，即使这些目标并没有被明确表达出来。From Big Think","collected":false,"reallyCollected":false,"played":false,"subtitles":[],"lastViewTime":null,"playlists":null,"src":null,"recallSource":null,"recall_source":null},"trackingData":null,"tag":null,"id":0,"adIndex":-1},{"type":"video","data":{"dataType":"VideoBeanForClient","id":320288,"title":"热单串烧，骚姆携乐团做客小桌音乐会","description":"Sam Smith 是一位英国歌手及词曲作家，2014 年 12 月，骚姆获 6 个格莱美奖提名，并赢得了其中的 4 个。本期视频中，骚姆带着他 11 人的合唱团和 2 位乐手做客了小桌音乐会，当整支乐团聚在一起表演，真是令人赏心悦目。","library":"DAILY","tags":[{"id":18,"name":"音乐电台","actionUrl":"eyepetizer://tag/18/?title=%E9%9F%B3%E4%B9%90%E7%94%B5%E5%8F%B0","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/70e1bedfdff53729402f1998788c3ee9.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/79dcc408692e7b9170ba4451c21a196d.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"IMPORTANT","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":204,"name":"精致","actionUrl":"eyepetizer://tag/204/?title=%E7%B2%BE%E8%87%B4","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/ee3a04688868510772ca7c30fdc7fce6.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/ee3a04688868510772ca7c30fdc7fce6.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":208,"name":"器乐","actionUrl":"eyepetizer://tag/208/?title=%E5%99%A8%E4%B9%90","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/f5b284ad6d9bd5812f7336983ed9e908.png?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/f5b284ad6d9bd5812f7336983ed9e908.png?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":146,"name":"666","actionUrl":"eyepetizer://tag/146/?title=666","adTrack":null,"desc":null,"bgPicture":"https://i.ytimg.com/vi/MKWWhf8RAV8/maxresdefault.jpg","headerImage":"http://img.kaiyanapp.com/522f7e51abb07a4a4438b82ee54174a4.jpeg?imageMogr2/quality/100","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":148,"name":"匠心","actionUrl":"eyepetizer://tag/148/?title=%E5%8C%A0%E5%BF%83","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/cf568288dc8087fa728308f2623b9527.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/cf568288dc8087fa728308f2623b9527.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":1018,"name":"音乐","actionUrl":"eyepetizer://tag/1018/?title=%E9%9F%B3%E4%B9%90","adTrack":null,"desc":"用眼睛就能「听」的艺术","bgPicture":"http://img.kaiyanapp.com/46b2ed7ccd3e241ff54a314faf2632b8.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/4f6643756d9ff5c41acdf7d0493055c4.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":2,"name":"创意","actionUrl":"eyepetizer://tag/2/?title=%E5%88%9B%E6%84%8F","adTrack":null,"desc":"技术与审美结合，探索视觉的无限可能","bgPicture":"http://img.kaiyanapp.com/1b457058cf2b317304ff9f70543c040d.png?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/fdefdb34cbe3d2ac9964d306febe9025.jpeg?imageMogr2/quality/100","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0}],"consumption":{"collectionCount":19,"shareCount":0,"replyCount":2,"realCollectionCount":0},"resourceType":"video","slogan":null,"provider":{"name":"YouTube","alias":"youtube","icon":"http://ali-img.kaiyanapp.com/fa20228bc5b921e837156923a58713f6.png"},"category":"音乐","author":{"id":6004,"icon":"http://ali-img.kaiyanapp.com/a69e88e9be8d928fae513c88b641625d.jpeg?imageMogr2/quality/60/format/jpg","name":"NPR Music","description":"NPR音乐是美国私人和公共资助的非营利性会员制媒体组织National Public Radio的一个项目","link":"","latestReleaseTime":1697072422000,"videoNum":6,"adTrack":null,"follow":{"itemType":"author","itemId":6004,"followed":false},"shield":{"itemType":"author","itemId":6004,"shielded":false},"approvedNotReadyVideoCount":0,"ifPgc":true,"recSort":0,"expert":false},"cover":{"feed":"http://ali-img.kaiyanapp.com/56d011b4f6b339a89396d9dc54624b89.jpeg?imageMogr2/quality/60/format/jpg","detail":"http://ali-img.kaiyanapp.com/56d011b4f6b339a89396d9dc54624b89.jpeg?imageMogr2/quality/60/format/jpg","blurred":"http://ali-img.kaiyanapp.com/4b992a082d0ddc510c1e332e81b1004e.jpeg?imageMogr2/quality/60/format/jpg","sharing":null,"homepage":"http://img.kaiyanapp.com/56d011b4f6b339a89396d9dc54624b89.jpeg?imageView2/1/w/720/h/560/format/jpg/q/75|watermark/1/image/aHR0cDovL2ltZy5rYWl5YW5hcHAuY29tL2JsYWNrXzMwLnBuZw==/dissolve/100/gravity/Center/dx/0/dy/0|imageslim"},"playUrl":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320288&resourceType=video&editionType=default&source=aliyun&playUrlType=url_oss&udid=","thumbPlayUrl":null,"duration":1247,"webUrl":{"raw":"http://www.eyepetizer.net/detail.html?vid=320288","forWeibo":"https://m.eyepetizer.net/u1/video-detail?video_id=320288&resource_type=video&utm_campaign=routine&utm_medium=share&utm_source=weibo&uid=0"},"releaseTime":1697072422000,"playInfo":[],"campaign":null,"waterMarks":null,"ad":false,"adTrack":[],"type":"NORMAL","titlePgc":"音乐","descriptionPgc":"","remark":null,"ifLimitVideo":false,"searchWeight":0,"brandWebsiteInfo":null,"videoPosterBean":null,"idx":0,"shareAdTrack":null,"favoriteAdTrack":null,"webAdTrack":null,"date":1697072400000,"promotion":null,"label":null,"labelList":[],"descriptionEditor":"Sam Smith 是一位英国歌手及词曲作家，2014 年 12 月，骚姆获 6 个格莱美奖提名，并赢得了其中的 4 个。本期视频中，骚姆带着他 11 人的合唱团和 2 位乐手做客了小桌音乐会，当整支乐团聚在一起表演，真是令人赏心悦目。","collected":false,"reallyCollected":false,"played":false,"subtitles":[],"lastViewTime":null,"playlists":null,"src":null,"recallSource":null,"recall_source":null},"trackingData":null,"tag":null,"id":0,"adIndex":-1},{"type":"video","data":{"dataType":"VideoBeanForClient","id":320175,"title":"情绪短片「斗争」，在两个我间反复拉扯","description":"由导演 Taylor MacDonald 执导的短片「Whatever Else I Know」故事讲述的是一位年轻女性发现自己正在与药物滥用、性欲以及爱情作斗争。在情绪和荒唐间反复拉扯，希望看完短片的你能找到期望中的自己。From Taylor MacDonald","library":"DAILY","tags":[{"id":1032,"name":"给你讲个好故事","actionUrl":"eyepetizer://tag/1032/?title=%E7%BB%99%E4%BD%A0%E8%AE%B2%E4%B8%AA%E5%A5%BD%E6%95%85%E4%BA%8B","adTrack":null,"desc":"每周末更新，关注听开眼给你讲故事。","bgPicture":"http://img.kaiyanapp.com/d471080a9de44e8fbaa4850887273332.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/33a2b832b7583dd9781f9fd40ad7617e.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"IMPORTANT","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":204,"name":"精致","actionUrl":"eyepetizer://tag/204/?title=%E7%B2%BE%E8%87%B4","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/ee3a04688868510772ca7c30fdc7fce6.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/ee3a04688868510772ca7c30fdc7fce6.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":666,"name":"生活","actionUrl":"eyepetizer://tag/666/?title=%E7%94%9F%E6%B4%BB","adTrack":null,"desc":"匠心、健康、生活感悟","bgPicture":"http://img.kaiyanapp.com/95ba262a92ac99db76794ca56233d5d1.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/06c71c30bca59ed5aed471e4ddfd2f6b.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":702,"name":"人物","actionUrl":"eyepetizer://tag/702/?title=%E4%BA%BA%E7%89%A9","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/9101692746a60cd7360838bf394703c1.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/9101692746a60cd7360838bf394703c1.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":146,"name":"666","actionUrl":"eyepetizer://tag/146/?title=666","adTrack":null,"desc":null,"bgPicture":"https://i.ytimg.com/vi/MKWWhf8RAV8/maxresdefault.jpg","headerImage":"http://img.kaiyanapp.com/522f7e51abb07a4a4438b82ee54174a4.jpeg?imageMogr2/quality/100","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":148,"name":"匠心","actionUrl":"eyepetizer://tag/148/?title=%E5%8C%A0%E5%BF%83","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/cf568288dc8087fa728308f2623b9527.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/cf568288dc8087fa728308f2623b9527.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":12,"name":"剧情","actionUrl":"eyepetizer://tag/12/?title=%E5%89%A7%E6%83%85","adTrack":null,"desc":"用一个好故事，描绘生活的不可思议","bgPicture":"http://img.kaiyanapp.com/945fa937f0955b31224314a4eeef59b8.jpeg?imageMogr2/quality/100","headerImage":"http://img.kaiyanapp.com/945fa937f0955b31224314a4eeef59b8.jpeg?imageMogr2/quality/100","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0}],"consumption":{"collectionCount":41,"shareCount":11,"replyCount":2,"realCollectionCount":27},"resourceType":"video","slogan":null,"provider":{"name":"Vimeo","alias":"vimeo","icon":"http://ali-img.kaiyanapp.com/c3ad630be461cbb081649c9e21d6cbe3.png"},"category":"剧情","author":{"id":2172,"icon":"http://ali-img.kaiyanapp.com/8581b06aa17c7dbe8970e4c27bbdbd98.png?imageMogr2/quality/60/format/jpg","name":"开眼剧情精选","description":"用一个好故事，描绘生活的不可思议","link":"","latestReleaseTime":1697072423000,"videoNum":1263,"adTrack":null,"follow":{"itemType":"author","itemId":2172,"followed":false},"shield":{"itemType":"author","itemId":2172,"shielded":false},"approvedNotReadyVideoCount":0,"ifPgc":true,"recSort":0,"expert":false},"cover":{"feed":"http://ali-img.kaiyanapp.com/eeb8f4da9a9db0f426283be3bb00d700.jpeg?imageMogr2/quality/60/format/jpg","detail":"http://ali-img.kaiyanapp.com/eeb8f4da9a9db0f426283be3bb00d700.jpeg?imageMogr2/quality/60/format/jpg","blurred":"http://ali-img.kaiyanapp.com/17af5f790669a304a60b9cf806210cdd.jpeg?imageMogr2/quality/60/format/jpg","sharing":null,"homepage":"http://img.kaiyanapp.com/eeb8f4da9a9db0f426283be3bb00d700.jpeg?imageView2/1/w/720/h/560/format/jpg/q/75|watermark/1/image/aHR0cDovL2ltZy5rYWl5YW5hcHAuY29tL2JsYWNrXzMwLnBuZw==/dissolve/100/gravity/Center/dx/0/dy/0|imageslim"},"playUrl":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320175&resourceType=video&editionType=default&source=aliyun&playUrlType=url_oss&udid=","thumbPlayUrl":null,"duration":425,"webUrl":{"raw":"http://www.eyepetizer.net/detail.html?vid=320175","forWeibo":"https://m.eyepetizer.net/u1/video-detail?video_id=320175&resource_type=video&utm_campaign=routine&utm_medium=share&utm_source=weibo&uid=0"},"releaseTime":1697072423000,"playInfo":[{"height":720,"width":1080,"urlList":[{"name":"aliyun","url":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320175&resourceType=video&editionType=high&source=aliyun&playUrlType=url_oss&udid=","size":36763826},{"name":"ucloud","url":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320175&resourceType=video&editionType=high&source=ucloud&playUrlType=url_oss&udid=","size":36763826}],"name":"高清","type":"high","url":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320175&resourceType=video&editionType=high&source=aliyun&playUrlType=url_oss&udid="}],"campaign":null,"waterMarks":null,"ad":false,"adTrack":[],"type":"NORMAL","titlePgc":"剧情f","descriptionPgc":"","remark":null,"ifLimitVideo":false,"searchWeight":0,"brandWebsiteInfo":null,"videoPosterBean":null,"idx":0,"shareAdTrack":null,"favoriteAdTrack":null,"webAdTrack":null,"date":1697072400000,"promotion":null,"label":null,"labelList":[],"descriptionEditor":"由导演 Taylor MacDonald 执导的短片「Whatever Else I Know」故事讲述的是一位年轻女性发现自己正在与药物滥用、性欲以及爱情作斗争。在情绪和荒唐间反复拉扯，希望看完短片的你能找到期望中的自己。From Taylor MacDonald","collected":false,"reallyCollected":false,"played":false,"subtitles":[],"lastViewTime":null,"playlists":null,"src":null,"recallSource":null,"recall_source":null},"trackingData":null,"tag":null,"id":0,"adIndex":-1}],"count":10}]
-/// nextPageUrl : "http://baobab.kaiyanapp.com/api/v2/feed?date=1696986000000&num=1"
-/// nextPublishTime : 1697158800000
+/// issueList : [{"releaseTime":1697158800000,"type":"morning","date":1697158800000,"publishTime":1697158800000,"itemList":[{"type":"video","data":{"dataType":"VideoBeanForClient","id":320080,"title":"传说中的浪漫！探索地球蓝泪「荧光海」","description":"人类为了解生物发光的努力已有数千年的历史，它是科学研究中最古老的领域之一，其中关于「荧光海」的秘密至今也难以捉摸。在本期「不为人知的地球」节目中，科考人员将与咸海的生物发光藻类一起下水，亲自体验并追问：究竟是什么让人们如此痴迷于这个难以捉摸的谜团？From PBS Terra","library":"DAILY","tags":[{"id":743,"name":"记录精选","actionUrl":"eyepetizer://tag/743/?title=%E8%AE%B0%E5%BD%95%E7%B2%BE%E9%80%89","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/a082f44b88e78daaf19fa4e1a2faaa5a.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/a082f44b88e78daaf19fa4e1a2faaa5a.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"IMPORTANT","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":192,"name":"迷幻","actionUrl":"eyepetizer://tag/192/?title=%E8%BF%B7%E5%B9%BB","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/b583ca556f865642edeca1a02e983fcc.jpeg?imageMogr2/quality/100","headerImage":"http://img.kaiyanapp.com/b583ca556f865642edeca1a02e983fcc.jpeg?imageMogr2/quality/100","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":52,"name":"风光大片","actionUrl":"eyepetizer://tag/52/?title=%E9%A3%8E%E5%85%89%E5%A4%A7%E7%89%87","adTrack":null,"desc":"","bgPicture":"http://img.kaiyanapp.com/e484dd6aa22ea3c2e604812b44f8c60c.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/f333f225c9ccc78819120f3a888b2e7e.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":202,"name":"唯美","actionUrl":"eyepetizer://tag/202/?title=%E5%94%AF%E7%BE%8E","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/965a0a74d0af871eb174b5c7def6fd6d.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/965a0a74d0af871eb174b5c7def6fd6d.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":146,"name":"666","actionUrl":"eyepetizer://tag/146/?title=666","adTrack":null,"desc":null,"bgPicture":"https://i.ytimg.com/vi/MKWWhf8RAV8/maxresdefault.jpg","headerImage":"http://img.kaiyanapp.com/522f7e51abb07a4a4438b82ee54174a4.jpeg?imageMogr2/quality/100","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":148,"name":"匠心","actionUrl":"eyepetizer://tag/148/?title=%E5%8C%A0%E5%BF%83","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/cf568288dc8087fa728308f2623b9527.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/cf568288dc8087fa728308f2623b9527.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":24,"name":"记录","actionUrl":"eyepetizer://tag/24/?title=%E8%AE%B0%E5%BD%95","adTrack":null,"desc":"告诉他们为什么与众不同","bgPicture":"http://img.kaiyanapp.com/c3984cad49455e01637347e0c8f6a37d.jpeg?imageMogr2/quality/100","headerImage":"http://img.kaiyanapp.com/fd76dab1411e07f0dcf45309720134f9.jpeg?imageMogr2/quality/100","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0}],"consumption":{"collectionCount":68,"shareCount":22,"replyCount":4,"realCollectionCount":13},"resourceType":"video","slogan":null,"provider":{"name":"YouTube","alias":"youtube","icon":"http://ali-img.kaiyanapp.com/fa20228bc5b921e837156923a58713f6.png"},"category":"记录","author":{"id":2166,"icon":"http://ali-img.kaiyanapp.com/a2fc6d32ac0b4f2842fb3d545d06f09b.jpeg","name":"开眼记录精选","description":"「每部电影都是一部纪录片」——比尔·尼科尔斯","link":"","latestReleaseTime":1697158822000,"videoNum":996,"adTrack":null,"follow":{"itemType":"author","itemId":2166,"followed":false},"shield":{"itemType":"author","itemId":2166,"shielded":false},"approvedNotReadyVideoCount":0,"ifPgc":true,"recSort":0,"expert":false},"cover":{"feed":"http://ali-img.kaiyanapp.com/9569076e1d2e2240c75df9d61b48a2c0.png?imageMogr2/quality/60/format/jpg","detail":"http://ali-img.kaiyanapp.com/9569076e1d2e2240c75df9d61b48a2c0.png?imageMogr2/quality/60/format/jpg","blurred":"http://ali-img.kaiyanapp.com/b568d55ad065ffc391e6e8f5849537e6.png?imageMogr2/quality/60/format/jpg","sharing":null,"homepage":"http://img.kaiyanapp.com/9569076e1d2e2240c75df9d61b48a2c0.png?imageView2/1/w/720/h/560/format/jpg/q/75|watermark/1/image/aHR0cDovL2ltZy5rYWl5YW5hcHAuY29tL2JsYWNrXzMwLnBuZw==/dissolve/100/gravity/Center/dx/0/dy/0|imageslim"},"playUrl":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320080&resourceType=video&editionType=default&source=aliyun&playUrlType=url_oss&udid=","thumbPlayUrl":null,"duration":506,"webUrl":{"raw":"http://www.eyepetizer.net/detail.html?vid=320080","forWeibo":"https://m.eyepetizer.net/u1/video-detail?video_id=320080&resource_type=video&utm_campaign=routine&utm_medium=share&utm_source=weibo&uid=0"},"releaseTime":1697158822000,"playInfo":[{"height":720,"width":1280,"urlList":[{"name":"aliyun","url":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320080&resourceType=video&editionType=high&source=aliyun&playUrlType=url_oss&udid=","size":51006996},{"name":"ucloud","url":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320080&resourceType=video&editionType=high&source=ucloud&playUrlType=url_oss&udid=","size":51006996}],"name":"高清","type":"high","url":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320080&resourceType=video&editionType=high&source=aliyun&playUrlType=url_oss&udid="}],"campaign":null,"waterMarks":null,"ad":false,"type":"NORMAL","titlePgc":"记录f 海洋","descriptionPgc":"","remark":null,"ifLimitVideo":false,"searchWeight":0,"brandWebsiteInfo":null,"videoPosterBean":null,"idx":0,"shareAdTrack":null,"favoriteAdTrack":null,"webAdTrack":null,"date":1697158800000,"promotion":null,"label":null,"descriptionEditor":"人类为了解生物发光的努力已有数千年的历史，它是科学研究中最古老的领域之一，其中关于「荧光海」的秘密至今也难以捉摸。在本期「不为人知的地球」节目中，科考人员将与咸海的生物发光藻类一起下水，亲自体验并追问：究竟是什么让人们如此痴迷于这个难以捉摸的谜团？From PBS Terra","collected":false,"reallyCollected":false,"played":false,"lastViewTime":null,"playlists":null,"src":null,"recallSource":null,"recall_source":null},"trackingData":null,"tag":null,"id":0,"adIndex":-1}],"count":10}]
+/// nextPageUrl : "http://baobab.kaiyanapp.com/api/v2/feed?date=1697072400000&num=1"
+/// nextPublishTime : 1697245200000
 /// newestIssueType : "morning"
 /// dialog : null
 
@@ -66,11 +66,11 @@ FeedBean copyWith({  List<IssueList>? issueList,
 
 }
 
-/// releaseTime : 1697072400000
+/// releaseTime : 1697158800000
 /// type : "morning"
-/// date : 1697072400000
-/// publishTime : 1697072400000
-/// itemList : [{"type":"banner2","data":{"dataType":"Banner","id":0,"title":"","description":"","image":"http://img.kaiyanapp.com/eef24aa10ab6cf17b5a512943ec22053.jpeg?imageMogr2/quality/60/format/jpg","actionUrl":"","adTrack":null,"shade":false,"label":null,"labelList":null,"header":null,"autoPlay":false},"trackingData":null,"tag":null,"id":0,"adIndex":-1},{"type":"video","data":{"dataType":"VideoBeanForClient","id":320279,"title":"坐上轮渡，去追一次甲板上的惬意黄昏","description":"创作者乘船前往法国科西嘉岛，科西嘉岛位于地中海西部，他记录下了轮渡航行过程中的惬意午后。阳光使海面熠熠生辉，游客们都坐在甲板上享受着海风和阳光的温暖，海鸥飞来和人们玩耍，在夕阳的黄金时刻，一切都是那么融洽，只有海鸥和海风的声音。创作者使用 Sony FX3 拍摄，背景音乐是 The Night We Met - Lord Huron。 From Lohro","library":"DAILY","tags":[{"id":10,"name":"跟着开眼看世界","actionUrl":"eyepetizer://tag/10/?title=%E8%B7%9F%E7%9D%80%E5%BC%80%E7%9C%BC%E7%9C%8B%E4%B8%96%E7%95%8C","adTrack":null,"desc":"去你想去的地方，发现世界的美","bgPicture":"http://img.kaiyanapp.com/7ea328a893aa1f092b9328a53494a267.png?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/50dab5468ecd2dbe5eb99dab5d608a0a.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"IMPORTANT","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":14},{"id":202,"name":"唯美","actionUrl":"eyepetizer://tag/202/?title=%E5%94%AF%E7%BE%8E","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/965a0a74d0af871eb174b5c7def6fd6d.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/965a0a74d0af871eb174b5c7def6fd6d.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":142,"name":"浪漫","actionUrl":"eyepetizer://tag/142/?title=%E6%B5%AA%E6%BC%AB","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/460ed0b9e2912a5a0f64e4ede5e8159c.jpeg?imageMogr2/quality/100","headerImage":"http://img.kaiyanapp.com/775357709cbbb780e2544f28e7a5f2b2.jpeg?imageMogr2/quality/100","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":1159,"name":"胶片风","actionUrl":"eyepetizer://tag/1159/?title=%E8%83%B6%E7%89%87%E9%A3%8E","adTrack":null,"desc":"让定格记忆，变得更有味道","bgPicture":"http://img.kaiyanapp.com/b5df2f1f634844c7955b6a29bde7cb01.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/b5df2f1f634844c7955b6a29bde7cb01.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":true,"newestEndTime":1586876401000,"communityIndex":11},{"id":148,"name":"匠心","actionUrl":"eyepetizer://tag/148/?title=%E5%8C%A0%E5%BF%83","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/cf568288dc8087fa728308f2623b9527.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/cf568288dc8087fa728308f2623b9527.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":52,"name":"风光大片","actionUrl":"eyepetizer://tag/52/?title=%E9%A3%8E%E5%85%89%E5%A4%A7%E7%89%87","adTrack":null,"desc":"","bgPicture":"http://img.kaiyanapp.com/e484dd6aa22ea3c2e604812b44f8c60c.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/f333f225c9ccc78819120f3a888b2e7e.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":1019,"name":"旅行","actionUrl":"eyepetizer://tag/1019/?title=%E6%97%85%E8%A1%8C","adTrack":null,"desc":"世界这么大，总有你的目的地","bgPicture":"http://img.kaiyanapp.com/67b5aa7b489b33e7894e04d293e9b01f.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/67b5aa7b489b33e7894e04d293e9b01f.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0}],"consumption":{"collectionCount":74,"shareCount":15,"replyCount":7,"realCollectionCount":39},"resourceType":"video","slogan":null,"provider":{"name":"YouTube","alias":"youtube","icon":"http://ali-img.kaiyanapp.com/fa20228bc5b921e837156923a58713f6.png"},"category":"旅行","author":{"id":1313,"icon":"http://ali-img.kaiyanapp.com/385d659e77af15fa4be37fe638c75917.jpeg?imageMogr2/quality/60/format/jpg","name":"全球旅行视频精选","description":"在这个世界上的很多地方都有着美丽的景色，我们用相机用镜头记录下这一切。","link":"","latestReleaseTime":1697072408000,"videoNum":2861,"adTrack":null,"follow":{"itemType":"author","itemId":1313,"followed":false},"shield":{"itemType":"author","itemId":1313,"shielded":false},"approvedNotReadyVideoCount":0,"ifPgc":true,"recSort":0,"expert":false},"cover":{"feed":"http://ali-img.kaiyanapp.com/d31727efc8974b39e3849458b2321885.jpeg?imageMogr2/quality/60/format/jpg","detail":"http://ali-img.kaiyanapp.com/d31727efc8974b39e3849458b2321885.jpeg?imageMogr2/quality/60/format/jpg","blurred":"http://ali-img.kaiyanapp.com/b18a36656b3594d1f79c51b4cc932d27.jpeg?imageMogr2/quality/60/format/jpg","sharing":null,"homepage":"http://img.kaiyanapp.com/d31727efc8974b39e3849458b2321885.jpeg?imageView2/1/w/720/h/560/format/jpg/q/75|watermark/1/image/aHR0cDovL2ltZy5rYWl5YW5hcHAuY29tL2JsYWNrXzMwLnBuZw==/dissolve/100/gravity/Center/dx/0/dy/0|imageslim"},"playUrl":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320279&resourceType=video&editionType=default&source=aliyun&playUrlType=url_oss&udid=","thumbPlayUrl":null,"duration":84,"webUrl":{"raw":"http://www.eyepetizer.net/detail.html?vid=320279","forWeibo":"https://m.eyepetizer.net/u1/video-detail?video_id=320279&resource_type=video&utm_campaign=routine&utm_medium=share&utm_source=weibo&uid=0"},"releaseTime":1697072408000,"playInfo":[],"campaign":null,"waterMarks":null,"ad":false,"adTrack":[],"type":"NORMAL","titlePgc":"旅行 甲板上的惬意午后","descriptionPgc":"","remark":null,"ifLimitVideo":false,"searchWeight":0,"brandWebsiteInfo":null,"videoPosterBean":null,"idx":0,"shareAdTrack":null,"favoriteAdTrack":null,"webAdTrack":null,"date":1697072400000,"promotion":null,"label":null,"labelList":[],"descriptionEditor":"创作者乘船前往法国科西嘉岛，科西嘉岛位于地中海西部，他记录下了轮渡航行过程中的惬意午后。阳光使海面熠熠生辉，游客们都坐在甲板上享受着海风和阳光的温暖，海鸥飞来和人们玩耍，在夕阳的黄金时刻，一切都是那么融洽，只有海鸥和海风的声音。创作者使用 Sony FX3 拍摄，背景音乐是 The Night We Met - Lord Huron。 From Lohro","collected":false,"reallyCollected":false,"played":false,"subtitles":[],"lastViewTime":null,"playlists":null,"src":null,"recallSource":null,"recall_source":null},"trackingData":null,"tag":null,"id":0,"adIndex":-1},{"type":"video","data":{"dataType":"VideoBeanForClient","id":320276,"title":"神反转搞笑广告，意大利人的终极秘密","description":"英国人布莱恩很努力想给意大利女友的父母留下深刻印象。在餐桌上，布莱恩试图将饺子冒充成他自己的「家庭食谱」，并表示都是自己亲手包的，而女友和她的父亲觉得这个饺子的味道和折叠形状和她妈妈做的一模一样。原来，事实上是布莱恩和女友的妈妈都在用美味的 La Famiglia Rana 牌饺子冒充成自己亲手做的，于是他们约定好，一起保守这个秘密…… From La Famiglia Rana","library":"DAILY","tags":[{"id":748,"name":"这些广告超有梗","actionUrl":"eyepetizer://tag/748/?title=%E8%BF%99%E4%BA%9B%E5%B9%BF%E5%91%8A%E8%B6%85%E6%9C%89%E6%A2%97","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/9056413cfeffaf0c841d894390aa8e08.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/ff0f6d0ad5f4b6211a3f746aaaffd916.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"IMPORTANT","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":134,"name":"反转","actionUrl":"eyepetizer://tag/134/?title=%E5%8F%8D%E8%BD%AC","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/c4daeee307e8efca77e095faaf5a5ab9.png?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/c4daeee307e8efca77e095faaf5a5ab9.png?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":162,"name":"无厘头","actionUrl":"eyepetizer://tag/162/?title=%E6%97%A0%E5%8E%98%E5%A4%B4","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/3a5752f4b99d70debee8d099ef6a49a7.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/3a5752f4b99d70debee8d099ef6a49a7.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":146,"name":"666","actionUrl":"eyepetizer://tag/146/?title=666","adTrack":null,"desc":null,"bgPicture":"https://i.ytimg.com/vi/MKWWhf8RAV8/maxresdefault.jpg","headerImage":"http://img.kaiyanapp.com/522f7e51abb07a4a4438b82ee54174a4.jpeg?imageMogr2/quality/100","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":144,"name":"魔性","actionUrl":"eyepetizer://tag/144/?title=%E9%AD%94%E6%80%A7","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/f7a6f01d5425dcba563ef114501c169e.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/f7a6f01d5425dcba563ef114501c169e.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":140,"name":"搞笑","actionUrl":"eyepetizer://tag/140/?title=%E6%90%9E%E7%AC%91","adTrack":null,"desc":"哈哈哈哈哈哈哈哈","bgPicture":"http://img.kaiyanapp.com/f787d5053443499e8d787911cd8b3876.jpeg?imageMogr2/quality/100","headerImage":"http://img.kaiyanapp.com/f2b803d3c383bba5a3888b2709160b6e.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":16,"name":"广告","actionUrl":"eyepetizer://tag/16/?title=%E5%B9%BF%E5%91%8A","adTrack":null,"desc":"为广告人的精彩创意点赞","bgPicture":"http://img.kaiyanapp.com/e41e74fe73882b552de00d95d56748d2.jpeg?imageMogr2/quality/60","headerImage":"http://img.kaiyanapp.com/23d1a1dce9756535d314aed3cf9777a0.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0}],"consumption":{"collectionCount":109,"shareCount":45,"replyCount":5,"realCollectionCount":68},"resourceType":"video","slogan":"","provider":{"name":"投稿","alias":"PGC2","icon":""},"category":"广告","author":{"id":2162,"icon":"http://ali-img.kaiyanapp.com/98beab66d3885a139b54f21e91817c4f.jpeg","name":"全球广告精选","description":"我们精选世界最好看的广告，为全世界广告人的精彩创意点赞。","link":"","latestReleaseTime":1697072415000,"videoNum":3072,"adTrack":null,"follow":{"itemType":"author","itemId":2162,"followed":false},"shield":{"itemType":"author","itemId":2162,"shielded":false},"approvedNotReadyVideoCount":0,"ifPgc":true,"recSort":0,"expert":false},"cover":{"feed":"http://ali-img.kaiyanapp.com/65c2b96d4da187d559a54f9d42d9ae53.jpeg?imageMogr2/quality/60/format/jpg","detail":"http://ali-img.kaiyanapp.com/65c2b96d4da187d559a54f9d42d9ae53.jpeg?imageMogr2/quality/60/format/jpg","blurred":"http://ali-img.kaiyanapp.com/91db52e5d777d79c381f5c6bd22ee56b.jpeg?imageMogr2/quality/60/format/jpg","sharing":null,"homepage":"http://img.kaiyanapp.com/65c2b96d4da187d559a54f9d42d9ae53.jpeg?imageView2/1/w/720/h/560/format/jpg/q/75|watermark/1/image/aHR0cDovL2ltZy5rYWl5YW5hcHAuY29tL2JsYWNrXzMwLnBuZw==/dissolve/100/gravity/Center/dx/0/dy/0|imageslim"},"playUrl":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320276&resourceType=video&editionType=default&source=aliyun&playUrlType=url_oss&udid=","thumbPlayUrl":"","duration":60,"webUrl":{"raw":"http://www.eyepetizer.net/detail.html?vid=320276","forWeibo":"https://m.eyepetizer.net/u1/video-detail?video_id=320276&resource_type=video&utm_campaign=routine&utm_medium=share&utm_source=weibo&uid=0"},"releaseTime":1697072414000,"playInfo":[{"height":720,"width":1280,"urlList":[{"name":"aliyun","url":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320276&resourceType=video&editionType=high&source=aliyun&playUrlType=url_oss&udid=","size":7615558},{"name":"ucloud","url":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320276&resourceType=video&editionType=high&source=ucloud&playUrlType=url_oss&udid=","size":7615558}],"name":"高清","type":"high","url":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320276&resourceType=video&editionType=high&source=aliyun&playUrlType=url_oss&udid="}],"campaign":null,"waterMarks":null,"ad":false,"adTrack":[],"type":"NORMAL","titlePgc":"","descriptionPgc":"","remark":null,"ifLimitVideo":false,"searchWeight":0,"brandWebsiteInfo":null,"videoPosterBean":null,"idx":0,"shareAdTrack":null,"favoriteAdTrack":null,"webAdTrack":null,"date":1697072400000,"promotion":null,"label":null,"labelList":[],"descriptionEditor":"英国人布莱恩很努力想给意大利女友的父母留下深刻印象。在餐桌上，布莱恩试图将饺子冒充成他自己的「家庭食谱」，并表示都是自己亲手包的，而女友和她的父亲觉得这个饺子的味道和折叠形状和她妈妈做的一模一样。原来，事实上是布莱恩和女友的妈妈都在用美味的 La Famiglia Rana 牌饺子冒充成自己亲手做的，于是他们约定好，一起保守这个秘密…… From La Famiglia Rana","collected":false,"reallyCollected":false,"played":false,"subtitles":[],"lastViewTime":null,"playlists":null,"src":null,"recallSource":null,"recall_source":null},"trackingData":null,"tag":null,"id":0,"adIndex":-1},{"type":"video","data":{"dataType":"VideoBeanForClient","id":320309,"title":"全片在「打嗝」的广告，居然是为了公益","description":"两个孩子坐在床上，吃完一碗食物，其中一个孩子心满意足地打了个嗝。一系列空盘子和孩子们打嗝的镜头随之而来，形成一首打嗝的交响曲…… 对很多人来说，打嗝是很恶心的事，但对于加拿大世界宣明会来说则不然，打嗝声代表送餐成功，世界上少了一个挨饿的孩子。加拿大世界宣明会是一个全球救援、发展和宣传组织，与儿童、家庭及社区合作，通过解决贫困和不公正的根源来充分发挥他们的潜力。 From World Vision Canada","library":"DAILY","tags":[{"id":748,"name":"这些广告超有梗","actionUrl":"eyepetizer://tag/748/?title=%E8%BF%99%E4%BA%9B%E5%B9%BF%E5%91%8A%E8%B6%85%E6%9C%89%E6%A2%97","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/9056413cfeffaf0c841d894390aa8e08.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/ff0f6d0ad5f4b6211a3f746aaaffd916.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"IMPORTANT","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":138,"name":"催泪","actionUrl":"eyepetizer://tag/138/?title=%E5%82%AC%E6%B3%AA","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/7ba4f1351d788f6afe9ff3726f39e949.jpeg?imageMogr2/quality/100","headerImage":"http://img.kaiyanapp.com/75c01d50d8be90203f9aa131c227a7f3.jpeg?imageMogr2/quality/60","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":176,"name":"感人","actionUrl":"eyepetizer://tag/176/?title=%E6%84%9F%E4%BA%BA","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/8b4dbcea6462e9c54994a46c9670e8f0.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/8b4dbcea6462e9c54994a46c9670e8f0.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":152,"name":"童趣","actionUrl":"eyepetizer://tag/152/?title=%E7%AB%A5%E8%B6%A3","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/7c804af18adac2028b220651621bad87.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/7c804af18adac2028b220651621bad87.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":148,"name":"匠心","actionUrl":"eyepetizer://tag/148/?title=%E5%8C%A0%E5%BF%83","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/cf568288dc8087fa728308f2623b9527.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/cf568288dc8087fa728308f2623b9527.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":40,"name":"公益","actionUrl":"eyepetizer://tag/40/?title=%E5%85%AC%E7%9B%8A","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/7d875f63d28804d0635ce8b286e047c5.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/7d875f63d28804d0635ce8b286e047c5.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":16,"name":"广告","actionUrl":"eyepetizer://tag/16/?title=%E5%B9%BF%E5%91%8A","adTrack":null,"desc":"为广告人的精彩创意点赞","bgPicture":"http://img.kaiyanapp.com/e41e74fe73882b552de00d95d56748d2.jpeg?imageMogr2/quality/60","headerImage":"http://img.kaiyanapp.com/23d1a1dce9756535d314aed3cf9777a0.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0}],"consumption":{"collectionCount":41,"shareCount":34,"replyCount":5,"realCollectionCount":13},"resourceType":"video","slogan":"","provider":{"name":"YouTube","alias":"youtube","icon":"http://ali-img.kaiyanapp.com/fa20228bc5b921e837156923a58713f6.png"},"category":"广告","author":{"id":2162,"icon":"http://ali-img.kaiyanapp.com/98beab66d3885a139b54f21e91817c4f.jpeg","name":"全球广告精选","description":"我们精选世界最好看的广告，为全世界广告人的精彩创意点赞。","link":"","latestReleaseTime":1697072415000,"videoNum":3072,"adTrack":null,"follow":{"itemType":"author","itemId":2162,"followed":false},"shield":{"itemType":"author","itemId":2162,"shielded":false},"approvedNotReadyVideoCount":0,"ifPgc":true,"recSort":0,"expert":false},"cover":{"feed":"http://ali-img.kaiyanapp.com/836ddf74972aeb1d6f82bc01c693656b.jpeg?imageMogr2/quality/60/format/jpg","detail":"http://ali-img.kaiyanapp.com/836ddf74972aeb1d6f82bc01c693656b.jpeg?imageMogr2/quality/60/format/jpg","blurred":"http://ali-img.kaiyanapp.com/9c02af981b88ade07b8141e077bb519e.jpeg?imageMogr2/quality/60/format/jpg","sharing":null,"homepage":"http://img.kaiyanapp.com/836ddf74972aeb1d6f82bc01c693656b.jpeg?imageView2/1/w/720/h/560/format/jpg/q/75|watermark/1/image/aHR0cDovL2ltZy5rYWl5YW5hcHAuY29tL2JsYWNrXzMwLnBuZw==/dissolve/100/gravity/Center/dx/0/dy/0|imageslim"},"playUrl":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320309&resourceType=video&editionType=default&source=aliyun&playUrlType=url_oss&udid=","thumbPlayUrl":"","duration":31,"webUrl":{"raw":"http://www.eyepetizer.net/detail.html?vid=320309","forWeibo":"https://m.eyepetizer.net/u1/video-detail?video_id=320309&resource_type=video&utm_campaign=routine&utm_medium=share&utm_source=weibo&uid=0"},"releaseTime":1697072415000,"playInfo":[{"height":1080,"width":1920,"urlList":[{"name":"aliyun","url":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320309&resourceType=video&editionType=high&source=aliyun&playUrlType=url_oss&udid=","size":7078976},{"name":"ucloud","url":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320309&resourceType=video&editionType=high&source=ucloud&playUrlType=url_oss&udid=","size":7078976}],"name":"高清","type":"high","url":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320309&resourceType=video&editionType=high&source=aliyun&playUrlType=url_oss&udid="}],"campaign":null,"waterMarks":null,"ad":false,"adTrack":[],"type":"NORMAL","titlePgc":"","descriptionPgc":"","remark":"https://www.adsoftheworld.com/campaigns/burp","ifLimitVideo":false,"searchWeight":0,"brandWebsiteInfo":null,"videoPosterBean":null,"idx":0,"shareAdTrack":null,"favoriteAdTrack":null,"webAdTrack":null,"date":1697072400000,"promotion":null,"label":null,"labelList":[],"descriptionEditor":"两个孩子坐在床上，吃完一碗食物，其中一个孩子心满意足地打了个嗝。一系列空盘子和孩子们打嗝的镜头随之而来，形成一首打嗝的交响曲…… 对很多人来说，打嗝是很恶心的事，但对于加拿大世界宣明会来说则不然，打嗝声代表送餐成功，世界上少了一个挨饿的孩子。加拿大世界宣明会是一个全球救援、发展和宣传组织，与儿童、家庭及社区合作，通过解决贫困和不公正的根源来充分发挥他们的潜力。 From World Vision Canada","collected":false,"reallyCollected":false,"played":false,"subtitles":[],"lastViewTime":null,"playlists":null,"src":null,"recallSource":null,"recall_source":null},"trackingData":null,"tag":null,"id":0,"adIndex":-1},{"type":"video","data":{"dataType":"VideoBeanForClient","id":316798,"title":"获奖动画「纯净生活」，魔幻的度假危机","description":"四个有性格缺陷的朋友前往热带地区度假，但在旅行中却出了一些问题。创作者试图探索的主题是从美好的热带天堂度假后回到家的新奇感受。Pura vida 在西班牙语中意为纯净的生活，在哥斯达黎加，它是一个特殊的短语，能表示问候、谢谢、保重等各种，就像电影本身一样，意味着一切。创作者的个人风格显著，粗糙不稳定的线条和鲜艳色彩。该短片获得了加拿大短片电影节最佳动画短片、纽约动画电影节最佳原创设计奖项。 From Nata Metlukh","library":"DAILY","tags":[{"id":14,"name":"动画梦工厂","actionUrl":"eyepetizer://tag/14/?title=%E5%8A%A8%E7%94%BB%E6%A2%A6%E5%B7%A5%E5%8E%82","adTrack":null,"desc":"有趣的人永远不缺童心","bgPicture":"http://img.kaiyanapp.com/afb9e7d7f061d10ade5ebcb524dc8679.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/f9eae3e0321fa1e99a7b38641b5536a2.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"IMPORTANT","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":146,"name":"666","actionUrl":"eyepetizer://tag/146/?title=666","adTrack":null,"desc":null,"bgPicture":"https://i.ytimg.com/vi/MKWWhf8RAV8/maxresdefault.jpg","headerImage":"http://img.kaiyanapp.com/522f7e51abb07a4a4438b82ee54174a4.jpeg?imageMogr2/quality/100","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":144,"name":"魔性","actionUrl":"eyepetizer://tag/144/?title=%E9%AD%94%E6%80%A7","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/f7a6f01d5425dcba563ef114501c169e.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/f7a6f01d5425dcba563ef114501c169e.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":174,"name":"治愈","actionUrl":"eyepetizer://tag/174/?title=%E6%B2%BB%E6%84%88","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/5417e0d8f72d7bb3f1cd69eb75b0759e.jpeg?imageMogr2/quality/60","headerImage":"http://img.kaiyanapp.com/5417e0d8f72d7bb3f1cd69eb75b0759e.jpeg?imageMogr2/quality/60","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":112,"name":"友情","actionUrl":"eyepetizer://tag/112/?title=%E5%8F%8B%E6%83%85","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/d8de76d625b55fa4d435b58fd5081f53.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/d8de76d625b55fa4d435b58fd5081f53.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":150,"name":"青春","actionUrl":"eyepetizer://tag/150/?title=%E9%9D%92%E6%98%A5","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/34d33f611dbfe38e4d00cd4ab43212e7.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/58e3e0ec1e583a6debcc0f80d16c86fe.jpeg?imageMogr2/quality/100","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":148,"name":"匠心","actionUrl":"eyepetizer://tag/148/?title=%E5%8C%A0%E5%BF%83","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/cf568288dc8087fa728308f2623b9527.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/cf568288dc8087fa728308f2623b9527.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":1023,"name":"动画","actionUrl":"eyepetizer://tag/1023/?title=%E5%8A%A8%E7%94%BB","adTrack":null,"desc":"有趣的人永远不缺童心","bgPicture":"http://img.kaiyanapp.com/349cbd33cdf71fc74d5e9c7a00b444fd.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/208aa67386c045497389f015ae28dd29.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0}],"consumption":{"collectionCount":19,"shareCount":60,"replyCount":6,"realCollectionCount":13},"resourceType":"video","slogan":null,"provider":{"name":"Vimeo","alias":"vimeo","icon":"http://ali-img.kaiyanapp.com/c3ad630be461cbb081649c9e21d6cbe3.png"},"category":"动画","author":{"id":5329,"icon":"http://ali-img.kaiyanapp.com/6d8409b09b145ade2650168af7c64398.jpeg?imageMogr2/quality/60/format/jpg","name":"特别·版本 Special Edition","description":"全球最有趣、最劲爆的超新鲜短视频收纳站！","link":"","latestReleaseTime":1697072417000,"videoNum":225,"adTrack":null,"follow":{"itemType":"author","itemId":5329,"followed":false},"shield":{"itemType":"author","itemId":5329,"shielded":false},"approvedNotReadyVideoCount":0,"ifPgc":true,"recSort":0,"expert":false},"cover":{"feed":"http://ali-img.kaiyanapp.com/d19efc7fb56cd6598f0ec1d513c88bd7.jpeg?imageMogr2/quality/60/format/jpg","detail":"http://ali-img.kaiyanapp.com/d19efc7fb56cd6598f0ec1d513c88bd7.jpeg?imageMogr2/quality/60/format/jpg","blurred":"http://ali-img.kaiyanapp.com/f9768405ab05663904ff0ca01642bd69.jpeg?imageMogr2/quality/60/format/jpg","sharing":null,"homepage":"http://img.kaiyanapp.com/d19efc7fb56cd6598f0ec1d513c88bd7.jpeg?imageView2/1/w/720/h/560/format/jpg/q/75|watermark/1/image/aHR0cDovL2ltZy5rYWl5YW5hcHAuY29tL2JsYWNrXzMwLnBuZw==/dissolve/100/gravity/Center/dx/0/dy/0|imageslim"},"playUrl":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=316798&resourceType=video&editionType=default&source=aliyun&playUrlType=url_oss&udid=","thumbPlayUrl":null,"duration":575,"webUrl":{"raw":"http://www.eyepetizer.net/detail.html?vid=316798","forWeibo":"https://m.eyepetizer.net/u1/video-detail?video_id=316798&resource_type=video&utm_campaign=routine&utm_medium=share&utm_source=weibo&uid=0"},"releaseTime":1697072417000,"playInfo":[],"campaign":null,"waterMarks":null,"ad":false,"adTrack":[],"type":"NORMAL","titlePgc":"动画 纯净的生活","descriptionPgc":"","remark":"","ifLimitVideo":false,"searchWeight":0,"brandWebsiteInfo":null,"videoPosterBean":null,"idx":0,"shareAdTrack":null,"favoriteAdTrack":null,"webAdTrack":null,"date":1697072400000,"promotion":null,"label":null,"labelList":[],"descriptionEditor":"四个有性格缺陷的朋友前往热带地区度假，但在旅行中却出了一些问题。创作者试图探索的主题是从美好的热带天堂度假后回到家的新奇感受。Pura vida 在西班牙语中意为纯净的生活，在哥斯达黎加，它是一个特殊的短语，能表示问候、谢谢、保重等各种，就像电影本身一样，意味着一切。创作者的个人风格显著，粗糙不稳定的线条和鲜艳色彩。该短片获得了加拿大短片电影节最佳动画短片、纽约动画电影节最佳原创设计奖项。 From Nata Metlukh","collected":false,"reallyCollected":false,"played":false,"subtitles":[],"lastViewTime":null,"playlists":null,"src":null,"recallSource":null,"recall_source":null},"trackingData":null,"tag":null,"id":0,"adIndex":-1},{"type":"video","data":{"dataType":"VideoBeanForClient","id":320280,"title":"版本答案，更适合 Z 世代的三星耳机","description":"为了给挑剔的 Z 世代受众带来更高的音频体验，三星发布了「Feeling of Sound」系列的第四部广告，由著名美国音乐艺术家和制作人 Yaeji 担任主角。跟着三星一起，享受这场听觉盛宴吧！","library":"DAILY","tags":[{"id":748,"name":"这些广告超有梗","actionUrl":"eyepetizer://tag/748/?title=%E8%BF%99%E4%BA%9B%E5%B9%BF%E5%91%8A%E8%B6%85%E6%9C%89%E6%A2%97","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/9056413cfeffaf0c841d894390aa8e08.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/ff0f6d0ad5f4b6211a3f746aaaffd916.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"IMPORTANT","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":146,"name":"666","actionUrl":"eyepetizer://tag/146/?title=666","adTrack":null,"desc":null,"bgPicture":"https://i.ytimg.com/vi/MKWWhf8RAV8/maxresdefault.jpg","headerImage":"http://img.kaiyanapp.com/522f7e51abb07a4a4438b82ee54174a4.jpeg?imageMogr2/quality/100","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":200,"name":"酷炫","actionUrl":"eyepetizer://tag/200/?title=%E9%85%B7%E7%82%AB","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/71f39f985df512d0d9fb52b82737bcf5.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/71f39f985df512d0d9fb52b82737bcf5.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":204,"name":"精致","actionUrl":"eyepetizer://tag/204/?title=%E7%B2%BE%E8%87%B4","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/ee3a04688868510772ca7c30fdc7fce6.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/ee3a04688868510772ca7c30fdc7fce6.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":16,"name":"广告","actionUrl":"eyepetizer://tag/16/?title=%E5%B9%BF%E5%91%8A","adTrack":null,"desc":"为广告人的精彩创意点赞","bgPicture":"http://img.kaiyanapp.com/e41e74fe73882b552de00d95d56748d2.jpeg?imageMogr2/quality/60","headerImage":"http://img.kaiyanapp.com/23d1a1dce9756535d314aed3cf9777a0.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":2,"name":"创意","actionUrl":"eyepetizer://tag/2/?title=%E5%88%9B%E6%84%8F","adTrack":null,"desc":"技术与审美结合，探索视觉的无限可能","bgPicture":"http://img.kaiyanapp.com/1b457058cf2b317304ff9f70543c040d.png?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/fdefdb34cbe3d2ac9964d306febe9025.jpeg?imageMogr2/quality/100","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":1603,"name":"三星 Samsung","actionUrl":"eyepetizer://tag/1603/?title=%E4%B8%89%E6%98%9F%20Samsung","adTrack":null,"desc":"三星电子是三星集团旗下的子公司，韩国最大的消费电子产品及电子组件制造商，亦是全球最大的信息技术公司。","bgPicture":"http://img.kaiyanapp.com/39401fbccfebcc6af7a52b2759f33ac2.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/39401fbccfebcc6af7a52b2759f33ac2.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0}],"consumption":{"collectionCount":13,"shareCount":7,"replyCount":5,"realCollectionCount":6},"resourceType":"video","slogan":null,"provider":{"name":"YouTube","alias":"youtube","icon":"http://ali-img.kaiyanapp.com/fa20228bc5b921e837156923a58713f6.png"},"category":"广告","author":{"id":5476,"icon":"http://ali-img.kaiyanapp.com/39401fbccfebcc6af7a52b2759f33ac2.jpeg?imageMogr2/quality/60/format/jpg","name":"三星 Samsung 广告精选","description":"三星电子是三星集团旗下的子公司，韩国最大的消费电子产品及电子组件制造商，亦是全球最大的信息技术公司。","link":"","latestReleaseTime":1697072418000,"videoNum":2165,"adTrack":null,"follow":{"itemType":"author","itemId":5476,"followed":false},"shield":{"itemType":"author","itemId":5476,"shielded":false},"approvedNotReadyVideoCount":0,"ifPgc":true,"recSort":0,"expert":false},"cover":{"feed":"http://ali-img.kaiyanapp.com/39db5c8ad30e549a1d21448c736b5614.jpeg?imageMogr2/quality/60/format/jpg","detail":"http://ali-img.kaiyanapp.com/39db5c8ad30e549a1d21448c736b5614.jpeg?imageMogr2/quality/60/format/jpg","blurred":"http://ali-img.kaiyanapp.com/e479326ea0a49aad82b246f17a824c76.jpeg?imageMogr2/quality/60/format/jpg","sharing":null,"homepage":"http://img.kaiyanapp.com/39db5c8ad30e549a1d21448c736b5614.jpeg?imageView2/1/w/720/h/560/format/jpg/q/75|watermark/1/image/aHR0cDovL2ltZy5rYWl5YW5hcHAuY29tL2JsYWNrXzMwLnBuZw==/dissolve/100/gravity/Center/dx/0/dy/0|imageslim"},"playUrl":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320280&resourceType=video&editionType=default&source=aliyun&playUrlType=url_oss&udid=","thumbPlayUrl":null,"duration":76,"webUrl":{"raw":"http://www.eyepetizer.net/detail.html?vid=320280","forWeibo":"https://m.eyepetizer.net/u1/video-detail?video_id=320280&resource_type=video&utm_campaign=routine&utm_medium=share&utm_source=weibo&uid=0"},"releaseTime":1697072418000,"playInfo":[{"height":720,"width":1280,"urlList":[{"name":"aliyun","url":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320280&resourceType=video&editionType=high&source=aliyun&playUrlType=url_oss&udid=","size":8908913},{"name":"ucloud","url":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320280&resourceType=video&editionType=high&source=ucloud&playUrlType=url_oss&udid=","size":8908913}],"name":"高清","type":"high","url":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320280&resourceType=video&editionType=high&source=aliyun&playUrlType=url_oss&udid="}],"campaign":null,"waterMarks":null,"ad":false,"adTrack":[],"type":"NORMAL","titlePgc":"广告 三星","descriptionPgc":"","remark":"https://www.adsoftheworld.com/campaigns/feeling-of-sound","ifLimitVideo":false,"searchWeight":0,"brandWebsiteInfo":null,"videoPosterBean":null,"idx":0,"shareAdTrack":null,"favoriteAdTrack":null,"webAdTrack":null,"date":1697072400000,"promotion":null,"label":null,"labelList":[],"descriptionEditor":"为了给挑剔的 Z 世代受众带来更高的音频体验，三星发布了「Feeling of Sound」系列的第四部广告，由著名美国音乐艺术家和制作人 Yaeji 担任主角。跟着三星一起，享受这场听觉盛宴吧！","collected":false,"reallyCollected":false,"played":false,"subtitles":[],"lastViewTime":null,"playlists":null,"src":null,"recallSource":null,"recall_source":null},"trackingData":null,"tag":null,"id":0,"adIndex":-1},{"type":"video","data":{"dataType":"VideoBeanForClient","id":320192,"title":"这动手能力...大神用乐高搭建水上乐园","description":"乐高大神 Build it with Bricks 制作了一个可运行的全自动乐高水上乐园，该游乐设施使用 8 个大型动力功能电机，通过 2 个离心泵实现每小时 1800 升的实测出水量。该游乐设施的最大亮点是，从落水处到升降山的路线长度为 2.6 米，配有 2 辆游乐车。From Build it with Bricks","library":"DAILY","tags":[{"id":744,"name":"每日创意灵感","actionUrl":"eyepetizer://tag/744/?title=%E6%AF%8F%E6%97%A5%E5%88%9B%E6%84%8F%E7%81%B5%E6%84%9F","adTrack":null,"desc":"技术与审美结合，探索视觉的无限可能","bgPicture":"http://img.kaiyanapp.com/bc2479c09cd15cb93b69d82e5f21c3fc.png?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/bc2479c09cd15cb93b69d82e5f21c3fc.png?imageMogr2/quality/60/format/jpg","tagRecType":"IMPORTANT","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":200,"name":"酷炫","actionUrl":"eyepetizer://tag/200/?title=%E9%85%B7%E7%82%AB","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/71f39f985df512d0d9fb52b82737bcf5.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/71f39f985df512d0d9fb52b82737bcf5.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":172,"name":"什么鬼","actionUrl":"eyepetizer://tag/172/?title=%E4%BB%80%E4%B9%88%E9%AC%BC","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/e6b5568e865b26f3f84270e613955e59.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/e6b5568e865b26f3f84270e613955e59.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":204,"name":"精致","actionUrl":"eyepetizer://tag/204/?title=%E7%B2%BE%E8%87%B4","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/ee3a04688868510772ca7c30fdc7fce6.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/ee3a04688868510772ca7c30fdc7fce6.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":146,"name":"666","actionUrl":"eyepetizer://tag/146/?title=666","adTrack":null,"desc":null,"bgPicture":"https://i.ytimg.com/vi/MKWWhf8RAV8/maxresdefault.jpg","headerImage":"http://img.kaiyanapp.com/522f7e51abb07a4a4438b82ee54174a4.jpeg?imageMogr2/quality/100","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":148,"name":"匠心","actionUrl":"eyepetizer://tag/148/?title=%E5%8C%A0%E5%BF%83","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/cf568288dc8087fa728308f2623b9527.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/cf568288dc8087fa728308f2623b9527.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":2,"name":"创意","actionUrl":"eyepetizer://tag/2/?title=%E5%88%9B%E6%84%8F","adTrack":null,"desc":"技术与审美结合，探索视觉的无限可能","bgPicture":"http://img.kaiyanapp.com/1b457058cf2b317304ff9f70543c040d.png?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/fdefdb34cbe3d2ac9964d306febe9025.jpeg?imageMogr2/quality/100","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0}],"consumption":{"collectionCount":68,"shareCount":34,"replyCount":6,"realCollectionCount":68},"resourceType":"video","slogan":null,"provider":{"name":"YouTube","alias":"youtube","icon":"http://ali-img.kaiyanapp.com/fa20228bc5b921e837156923a58713f6.png"},"category":"创意","author":{"id":2161,"icon":"http://ali-img.kaiyanapp.com/f4a9aba1c6857ee0cefcdc5aee0a1fc9.png?imageMogr2/quality/60/format/jpg","name":"全球创意视频精选","description":"我们精选最有创意的视频，我们用技术与审美结合，探索视觉的无限可能。","link":"","latestReleaseTime":1697072420000,"videoNum":2004,"adTrack":null,"follow":{"itemType":"author","itemId":2161,"followed":false},"shield":{"itemType":"author","itemId":2161,"shielded":false},"approvedNotReadyVideoCount":0,"ifPgc":true,"recSort":0,"expert":false},"cover":{"feed":"http://ali-img.kaiyanapp.com/85714103cdd700b81185a31ec83da56c.png?imageMogr2/quality/60/format/jpg","detail":"http://ali-img.kaiyanapp.com/85714103cdd700b81185a31ec83da56c.png?imageMogr2/quality/60/format/jpg","blurred":"http://ali-img.kaiyanapp.com/e69235271adf06825c793d837c4f38e3.png?imageMogr2/quality/60/format/jpg","sharing":null,"homepage":"http://img.kaiyanapp.com/85714103cdd700b81185a31ec83da56c.png?imageView2/1/w/720/h/560/format/jpg/q/75|watermark/1/image/aHR0cDovL2ltZy5rYWl5YW5hcHAuY29tL2JsYWNrXzMwLnBuZw==/dissolve/100/gravity/Center/dx/0/dy/0|imageslim"},"playUrl":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320192&resourceType=video&editionType=default&source=aliyun&playUrlType=url_oss&udid=","thumbPlayUrl":null,"duration":395,"webUrl":{"raw":"http://www.eyepetizer.net/detail.html?vid=320192","forWeibo":"https://m.eyepetizer.net/u1/video-detail?video_id=320192&resource_type=video&utm_campaign=routine&utm_medium=share&utm_source=weibo&uid=0"},"releaseTime":1697072420000,"playInfo":[{"height":720,"width":1280,"urlList":[{"name":"aliyun","url":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320192&resourceType=video&editionType=high&source=aliyun&playUrlType=url_oss&udid=","size":56556172},{"name":"ucloud","url":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320192&resourceType=video&editionType=high&source=ucloud&playUrlType=url_oss&udid=","size":56556172}],"name":"高清","type":"high","url":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320192&resourceType=video&editionType=high&source=aliyun&playUrlType=url_oss&udid="}],"campaign":null,"waterMarks":null,"ad":false,"adTrack":[],"type":"NORMAL","titlePgc":"创意f 乐高","descriptionPgc":"","remark":null,"ifLimitVideo":false,"searchWeight":0,"brandWebsiteInfo":null,"videoPosterBean":null,"idx":0,"shareAdTrack":null,"favoriteAdTrack":null,"webAdTrack":null,"date":1697072400000,"promotion":null,"label":null,"labelList":[],"descriptionEditor":"乐高大神 Build it with Bricks 制作了一个可运行的全自动乐高水上乐园，该游乐设施使用 8 个大型动力功能电机，通过 2 个离心泵实现每小时 1800 升的实测出水量。该游乐设施的最大亮点是，从落水处到升降山的路线长度为 2.6 米，配有 2 辆游乐车。From Build it with Bricks","collected":false,"reallyCollected":false,"played":false,"subtitles":[],"lastViewTime":null,"playlists":null,"src":null,"recallSource":null,"recall_source":null},"trackingData":null,"tag":null,"id":0,"adIndex":-1},{"type":"video","data":{"dataType":"VideoBeanForClient","id":320292,"title":"360° 全屋透明的大胆住宅，屋顶造浴缸","description":"广东佛山沙水村，有一栋超级大胆的房子，路过的人都会忍不住停下来看几眼，它没有外墙，且 360 度透明，屋顶上还有一个大浴缸，更令人意外的是，屋主刘湛洪竟是一个 60 后。9 月，一条来到广东佛山，拜访了这个 60 后、90 后、00 后共居的「无墙之家」。","library":"DAILY","tags":[{"id":743,"name":"记录精选","actionUrl":"eyepetizer://tag/743/?title=%E8%AE%B0%E5%BD%95%E7%B2%BE%E9%80%89","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/a082f44b88e78daaf19fa4e1a2faaa5a.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/a082f44b88e78daaf19fa4e1a2faaa5a.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"IMPORTANT","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":172,"name":"什么鬼","actionUrl":"eyepetizer://tag/172/?title=%E4%BB%80%E4%B9%88%E9%AC%BC","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/e6b5568e865b26f3f84270e613955e59.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/e6b5568e865b26f3f84270e613955e59.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":148,"name":"匠心","actionUrl":"eyepetizer://tag/148/?title=%E5%8C%A0%E5%BF%83","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/cf568288dc8087fa728308f2623b9527.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/cf568288dc8087fa728308f2623b9527.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":146,"name":"666","actionUrl":"eyepetizer://tag/146/?title=666","adTrack":null,"desc":null,"bgPicture":"https://i.ytimg.com/vi/MKWWhf8RAV8/maxresdefault.jpg","headerImage":"http://img.kaiyanapp.com/522f7e51abb07a4a4438b82ee54174a4.jpeg?imageMogr2/quality/100","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":24,"name":"记录","actionUrl":"eyepetizer://tag/24/?title=%E8%AE%B0%E5%BD%95","adTrack":null,"desc":"告诉他们为什么与众不同","bgPicture":"http://img.kaiyanapp.com/c3984cad49455e01637347e0c8f6a37d.jpeg?imageMogr2/quality/100","headerImage":"http://img.kaiyanapp.com/fd76dab1411e07f0dcf45309720134f9.jpeg?imageMogr2/quality/100","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":666,"name":"生活","actionUrl":"eyepetizer://tag/666/?title=%E7%94%9F%E6%B4%BB","adTrack":null,"desc":"匠心、健康、生活感悟","bgPicture":"http://img.kaiyanapp.com/95ba262a92ac99db76794ca56233d5d1.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/06c71c30bca59ed5aed471e4ddfd2f6b.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":534,"name":"人文","actionUrl":"eyepetizer://tag/534/?title=%E4%BA%BA%E6%96%87","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/5d6ee9241a0e2196bc1754b35f6f15e5.jpeg?imageMogr2/quality/100","headerImage":"http://img.kaiyanapp.com/16b60131c2bc0885683ce7ee6ac75b52.jpeg?imageMogr2/quality/100","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0}],"consumption":{"collectionCount":35,"shareCount":11,"replyCount":1,"realCollectionCount":35},"resourceType":"video","slogan":null,"provider":{"name":"PGC","alias":"PGC","icon":""},"category":"生活","author":{"id":170,"icon":"http://ali-img.kaiyanapp.com/b1f252f2a97e014f6de7e65709c5eedd.png?imageMogr2/quality/60/format/jpg","name":"一条","description":"所有未在美中度过的生活，都是被浪费了。","link":"","latestReleaseTime":1697012338000,"videoNum":2270,"adTrack":null,"follow":{"itemType":"author","itemId":170,"followed":false},"shield":{"itemType":"author","itemId":170,"shielded":false},"approvedNotReadyVideoCount":0,"ifPgc":true,"recSort":0,"expert":false},"cover":{"feed":"http://ali-img.kaiyanapp.com/9340007f8a47d14960a855111ce98834.jpeg?imageMogr2/quality/60/format/jpg","detail":"http://ali-img.kaiyanapp.com/9340007f8a47d14960a855111ce98834.jpeg?imageMogr2/quality/60/format/jpg","blurred":"http://ali-img.kaiyanapp.com/c8459d6d6a01b740084f98d8657629b8.jpeg?imageMogr2/quality/60/format/jpg","sharing":null,"homepage":"http://img.kaiyanapp.com/9340007f8a47d14960a855111ce98834.jpeg?imageView2/1/w/720/h/560/format/jpg/q/75|watermark/1/image/aHR0cDovL2ltZy5rYWl5YW5hcHAuY29tL2JsYWNrXzMwLnBuZw==/dissolve/100/gravity/Center/dx/0/dy/0|imageslim"},"playUrl":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320292&resourceType=video&editionType=default&source=aliyun&playUrlType=url_oss&udid=","thumbPlayUrl":null,"duration":240,"webUrl":{"raw":"http://www.eyepetizer.net/detail.html?vid=320292","forWeibo":"https://m.eyepetizer.net/u1/video-detail?video_id=320292&resource_type=video&utm_campaign=routine&utm_medium=share&utm_source=weibo&uid=0"},"releaseTime":1697012338000,"playInfo":[],"campaign":null,"waterMarks":null,"ad":false,"adTrack":[],"type":"NORMAL","titlePgc":"360°全屋透明的大胆住宅，屋顶造浴缸","descriptionPgc":"广东佛山沙水村，有一栋“大胆”的房子，路过的人都会忍不住停下来看几眼，它没有外墙，且360度透明，屋顶上还有一个大浴缸，更令人意外的是，屋主刘湛洪竟是一个60后。9月，一条来到广东佛山，拜访了这个60后、90后、00后共居的“无墙之家”。\n","remark":"","ifLimitVideo":false,"searchWeight":0,"brandWebsiteInfo":null,"videoPosterBean":null,"idx":0,"shareAdTrack":null,"favoriteAdTrack":null,"webAdTrack":null,"date":1697072400000,"promotion":null,"label":null,"labelList":[],"descriptionEditor":"广东佛山沙水村，有一栋超级大胆的房子，路过的人都会忍不住停下来看几眼，它没有外墙，且 360 度透明，屋顶上还有一个大浴缸，更令人意外的是，屋主刘湛洪竟是一个 60 后。9 月，一条来到广东佛山，拜访了这个 60 后、90 后、00 后共居的「无墙之家」。","collected":false,"reallyCollected":false,"played":false,"subtitles":[],"lastViewTime":null,"playlists":null,"src":null,"recallSource":null,"recall_source":null},"trackingData":null,"tag":null,"id":0,"adIndex":-1},{"type":"video","data":{"dataType":"VideoBeanForClient","id":320073,"title":"职场潜规则！哈佛导师手把手教你升职","description":"由于种种原因，职场并不是一个公平竞争的环境。当你没有特权时，如何才能出人头地，获得梦寐以求的晋升？哈佛大学职业指导师 Gorick Ng 认为关键在于了解成功的潜规则。Ng 认为，低头只会让你走得更远。冉冉升起的新星与停滞不前者的区别在于他们所建立的关系、他们所产生的影响，以及他们对经理目标的明确理解，即使这些目标并没有被明确表达出来。From Big Think","library":"DAILY","tags":[{"id":48,"name":"盘点","actionUrl":"eyepetizer://tag/48/?title=%E7%9B%98%E7%82%B9","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/a6deee1ffa8ab1fe30c8af96075dca69.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/d0a0a82e073587f3c0b6bcce05476a70.jpeg?imageMogr2/quality/100","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":666,"name":"生活","actionUrl":"eyepetizer://tag/666/?title=%E7%94%9F%E6%B4%BB","adTrack":null,"desc":"匠心、健康、生活感悟","bgPicture":"http://img.kaiyanapp.com/95ba262a92ac99db76794ca56233d5d1.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/06c71c30bca59ed5aed471e4ddfd2f6b.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":702,"name":"人物","actionUrl":"eyepetizer://tag/702/?title=%E4%BA%BA%E7%89%A9","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/9101692746a60cd7360838bf394703c1.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/9101692746a60cd7360838bf394703c1.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":146,"name":"666","actionUrl":"eyepetizer://tag/146/?title=666","adTrack":null,"desc":null,"bgPicture":"https://i.ytimg.com/vi/MKWWhf8RAV8/maxresdefault.jpg","headerImage":"http://img.kaiyanapp.com/522f7e51abb07a4a4438b82ee54174a4.jpeg?imageMogr2/quality/100","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":148,"name":"匠心","actionUrl":"eyepetizer://tag/148/?title=%E5%8C%A0%E5%BF%83","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/cf568288dc8087fa728308f2623b9527.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/cf568288dc8087fa728308f2623b9527.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":1024,"name":"科技","actionUrl":"eyepetizer://tag/1024/?title=%E7%A7%91%E6%8A%80","adTrack":null,"desc":"新知识与一切先进生产力","bgPicture":"http://img.kaiyanapp.com/7e326064edc565ac6355921cfe4b3e46.png?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/810adad06df812462bb0e00501fa679c.png?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":1040,"name":"科普","actionUrl":"eyepetizer://tag/1040/?title=%E7%A7%91%E6%99%AE","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/86af95dab03ab8fac3342517e83b07bb.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/86af95dab03ab8fac3342517e83b07bb.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0}],"consumption":{"collectionCount":109,"shareCount":11,"replyCount":2,"realCollectionCount":41},"resourceType":"video","slogan":null,"provider":{"name":"YouTube","alias":"youtube","icon":"http://ali-img.kaiyanapp.com/fa20228bc5b921e837156923a58713f6.png"},"category":"科技","author":{"id":2171,"icon":"http://ali-img.kaiyanapp.com/0117b9108c7cff43700db8af5e24f2bf.jpeg","name":"开眼科技精选","description":"新知识与一切先进生产力","link":"","latestReleaseTime":1697072421000,"videoNum":492,"adTrack":null,"follow":{"itemType":"author","itemId":2171,"followed":false},"shield":{"itemType":"author","itemId":2171,"shielded":false},"approvedNotReadyVideoCount":0,"ifPgc":true,"recSort":0,"expert":false},"cover":{"feed":"http://ali-img.kaiyanapp.com/8b38bd8348c0a7998b678d47388f12bb.jpeg?imageMogr2/quality/60/format/jpg","detail":"http://ali-img.kaiyanapp.com/8b38bd8348c0a7998b678d47388f12bb.jpeg?imageMogr2/quality/60/format/jpg","blurred":"http://ali-img.kaiyanapp.com/2707999c82a131edcac3f60cbc4c2527.jpeg?imageMogr2/quality/60/format/jpg","sharing":null,"homepage":"http://img.kaiyanapp.com/8b38bd8348c0a7998b678d47388f12bb.jpeg?imageView2/1/w/720/h/560/format/jpg/q/75|watermark/1/image/aHR0cDovL2ltZy5rYWl5YW5hcHAuY29tL2JsYWNrXzMwLnBuZw==/dissolve/100/gravity/Center/dx/0/dy/0|imageslim"},"playUrl":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320073&resourceType=video&editionType=default&source=aliyun&playUrlType=url_oss&udid=","thumbPlayUrl":null,"duration":356,"webUrl":{"raw":"http://www.eyepetizer.net/detail.html?vid=320073","forWeibo":"https://m.eyepetizer.net/u1/video-detail?video_id=320073&resource_type=video&utm_campaign=routine&utm_medium=share&utm_source=weibo&uid=0"},"releaseTime":1697072421000,"playInfo":[{"height":720,"width":1280,"urlList":[{"name":"aliyun","url":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320073&resourceType=video&editionType=high&source=aliyun&playUrlType=url_oss&udid=","size":39171079},{"name":"ucloud","url":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320073&resourceType=video&editionType=high&source=ucloud&playUrlType=url_oss&udid=","size":39171079}],"name":"高清","type":"high","url":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320073&resourceType=video&editionType=high&source=aliyun&playUrlType=url_oss&udid="}],"campaign":null,"waterMarks":null,"ad":false,"adTrack":[],"type":"NORMAL","titlePgc":"科普f 如何升职","descriptionPgc":"","remark":null,"ifLimitVideo":false,"searchWeight":0,"brandWebsiteInfo":null,"videoPosterBean":null,"idx":0,"shareAdTrack":null,"favoriteAdTrack":null,"webAdTrack":null,"date":1697072400000,"promotion":null,"label":null,"labelList":[],"descriptionEditor":"由于种种原因，职场并不是一个公平竞争的环境。当你没有特权时，如何才能出人头地，获得梦寐以求的晋升？哈佛大学职业指导师 Gorick Ng 认为关键在于了解成功的潜规则。Ng 认为，低头只会让你走得更远。冉冉升起的新星与停滞不前者的区别在于他们所建立的关系、他们所产生的影响，以及他们对经理目标的明确理解，即使这些目标并没有被明确表达出来。From Big Think","collected":false,"reallyCollected":false,"played":false,"subtitles":[],"lastViewTime":null,"playlists":null,"src":null,"recallSource":null,"recall_source":null},"trackingData":null,"tag":null,"id":0,"adIndex":-1},{"type":"video","data":{"dataType":"VideoBeanForClient","id":320288,"title":"热单串烧，骚姆携乐团做客小桌音乐会","description":"Sam Smith 是一位英国歌手及词曲作家，2014 年 12 月，骚姆获 6 个格莱美奖提名，并赢得了其中的 4 个。本期视频中，骚姆带着他 11 人的合唱团和 2 位乐手做客了小桌音乐会，当整支乐团聚在一起表演，真是令人赏心悦目。","library":"DAILY","tags":[{"id":18,"name":"音乐电台","actionUrl":"eyepetizer://tag/18/?title=%E9%9F%B3%E4%B9%90%E7%94%B5%E5%8F%B0","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/70e1bedfdff53729402f1998788c3ee9.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/79dcc408692e7b9170ba4451c21a196d.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"IMPORTANT","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":204,"name":"精致","actionUrl":"eyepetizer://tag/204/?title=%E7%B2%BE%E8%87%B4","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/ee3a04688868510772ca7c30fdc7fce6.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/ee3a04688868510772ca7c30fdc7fce6.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":208,"name":"器乐","actionUrl":"eyepetizer://tag/208/?title=%E5%99%A8%E4%B9%90","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/f5b284ad6d9bd5812f7336983ed9e908.png?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/f5b284ad6d9bd5812f7336983ed9e908.png?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":146,"name":"666","actionUrl":"eyepetizer://tag/146/?title=666","adTrack":null,"desc":null,"bgPicture":"https://i.ytimg.com/vi/MKWWhf8RAV8/maxresdefault.jpg","headerImage":"http://img.kaiyanapp.com/522f7e51abb07a4a4438b82ee54174a4.jpeg?imageMogr2/quality/100","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":148,"name":"匠心","actionUrl":"eyepetizer://tag/148/?title=%E5%8C%A0%E5%BF%83","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/cf568288dc8087fa728308f2623b9527.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/cf568288dc8087fa728308f2623b9527.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":1018,"name":"音乐","actionUrl":"eyepetizer://tag/1018/?title=%E9%9F%B3%E4%B9%90","adTrack":null,"desc":"用眼睛就能「听」的艺术","bgPicture":"http://img.kaiyanapp.com/46b2ed7ccd3e241ff54a314faf2632b8.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/4f6643756d9ff5c41acdf7d0493055c4.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":2,"name":"创意","actionUrl":"eyepetizer://tag/2/?title=%E5%88%9B%E6%84%8F","adTrack":null,"desc":"技术与审美结合，探索视觉的无限可能","bgPicture":"http://img.kaiyanapp.com/1b457058cf2b317304ff9f70543c040d.png?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/fdefdb34cbe3d2ac9964d306febe9025.jpeg?imageMogr2/quality/100","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0}],"consumption":{"collectionCount":19,"shareCount":0,"replyCount":2,"realCollectionCount":0},"resourceType":"video","slogan":null,"provider":{"name":"YouTube","alias":"youtube","icon":"http://ali-img.kaiyanapp.com/fa20228bc5b921e837156923a58713f6.png"},"category":"音乐","author":{"id":6004,"icon":"http://ali-img.kaiyanapp.com/a69e88e9be8d928fae513c88b641625d.jpeg?imageMogr2/quality/60/format/jpg","name":"NPR Music","description":"NPR音乐是美国私人和公共资助的非营利性会员制媒体组织National Public Radio的一个项目","link":"","latestReleaseTime":1697072422000,"videoNum":6,"adTrack":null,"follow":{"itemType":"author","itemId":6004,"followed":false},"shield":{"itemType":"author","itemId":6004,"shielded":false},"approvedNotReadyVideoCount":0,"ifPgc":true,"recSort":0,"expert":false},"cover":{"feed":"http://ali-img.kaiyanapp.com/56d011b4f6b339a89396d9dc54624b89.jpeg?imageMogr2/quality/60/format/jpg","detail":"http://ali-img.kaiyanapp.com/56d011b4f6b339a89396d9dc54624b89.jpeg?imageMogr2/quality/60/format/jpg","blurred":"http://ali-img.kaiyanapp.com/4b992a082d0ddc510c1e332e81b1004e.jpeg?imageMogr2/quality/60/format/jpg","sharing":null,"homepage":"http://img.kaiyanapp.com/56d011b4f6b339a89396d9dc54624b89.jpeg?imageView2/1/w/720/h/560/format/jpg/q/75|watermark/1/image/aHR0cDovL2ltZy5rYWl5YW5hcHAuY29tL2JsYWNrXzMwLnBuZw==/dissolve/100/gravity/Center/dx/0/dy/0|imageslim"},"playUrl":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320288&resourceType=video&editionType=default&source=aliyun&playUrlType=url_oss&udid=","thumbPlayUrl":null,"duration":1247,"webUrl":{"raw":"http://www.eyepetizer.net/detail.html?vid=320288","forWeibo":"https://m.eyepetizer.net/u1/video-detail?video_id=320288&resource_type=video&utm_campaign=routine&utm_medium=share&utm_source=weibo&uid=0"},"releaseTime":1697072422000,"playInfo":[],"campaign":null,"waterMarks":null,"ad":false,"adTrack":[],"type":"NORMAL","titlePgc":"音乐","descriptionPgc":"","remark":null,"ifLimitVideo":false,"searchWeight":0,"brandWebsiteInfo":null,"videoPosterBean":null,"idx":0,"shareAdTrack":null,"favoriteAdTrack":null,"webAdTrack":null,"date":1697072400000,"promotion":null,"label":null,"labelList":[],"descriptionEditor":"Sam Smith 是一位英国歌手及词曲作家，2014 年 12 月，骚姆获 6 个格莱美奖提名，并赢得了其中的 4 个。本期视频中，骚姆带着他 11 人的合唱团和 2 位乐手做客了小桌音乐会，当整支乐团聚在一起表演，真是令人赏心悦目。","collected":false,"reallyCollected":false,"played":false,"subtitles":[],"lastViewTime":null,"playlists":null,"src":null,"recallSource":null,"recall_source":null},"trackingData":null,"tag":null,"id":0,"adIndex":-1},{"type":"video","data":{"dataType":"VideoBeanForClient","id":320175,"title":"情绪短片「斗争」，在两个我间反复拉扯","description":"由导演 Taylor MacDonald 执导的短片「Whatever Else I Know」故事讲述的是一位年轻女性发现自己正在与药物滥用、性欲以及爱情作斗争。在情绪和荒唐间反复拉扯，希望看完短片的你能找到期望中的自己。From Taylor MacDonald","library":"DAILY","tags":[{"id":1032,"name":"给你讲个好故事","actionUrl":"eyepetizer://tag/1032/?title=%E7%BB%99%E4%BD%A0%E8%AE%B2%E4%B8%AA%E5%A5%BD%E6%95%85%E4%BA%8B","adTrack":null,"desc":"每周末更新，关注听开眼给你讲故事。","bgPicture":"http://img.kaiyanapp.com/d471080a9de44e8fbaa4850887273332.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/33a2b832b7583dd9781f9fd40ad7617e.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"IMPORTANT","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":204,"name":"精致","actionUrl":"eyepetizer://tag/204/?title=%E7%B2%BE%E8%87%B4","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/ee3a04688868510772ca7c30fdc7fce6.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/ee3a04688868510772ca7c30fdc7fce6.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":666,"name":"生活","actionUrl":"eyepetizer://tag/666/?title=%E7%94%9F%E6%B4%BB","adTrack":null,"desc":"匠心、健康、生活感悟","bgPicture":"http://img.kaiyanapp.com/95ba262a92ac99db76794ca56233d5d1.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/06c71c30bca59ed5aed471e4ddfd2f6b.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":702,"name":"人物","actionUrl":"eyepetizer://tag/702/?title=%E4%BA%BA%E7%89%A9","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/9101692746a60cd7360838bf394703c1.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/9101692746a60cd7360838bf394703c1.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":146,"name":"666","actionUrl":"eyepetizer://tag/146/?title=666","adTrack":null,"desc":null,"bgPicture":"https://i.ytimg.com/vi/MKWWhf8RAV8/maxresdefault.jpg","headerImage":"http://img.kaiyanapp.com/522f7e51abb07a4a4438b82ee54174a4.jpeg?imageMogr2/quality/100","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":148,"name":"匠心","actionUrl":"eyepetizer://tag/148/?title=%E5%8C%A0%E5%BF%83","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/cf568288dc8087fa728308f2623b9527.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/cf568288dc8087fa728308f2623b9527.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":12,"name":"剧情","actionUrl":"eyepetizer://tag/12/?title=%E5%89%A7%E6%83%85","adTrack":null,"desc":"用一个好故事，描绘生活的不可思议","bgPicture":"http://img.kaiyanapp.com/945fa937f0955b31224314a4eeef59b8.jpeg?imageMogr2/quality/100","headerImage":"http://img.kaiyanapp.com/945fa937f0955b31224314a4eeef59b8.jpeg?imageMogr2/quality/100","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0}],"consumption":{"collectionCount":41,"shareCount":11,"replyCount":2,"realCollectionCount":27},"resourceType":"video","slogan":null,"provider":{"name":"Vimeo","alias":"vimeo","icon":"http://ali-img.kaiyanapp.com/c3ad630be461cbb081649c9e21d6cbe3.png"},"category":"剧情","author":{"id":2172,"icon":"http://ali-img.kaiyanapp.com/8581b06aa17c7dbe8970e4c27bbdbd98.png?imageMogr2/quality/60/format/jpg","name":"开眼剧情精选","description":"用一个好故事，描绘生活的不可思议","link":"","latestReleaseTime":1697072423000,"videoNum":1263,"adTrack":null,"follow":{"itemType":"author","itemId":2172,"followed":false},"shield":{"itemType":"author","itemId":2172,"shielded":false},"approvedNotReadyVideoCount":0,"ifPgc":true,"recSort":0,"expert":false},"cover":{"feed":"http://ali-img.kaiyanapp.com/eeb8f4da9a9db0f426283be3bb00d700.jpeg?imageMogr2/quality/60/format/jpg","detail":"http://ali-img.kaiyanapp.com/eeb8f4da9a9db0f426283be3bb00d700.jpeg?imageMogr2/quality/60/format/jpg","blurred":"http://ali-img.kaiyanapp.com/17af5f790669a304a60b9cf806210cdd.jpeg?imageMogr2/quality/60/format/jpg","sharing":null,"homepage":"http://img.kaiyanapp.com/eeb8f4da9a9db0f426283be3bb00d700.jpeg?imageView2/1/w/720/h/560/format/jpg/q/75|watermark/1/image/aHR0cDovL2ltZy5rYWl5YW5hcHAuY29tL2JsYWNrXzMwLnBuZw==/dissolve/100/gravity/Center/dx/0/dy/0|imageslim"},"playUrl":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320175&resourceType=video&editionType=default&source=aliyun&playUrlType=url_oss&udid=","thumbPlayUrl":null,"duration":425,"webUrl":{"raw":"http://www.eyepetizer.net/detail.html?vid=320175","forWeibo":"https://m.eyepetizer.net/u1/video-detail?video_id=320175&resource_type=video&utm_campaign=routine&utm_medium=share&utm_source=weibo&uid=0"},"releaseTime":1697072423000,"playInfo":[{"height":720,"width":1080,"urlList":[{"name":"aliyun","url":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320175&resourceType=video&editionType=high&source=aliyun&playUrlType=url_oss&udid=","size":36763826},{"name":"ucloud","url":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320175&resourceType=video&editionType=high&source=ucloud&playUrlType=url_oss&udid=","size":36763826}],"name":"高清","type":"high","url":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320175&resourceType=video&editionType=high&source=aliyun&playUrlType=url_oss&udid="}],"campaign":null,"waterMarks":null,"ad":false,"adTrack":[],"type":"NORMAL","titlePgc":"剧情f","descriptionPgc":"","remark":null,"ifLimitVideo":false,"searchWeight":0,"brandWebsiteInfo":null,"videoPosterBean":null,"idx":0,"shareAdTrack":null,"favoriteAdTrack":null,"webAdTrack":null,"date":1697072400000,"promotion":null,"label":null,"labelList":[],"descriptionEditor":"由导演 Taylor MacDonald 执导的短片「Whatever Else I Know」故事讲述的是一位年轻女性发现自己正在与药物滥用、性欲以及爱情作斗争。在情绪和荒唐间反复拉扯，希望看完短片的你能找到期望中的自己。From Taylor MacDonald","collected":false,"reallyCollected":false,"played":false,"subtitles":[],"lastViewTime":null,"playlists":null,"src":null,"recallSource":null,"recall_source":null},"trackingData":null,"tag":null,"id":0,"adIndex":-1}]
+/// date : 1697158800000
+/// publishTime : 1697158800000
+/// itemList : [{"type":"video","data":{"dataType":"VideoBeanForClient","id":320080,"title":"传说中的浪漫！探索地球蓝泪「荧光海」","description":"人类为了解生物发光的努力已有数千年的历史，它是科学研究中最古老的领域之一，其中关于「荧光海」的秘密至今也难以捉摸。在本期「不为人知的地球」节目中，科考人员将与咸海的生物发光藻类一起下水，亲自体验并追问：究竟是什么让人们如此痴迷于这个难以捉摸的谜团？From PBS Terra","library":"DAILY","tags":[{"id":743,"name":"记录精选","actionUrl":"eyepetizer://tag/743/?title=%E8%AE%B0%E5%BD%95%E7%B2%BE%E9%80%89","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/a082f44b88e78daaf19fa4e1a2faaa5a.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/a082f44b88e78daaf19fa4e1a2faaa5a.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"IMPORTANT","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":192,"name":"迷幻","actionUrl":"eyepetizer://tag/192/?title=%E8%BF%B7%E5%B9%BB","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/b583ca556f865642edeca1a02e983fcc.jpeg?imageMogr2/quality/100","headerImage":"http://img.kaiyanapp.com/b583ca556f865642edeca1a02e983fcc.jpeg?imageMogr2/quality/100","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":52,"name":"风光大片","actionUrl":"eyepetizer://tag/52/?title=%E9%A3%8E%E5%85%89%E5%A4%A7%E7%89%87","adTrack":null,"desc":"","bgPicture":"http://img.kaiyanapp.com/e484dd6aa22ea3c2e604812b44f8c60c.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/f333f225c9ccc78819120f3a888b2e7e.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":202,"name":"唯美","actionUrl":"eyepetizer://tag/202/?title=%E5%94%AF%E7%BE%8E","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/965a0a74d0af871eb174b5c7def6fd6d.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/965a0a74d0af871eb174b5c7def6fd6d.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":146,"name":"666","actionUrl":"eyepetizer://tag/146/?title=666","adTrack":null,"desc":null,"bgPicture":"https://i.ytimg.com/vi/MKWWhf8RAV8/maxresdefault.jpg","headerImage":"http://img.kaiyanapp.com/522f7e51abb07a4a4438b82ee54174a4.jpeg?imageMogr2/quality/100","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":148,"name":"匠心","actionUrl":"eyepetizer://tag/148/?title=%E5%8C%A0%E5%BF%83","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/cf568288dc8087fa728308f2623b9527.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/cf568288dc8087fa728308f2623b9527.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":24,"name":"记录","actionUrl":"eyepetizer://tag/24/?title=%E8%AE%B0%E5%BD%95","adTrack":null,"desc":"告诉他们为什么与众不同","bgPicture":"http://img.kaiyanapp.com/c3984cad49455e01637347e0c8f6a37d.jpeg?imageMogr2/quality/100","headerImage":"http://img.kaiyanapp.com/fd76dab1411e07f0dcf45309720134f9.jpeg?imageMogr2/quality/100","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0}],"consumption":{"collectionCount":68,"shareCount":22,"replyCount":4,"realCollectionCount":13},"resourceType":"video","slogan":null,"provider":{"name":"YouTube","alias":"youtube","icon":"http://ali-img.kaiyanapp.com/fa20228bc5b921e837156923a58713f6.png"},"category":"记录","author":{"id":2166,"icon":"http://ali-img.kaiyanapp.com/a2fc6d32ac0b4f2842fb3d545d06f09b.jpeg","name":"开眼记录精选","description":"「每部电影都是一部纪录片」——比尔·尼科尔斯","link":"","latestReleaseTime":1697158822000,"videoNum":996,"adTrack":null,"follow":{"itemType":"author","itemId":2166,"followed":false},"shield":{"itemType":"author","itemId":2166,"shielded":false},"approvedNotReadyVideoCount":0,"ifPgc":true,"recSort":0,"expert":false},"cover":{"feed":"http://ali-img.kaiyanapp.com/9569076e1d2e2240c75df9d61b48a2c0.png?imageMogr2/quality/60/format/jpg","detail":"http://ali-img.kaiyanapp.com/9569076e1d2e2240c75df9d61b48a2c0.png?imageMogr2/quality/60/format/jpg","blurred":"http://ali-img.kaiyanapp.com/b568d55ad065ffc391e6e8f5849537e6.png?imageMogr2/quality/60/format/jpg","sharing":null,"homepage":"http://img.kaiyanapp.com/9569076e1d2e2240c75df9d61b48a2c0.png?imageView2/1/w/720/h/560/format/jpg/q/75|watermark/1/image/aHR0cDovL2ltZy5rYWl5YW5hcHAuY29tL2JsYWNrXzMwLnBuZw==/dissolve/100/gravity/Center/dx/0/dy/0|imageslim"},"playUrl":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320080&resourceType=video&editionType=default&source=aliyun&playUrlType=url_oss&udid=","thumbPlayUrl":null,"duration":506,"webUrl":{"raw":"http://www.eyepetizer.net/detail.html?vid=320080","forWeibo":"https://m.eyepetizer.net/u1/video-detail?video_id=320080&resource_type=video&utm_campaign=routine&utm_medium=share&utm_source=weibo&uid=0"},"releaseTime":1697158822000,"playInfo":[{"height":720,"width":1280,"urlList":[{"name":"aliyun","url":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320080&resourceType=video&editionType=high&source=aliyun&playUrlType=url_oss&udid=","size":51006996},{"name":"ucloud","url":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320080&resourceType=video&editionType=high&source=ucloud&playUrlType=url_oss&udid=","size":51006996}],"name":"高清","type":"high","url":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320080&resourceType=video&editionType=high&source=aliyun&playUrlType=url_oss&udid="}],"campaign":null,"waterMarks":null,"ad":false,"type":"NORMAL","titlePgc":"记录f 海洋","descriptionPgc":"","remark":null,"ifLimitVideo":false,"searchWeight":0,"brandWebsiteInfo":null,"videoPosterBean":null,"idx":0,"shareAdTrack":null,"favoriteAdTrack":null,"webAdTrack":null,"date":1697158800000,"promotion":null,"label":null,"descriptionEditor":"人类为了解生物发光的努力已有数千年的历史，它是科学研究中最古老的领域之一，其中关于「荧光海」的秘密至今也难以捉摸。在本期「不为人知的地球」节目中，科考人员将与咸海的生物发光藻类一起下水，亲自体验并追问：究竟是什么让人们如此痴迷于这个难以捉摸的谜团？From PBS Terra","collected":false,"reallyCollected":false,"played":false,"lastViewTime":null,"playlists":null,"src":null,"recallSource":null,"recall_source":null},"trackingData":null,"tag":null,"id":0,"adIndex":-1}]
 /// count : 10
 
 class IssueList {
@@ -143,8 +143,8 @@ IssueList copyWith({  num? releaseTime,
 
 }
 
-/// type : "banner2"
-/// data : {"dataType":"Banner","id":0,"title":"","description":"","image":"http://img.kaiyanapp.com/eef24aa10ab6cf17b5a512943ec22053.jpeg?imageMogr2/quality/60/format/jpg","actionUrl":"","adTrack":null,"shade":false,"label":null,"labelList":null,"header":null,"autoPlay":false}
+/// type : "video"
+/// data : {"dataType":"VideoBeanForClient","id":320080,"title":"传说中的浪漫！探索地球蓝泪「荧光海」","description":"人类为了解生物发光的努力已有数千年的历史，它是科学研究中最古老的领域之一，其中关于「荧光海」的秘密至今也难以捉摸。在本期「不为人知的地球」节目中，科考人员将与咸海的生物发光藻类一起下水，亲自体验并追问：究竟是什么让人们如此痴迷于这个难以捉摸的谜团？From PBS Terra","library":"DAILY","tags":[{"id":743,"name":"记录精选","actionUrl":"eyepetizer://tag/743/?title=%E8%AE%B0%E5%BD%95%E7%B2%BE%E9%80%89","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/a082f44b88e78daaf19fa4e1a2faaa5a.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/a082f44b88e78daaf19fa4e1a2faaa5a.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"IMPORTANT","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":192,"name":"迷幻","actionUrl":"eyepetizer://tag/192/?title=%E8%BF%B7%E5%B9%BB","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/b583ca556f865642edeca1a02e983fcc.jpeg?imageMogr2/quality/100","headerImage":"http://img.kaiyanapp.com/b583ca556f865642edeca1a02e983fcc.jpeg?imageMogr2/quality/100","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":52,"name":"风光大片","actionUrl":"eyepetizer://tag/52/?title=%E9%A3%8E%E5%85%89%E5%A4%A7%E7%89%87","adTrack":null,"desc":"","bgPicture":"http://img.kaiyanapp.com/e484dd6aa22ea3c2e604812b44f8c60c.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/f333f225c9ccc78819120f3a888b2e7e.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":202,"name":"唯美","actionUrl":"eyepetizer://tag/202/?title=%E5%94%AF%E7%BE%8E","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/965a0a74d0af871eb174b5c7def6fd6d.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/965a0a74d0af871eb174b5c7def6fd6d.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":146,"name":"666","actionUrl":"eyepetizer://tag/146/?title=666","adTrack":null,"desc":null,"bgPicture":"https://i.ytimg.com/vi/MKWWhf8RAV8/maxresdefault.jpg","headerImage":"http://img.kaiyanapp.com/522f7e51abb07a4a4438b82ee54174a4.jpeg?imageMogr2/quality/100","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":148,"name":"匠心","actionUrl":"eyepetizer://tag/148/?title=%E5%8C%A0%E5%BF%83","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/cf568288dc8087fa728308f2623b9527.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/cf568288dc8087fa728308f2623b9527.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":24,"name":"记录","actionUrl":"eyepetizer://tag/24/?title=%E8%AE%B0%E5%BD%95","adTrack":null,"desc":"告诉他们为什么与众不同","bgPicture":"http://img.kaiyanapp.com/c3984cad49455e01637347e0c8f6a37d.jpeg?imageMogr2/quality/100","headerImage":"http://img.kaiyanapp.com/fd76dab1411e07f0dcf45309720134f9.jpeg?imageMogr2/quality/100","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0}],"consumption":{"collectionCount":68,"shareCount":22,"replyCount":4,"realCollectionCount":13},"resourceType":"video","slogan":null,"provider":{"name":"YouTube","alias":"youtube","icon":"http://ali-img.kaiyanapp.com/fa20228bc5b921e837156923a58713f6.png"},"category":"记录","author":{"id":2166,"icon":"http://ali-img.kaiyanapp.com/a2fc6d32ac0b4f2842fb3d545d06f09b.jpeg","name":"开眼记录精选","description":"「每部电影都是一部纪录片」——比尔·尼科尔斯","link":"","latestReleaseTime":1697158822000,"videoNum":996,"adTrack":null,"follow":{"itemType":"author","itemId":2166,"followed":false},"shield":{"itemType":"author","itemId":2166,"shielded":false},"approvedNotReadyVideoCount":0,"ifPgc":true,"recSort":0,"expert":false},"cover":{"feed":"http://ali-img.kaiyanapp.com/9569076e1d2e2240c75df9d61b48a2c0.png?imageMogr2/quality/60/format/jpg","detail":"http://ali-img.kaiyanapp.com/9569076e1d2e2240c75df9d61b48a2c0.png?imageMogr2/quality/60/format/jpg","blurred":"http://ali-img.kaiyanapp.com/b568d55ad065ffc391e6e8f5849537e6.png?imageMogr2/quality/60/format/jpg","sharing":null,"homepage":"http://img.kaiyanapp.com/9569076e1d2e2240c75df9d61b48a2c0.png?imageView2/1/w/720/h/560/format/jpg/q/75|watermark/1/image/aHR0cDovL2ltZy5rYWl5YW5hcHAuY29tL2JsYWNrXzMwLnBuZw==/dissolve/100/gravity/Center/dx/0/dy/0|imageslim"},"playUrl":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320080&resourceType=video&editionType=default&source=aliyun&playUrlType=url_oss&udid=","thumbPlayUrl":null,"duration":506,"webUrl":{"raw":"http://www.eyepetizer.net/detail.html?vid=320080","forWeibo":"https://m.eyepetizer.net/u1/video-detail?video_id=320080&resource_type=video&utm_campaign=routine&utm_medium=share&utm_source=weibo&uid=0"},"releaseTime":1697158822000,"playInfo":[{"height":720,"width":1280,"urlList":[{"name":"aliyun","url":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320080&resourceType=video&editionType=high&source=aliyun&playUrlType=url_oss&udid=","size":51006996},{"name":"ucloud","url":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320080&resourceType=video&editionType=high&source=ucloud&playUrlType=url_oss&udid=","size":51006996}],"name":"高清","type":"high","url":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320080&resourceType=video&editionType=high&source=aliyun&playUrlType=url_oss&udid="}],"campaign":null,"waterMarks":null,"ad":false,"type":"NORMAL","titlePgc":"记录f 海洋","descriptionPgc":"","remark":null,"ifLimitVideo":false,"searchWeight":0,"brandWebsiteInfo":null,"videoPosterBean":null,"idx":0,"shareAdTrack":null,"favoriteAdTrack":null,"webAdTrack":null,"date":1697158800000,"promotion":null,"label":null,"descriptionEditor":"人类为了解生物发光的努力已有数千年的历史，它是科学研究中最古老的领域之一，其中关于「荧光海」的秘密至今也难以捉摸。在本期「不为人知的地球」节目中，科考人员将与咸海的生物发光藻类一起下水，亲自体验并追问：究竟是什么让人们如此痴迷于这个难以捉摸的谜团？From PBS Terra","collected":false,"reallyCollected":false,"played":false,"lastViewTime":null,"playlists":null,"src":null,"recallSource":null,"recall_source":null}
 /// trackingData : null
 /// tag : null
 /// id : 0
@@ -215,18 +215,52 @@ ItemList copyWith({  String? type,
 
 }
 
-/// dataType : "Banner"
-/// id : 0
-/// title : ""
-/// description : ""
-/// image : "http://img.kaiyanapp.com/eef24aa10ab6cf17b5a512943ec22053.jpeg?imageMogr2/quality/60/format/jpg"
-/// actionUrl : ""
-/// adTrack : null
-/// shade : false
+/// dataType : "VideoBeanForClient"
+/// id : 320080
+/// title : "传说中的浪漫！探索地球蓝泪「荧光海」"
+/// description : "人类为了解生物发光的努力已有数千年的历史，它是科学研究中最古老的领域之一，其中关于「荧光海」的秘密至今也难以捉摸。在本期「不为人知的地球」节目中，科考人员将与咸海的生物发光藻类一起下水，亲自体验并追问：究竟是什么让人们如此痴迷于这个难以捉摸的谜团？From PBS Terra"
+/// library : "DAILY"
+/// tags : [{"id":743,"name":"记录精选","actionUrl":"eyepetizer://tag/743/?title=%E8%AE%B0%E5%BD%95%E7%B2%BE%E9%80%89","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/a082f44b88e78daaf19fa4e1a2faaa5a.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/a082f44b88e78daaf19fa4e1a2faaa5a.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"IMPORTANT","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":192,"name":"迷幻","actionUrl":"eyepetizer://tag/192/?title=%E8%BF%B7%E5%B9%BB","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/b583ca556f865642edeca1a02e983fcc.jpeg?imageMogr2/quality/100","headerImage":"http://img.kaiyanapp.com/b583ca556f865642edeca1a02e983fcc.jpeg?imageMogr2/quality/100","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":52,"name":"风光大片","actionUrl":"eyepetizer://tag/52/?title=%E9%A3%8E%E5%85%89%E5%A4%A7%E7%89%87","adTrack":null,"desc":"","bgPicture":"http://img.kaiyanapp.com/e484dd6aa22ea3c2e604812b44f8c60c.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/f333f225c9ccc78819120f3a888b2e7e.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":202,"name":"唯美","actionUrl":"eyepetizer://tag/202/?title=%E5%94%AF%E7%BE%8E","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/965a0a74d0af871eb174b5c7def6fd6d.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/965a0a74d0af871eb174b5c7def6fd6d.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":146,"name":"666","actionUrl":"eyepetizer://tag/146/?title=666","adTrack":null,"desc":null,"bgPicture":"https://i.ytimg.com/vi/MKWWhf8RAV8/maxresdefault.jpg","headerImage":"http://img.kaiyanapp.com/522f7e51abb07a4a4438b82ee54174a4.jpeg?imageMogr2/quality/100","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":148,"name":"匠心","actionUrl":"eyepetizer://tag/148/?title=%E5%8C%A0%E5%BF%83","adTrack":null,"desc":null,"bgPicture":"http://img.kaiyanapp.com/cf568288dc8087fa728308f2623b9527.jpeg?imageMogr2/quality/60/format/jpg","headerImage":"http://img.kaiyanapp.com/cf568288dc8087fa728308f2623b9527.jpeg?imageMogr2/quality/60/format/jpg","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0},{"id":24,"name":"记录","actionUrl":"eyepetizer://tag/24/?title=%E8%AE%B0%E5%BD%95","adTrack":null,"desc":"告诉他们为什么与众不同","bgPicture":"http://img.kaiyanapp.com/c3984cad49455e01637347e0c8f6a37d.jpeg?imageMogr2/quality/100","headerImage":"http://img.kaiyanapp.com/fd76dab1411e07f0dcf45309720134f9.jpeg?imageMogr2/quality/100","tagRecType":"NORMAL","childTagList":null,"childTagIdList":null,"haveReward":false,"ifNewest":false,"newestEndTime":null,"communityIndex":0}]
+/// consumption : {"collectionCount":68,"shareCount":22,"replyCount":4,"realCollectionCount":13}
+/// resourceType : "video"
+/// slogan : null
+/// provider : {"name":"YouTube","alias":"youtube","icon":"http://ali-img.kaiyanapp.com/fa20228bc5b921e837156923a58713f6.png"}
+/// category : "记录"
+/// author : {"id":2166,"icon":"http://ali-img.kaiyanapp.com/a2fc6d32ac0b4f2842fb3d545d06f09b.jpeg","name":"开眼记录精选","description":"「每部电影都是一部纪录片」——比尔·尼科尔斯","link":"","latestReleaseTime":1697158822000,"videoNum":996,"adTrack":null,"follow":{"itemType":"author","itemId":2166,"followed":false},"shield":{"itemType":"author","itemId":2166,"shielded":false},"approvedNotReadyVideoCount":0,"ifPgc":true,"recSort":0,"expert":false}
+/// cover : {"feed":"http://ali-img.kaiyanapp.com/9569076e1d2e2240c75df9d61b48a2c0.png?imageMogr2/quality/60/format/jpg","detail":"http://ali-img.kaiyanapp.com/9569076e1d2e2240c75df9d61b48a2c0.png?imageMogr2/quality/60/format/jpg","blurred":"http://ali-img.kaiyanapp.com/b568d55ad065ffc391e6e8f5849537e6.png?imageMogr2/quality/60/format/jpg","sharing":null,"homepage":"http://img.kaiyanapp.com/9569076e1d2e2240c75df9d61b48a2c0.png?imageView2/1/w/720/h/560/format/jpg/q/75|watermark/1/image/aHR0cDovL2ltZy5rYWl5YW5hcHAuY29tL2JsYWNrXzMwLnBuZw==/dissolve/100/gravity/Center/dx/0/dy/0|imageslim"}
+/// playUrl : "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320080&resourceType=video&editionType=default&source=aliyun&playUrlType=url_oss&udid="
+/// thumbPlayUrl : null
+/// duration : 506
+/// webUrl : {"raw":"http://www.eyepetizer.net/detail.html?vid=320080","forWeibo":"https://m.eyepetizer.net/u1/video-detail?video_id=320080&resource_type=video&utm_campaign=routine&utm_medium=share&utm_source=weibo&uid=0"}
+/// releaseTime : 1697158822000
+/// playInfo : [{"height":720,"width":1280,"urlList":[{"name":"aliyun","url":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320080&resourceType=video&editionType=high&source=aliyun&playUrlType=url_oss&udid=","size":51006996},{"name":"ucloud","url":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320080&resourceType=video&editionType=high&source=ucloud&playUrlType=url_oss&udid=","size":51006996}],"name":"高清","type":"high","url":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320080&resourceType=video&editionType=high&source=aliyun&playUrlType=url_oss&udid="}]
+/// campaign : null
+/// waterMarks : null
+/// ad : false
+/// type : "NORMAL"
+/// titlePgc : "记录f 海洋"
+/// descriptionPgc : ""
+/// remark : null
+/// ifLimitVideo : false
+/// searchWeight : 0
+/// brandWebsiteInfo : null
+/// videoPosterBean : null
+/// idx : 0
+/// shareAdTrack : null
+/// favoriteAdTrack : null
+/// webAdTrack : null
+/// date : 1697158800000
+/// promotion : null
 /// label : null
-/// labelList : null
-/// header : null
-/// autoPlay : false
+/// descriptionEditor : "人类为了解生物发光的努力已有数千年的历史，它是科学研究中最古老的领域之一，其中关于「荧光海」的秘密至今也难以捉摸。在本期「不为人知的地球」节目中，科考人员将与咸海的生物发光藻类一起下水，亲自体验并追问：究竟是什么让人们如此痴迷于这个难以捉摸的谜团？From PBS Terra"
+/// collected : false
+/// reallyCollected : false
+/// played : false
+/// lastViewTime : null
+/// playlists : null
+/// src : null
+/// recallSource : null
+/// recall_source : null
 
 class Data {
   Data({
@@ -234,26 +268,93 @@ class Data {
       num? id, 
       String? title, 
       String? description, 
-      String? image, 
-      String? actionUrl, 
-      dynamic adTrack, 
-      bool? shade, 
+      String? library, 
+      List<Tags>? tags, 
+      Consumption? consumption, 
+      String? resourceType, 
+      dynamic slogan, 
+      Provider? provider, 
+      String? category, 
+      Author? author, 
+      Cover? cover, 
+      String? playUrl, 
+      dynamic thumbPlayUrl, 
+      num? duration, 
+      WebUrl? webUrl, 
+      num? releaseTime, 
+      List<PlayInfo>? playInfo, 
+      dynamic campaign, 
+      dynamic waterMarks, 
+      bool? ad, 
+      String? type, 
+      String? titlePgc, 
+      String? descriptionPgc, 
+      dynamic remark, 
+      bool? ifLimitVideo, 
+      num? searchWeight, 
+      dynamic brandWebsiteInfo, 
+      dynamic videoPosterBean, 
+      num? idx, 
+      dynamic shareAdTrack, 
+      dynamic favoriteAdTrack, 
+      dynamic webAdTrack, 
+      num? date, 
+      dynamic promotion, 
       dynamic label, 
-      dynamic labelList, 
-      dynamic header, 
-      bool? autoPlay,}){
+      String? descriptionEditor, 
+      bool? collected, 
+      bool? reallyCollected, 
+      bool? played, 
+      dynamic lastViewTime, 
+      dynamic playlists, 
+      dynamic src, 
+      dynamic recallSource,}){
     _dataType = dataType;
     _id = id;
     _title = title;
     _description = description;
-    _image = image;
-    _actionUrl = actionUrl;
-    _adTrack = adTrack;
-    _shade = shade;
+    _library = library;
+    _tags = tags;
+    _consumption = consumption;
+    _resourceType = resourceType;
+    _slogan = slogan;
+    _provider = provider;
+    _category = category;
+    _author = author;
+    _cover = cover;
+    _playUrl = playUrl;
+    _thumbPlayUrl = thumbPlayUrl;
+    _duration = duration;
+    _webUrl = webUrl;
+    _releaseTime = releaseTime;
+    _playInfo = playInfo;
+    _campaign = campaign;
+    _waterMarks = waterMarks;
+    _ad = ad;
+    _type = type;
+    _titlePgc = titlePgc;
+    _descriptionPgc = descriptionPgc;
+    _remark = remark;
+    _ifLimitVideo = ifLimitVideo;
+    _searchWeight = searchWeight;
+    _brandWebsiteInfo = brandWebsiteInfo;
+    _videoPosterBean = videoPosterBean;
+    _idx = idx;
+    _shareAdTrack = shareAdTrack;
+    _favoriteAdTrack = favoriteAdTrack;
+    _webAdTrack = webAdTrack;
+    _date = date;
+    _promotion = promotion;
     _label = label;
-    _labelList = labelList;
-    _header = header;
-    _autoPlay = autoPlay;
+    _descriptionEditor = descriptionEditor;
+    _collected = collected;
+    _reallyCollected = reallyCollected;
+    _played = played;
+    _lastViewTime = lastViewTime;
+    _playlists = playlists;
+    _src = src;
+    _recallSource = recallSource;
+    _recallSource = recallSource;
 }
 
   Data.fromJson(dynamic json) {
@@ -261,64 +362,240 @@ class Data {
     _id = json['id'];
     _title = json['title'];
     _description = json['description'];
-    _image = json['image'];
-    _actionUrl = json['actionUrl'];
-    _adTrack = json['adTrack'];
-    _shade = json['shade'];
+    _library = json['library'];
+    if (json['tags'] != null) {
+      _tags = [];
+      json['tags'].forEach((v) {
+        _tags?.add(Tags.fromJson(v));
+      });
+    }
+    _consumption = json['consumption'] != null ? Consumption.fromJson(json['consumption']) : null;
+    _resourceType = json['resourceType'];
+    _slogan = json['slogan'];
+    _provider = json['provider'] != null ? Provider.fromJson(json['provider']) : null;
+    _category = json['category'];
+    _author = json['author'] != null ? Author.fromJson(json['author']) : null;
+    _cover = json['cover'] != null ? Cover.fromJson(json['cover']) : null;
+    _playUrl = json['playUrl'];
+    _thumbPlayUrl = json['thumbPlayUrl'];
+    _duration = json['duration'];
+    _webUrl = json['webUrl'] != null ? WebUrl.fromJson(json['webUrl']) : null;
+    _releaseTime = json['releaseTime'];
+    if (json['playInfo'] != null) {
+      _playInfo = [];
+      json['playInfo'].forEach((v) {
+        _playInfo?.add(PlayInfo.fromJson(v));
+      });
+    }
+    _campaign = json['campaign'];
+    _waterMarks = json['waterMarks'];
+    _ad = json['ad'];
+    _type = json['type'];
+    _titlePgc = json['titlePgc'];
+    _descriptionPgc = json['descriptionPgc'];
+    _remark = json['remark'];
+    _ifLimitVideo = json['ifLimitVideo'];
+    _searchWeight = json['searchWeight'];
+    _brandWebsiteInfo = json['brandWebsiteInfo'];
+    _videoPosterBean = json['videoPosterBean'];
+    _idx = json['idx'];
+    _shareAdTrack = json['shareAdTrack'];
+    _favoriteAdTrack = json['favoriteAdTrack'];
+    _webAdTrack = json['webAdTrack'];
+    _date = json['date'];
+    _promotion = json['promotion'];
     _label = json['label'];
-    _labelList = json['labelList'];
-    _header = json['header'];
-    _autoPlay = json['autoPlay'];
+    _descriptionEditor = json['descriptionEditor'];
+    _collected = json['collected'];
+    _reallyCollected = json['reallyCollected'];
+    _played = json['played'];
+    _lastViewTime = json['lastViewTime'];
+    _playlists = json['playlists'];
+    _src = json['src'];
+    _recallSource = json['recallSource'];
+    _recallSource = json['recall_source'];
   }
   String? _dataType;
   num? _id;
   String? _title;
   String? _description;
-  String? _image;
-  String? _actionUrl;
-  dynamic _adTrack;
-  bool? _shade;
+  String? _library;
+  List<Tags>? _tags;
+  Consumption? _consumption;
+  String? _resourceType;
+  dynamic _slogan;
+  Provider? _provider;
+  String? _category;
+  Author? _author;
+  Cover? _cover;
+  String? _playUrl;
+  dynamic _thumbPlayUrl;
+  num? _duration;
+  WebUrl? _webUrl;
+  num? _releaseTime;
+  List<PlayInfo>? _playInfo;
+  dynamic _campaign;
+  dynamic _waterMarks;
+  bool? _ad;
+  String? _type;
+  String? _titlePgc;
+  String? _descriptionPgc;
+  dynamic _remark;
+  bool? _ifLimitVideo;
+  num? _searchWeight;
+  dynamic _brandWebsiteInfo;
+  dynamic _videoPosterBean;
+  num? _idx;
+  dynamic _shareAdTrack;
+  dynamic _favoriteAdTrack;
+  dynamic _webAdTrack;
+  num? _date;
+  dynamic _promotion;
   dynamic _label;
-  dynamic _labelList;
-  dynamic _header;
-  bool? _autoPlay;
+  String? _descriptionEditor;
+  bool? _collected;
+  bool? _reallyCollected;
+  bool? _played;
+  dynamic _lastViewTime;
+  dynamic _playlists;
+  dynamic _src;
+  dynamic _recallSource;
 Data copyWith({  String? dataType,
   num? id,
   String? title,
   String? description,
-  String? image,
-  String? actionUrl,
-  dynamic adTrack,
-  bool? shade,
+  String? library,
+  List<Tags>? tags,
+  Consumption? consumption,
+  String? resourceType,
+  dynamic slogan,
+  Provider? provider,
+  String? category,
+  Author? author,
+  Cover? cover,
+  String? playUrl,
+  dynamic thumbPlayUrl,
+  num? duration,
+  WebUrl? webUrl,
+  num? releaseTime,
+  List<PlayInfo>? playInfo,
+  dynamic campaign,
+  dynamic waterMarks,
+  bool? ad,
+  String? type,
+  String? titlePgc,
+  String? descriptionPgc,
+  dynamic remark,
+  bool? ifLimitVideo,
+  num? searchWeight,
+  dynamic brandWebsiteInfo,
+  dynamic videoPosterBean,
+  num? idx,
+  dynamic shareAdTrack,
+  dynamic favoriteAdTrack,
+  dynamic webAdTrack,
+  num? date,
+  dynamic promotion,
   dynamic label,
-  dynamic labelList,
-  dynamic header,
-  bool? autoPlay,
+  String? descriptionEditor,
+  bool? collected,
+  bool? reallyCollected,
+  bool? played,
+  dynamic lastViewTime,
+  dynamic playlists,
+  dynamic src,
+  dynamic recallSource,
 }) => Data(  dataType: dataType ?? _dataType,
   id: id ?? _id,
   title: title ?? _title,
   description: description ?? _description,
-  image: image ?? _image,
-  actionUrl: actionUrl ?? _actionUrl,
-  adTrack: adTrack ?? _adTrack,
-  shade: shade ?? _shade,
+  library: library ?? _library,
+  tags: tags ?? _tags,
+  consumption: consumption ?? _consumption,
+  resourceType: resourceType ?? _resourceType,
+  slogan: slogan ?? _slogan,
+  provider: provider ?? _provider,
+  category: category ?? _category,
+  author: author ?? _author,
+  cover: cover ?? _cover,
+  playUrl: playUrl ?? _playUrl,
+  thumbPlayUrl: thumbPlayUrl ?? _thumbPlayUrl,
+  duration: duration ?? _duration,
+  webUrl: webUrl ?? _webUrl,
+  releaseTime: releaseTime ?? _releaseTime,
+  playInfo: playInfo ?? _playInfo,
+  campaign: campaign ?? _campaign,
+  waterMarks: waterMarks ?? _waterMarks,
+  ad: ad ?? _ad,
+  type: type ?? _type,
+  titlePgc: titlePgc ?? _titlePgc,
+  descriptionPgc: descriptionPgc ?? _descriptionPgc,
+  remark: remark ?? _remark,
+  ifLimitVideo: ifLimitVideo ?? _ifLimitVideo,
+  searchWeight: searchWeight ?? _searchWeight,
+  brandWebsiteInfo: brandWebsiteInfo ?? _brandWebsiteInfo,
+  videoPosterBean: videoPosterBean ?? _videoPosterBean,
+  idx: idx ?? _idx,
+  shareAdTrack: shareAdTrack ?? _shareAdTrack,
+  favoriteAdTrack: favoriteAdTrack ?? _favoriteAdTrack,
+  webAdTrack: webAdTrack ?? _webAdTrack,
+  date: date ?? _date,
+  promotion: promotion ?? _promotion,
   label: label ?? _label,
-  labelList: labelList ?? _labelList,
-  header: header ?? _header,
-  autoPlay: autoPlay ?? _autoPlay,
+  descriptionEditor: descriptionEditor ?? _descriptionEditor,
+  collected: collected ?? _collected,
+  reallyCollected: reallyCollected ?? _reallyCollected,
+  played: played ?? _played,
+  lastViewTime: lastViewTime ?? _lastViewTime,
+  playlists: playlists ?? _playlists,
+  src: src ?? _src,
+  recallSource: recallSource ?? _recallSource,
 );
   String? get dataType => _dataType;
   num? get id => _id;
   String? get title => _title;
   String? get description => _description;
-  String? get image => _image;
-  String? get actionUrl => _actionUrl;
-  dynamic get adTrack => _adTrack;
-  bool? get shade => _shade;
+  String? get library => _library;
+  List<Tags>? get tags => _tags;
+  Consumption? get consumption => _consumption;
+  String? get resourceType => _resourceType;
+  dynamic get slogan => _slogan;
+  Provider? get provider => _provider;
+  String? get category => _category;
+  Author? get author => _author;
+  Cover? get cover => _cover;
+  String? get playUrl => _playUrl;
+  dynamic get thumbPlayUrl => _thumbPlayUrl;
+  num? get duration => _duration;
+  WebUrl? get webUrl => _webUrl;
+  num? get releaseTime => _releaseTime;
+  List<PlayInfo>? get playInfo => _playInfo;
+  dynamic get campaign => _campaign;
+  dynamic get waterMarks => _waterMarks;
+  bool? get ad => _ad;
+  String? get type => _type;
+  String? get titlePgc => _titlePgc;
+  String? get descriptionPgc => _descriptionPgc;
+  dynamic get remark => _remark;
+  bool? get ifLimitVideo => _ifLimitVideo;
+  num? get searchWeight => _searchWeight;
+  dynamic get brandWebsiteInfo => _brandWebsiteInfo;
+  dynamic get videoPosterBean => _videoPosterBean;
+  num? get idx => _idx;
+  dynamic get shareAdTrack => _shareAdTrack;
+  dynamic get favoriteAdTrack => _favoriteAdTrack;
+  dynamic get webAdTrack => _webAdTrack;
+  num? get date => _date;
+  dynamic get promotion => _promotion;
   dynamic get label => _label;
-  dynamic get labelList => _labelList;
-  dynamic get header => _header;
-  bool? get autoPlay => _autoPlay;
+  String? get descriptionEditor => _descriptionEditor;
+  bool? get collected => _collected;
+  bool? get reallyCollected => _reallyCollected;
+  bool? get played => _played;
+  dynamic get lastViewTime => _lastViewTime;
+  dynamic get playlists => _playlists;
+  dynamic get src => _src;
+  dynamic get recallSource => _recallSource;
 
   Map<String, dynamic> toJson() {
     final map = <String, dynamic>{};
@@ -326,14 +603,746 @@ Data copyWith({  String? dataType,
     map['id'] = _id;
     map['title'] = _title;
     map['description'] = _description;
-    map['image'] = _image;
+    map['library'] = _library;
+    if (_tags != null) {
+      map['tags'] = _tags?.map((v) => v.toJson()).toList();
+    }
+    if (_consumption != null) {
+      map['consumption'] = _consumption?.toJson();
+    }
+    map['resourceType'] = _resourceType;
+    map['slogan'] = _slogan;
+    if (_provider != null) {
+      map['provider'] = _provider?.toJson();
+    }
+    map['category'] = _category;
+    if (_author != null) {
+      map['author'] = _author?.toJson();
+    }
+    if (_cover != null) {
+      map['cover'] = _cover?.toJson();
+    }
+    map['playUrl'] = _playUrl;
+    map['thumbPlayUrl'] = _thumbPlayUrl;
+    map['duration'] = _duration;
+    if (_webUrl != null) {
+      map['webUrl'] = _webUrl?.toJson();
+    }
+    map['releaseTime'] = _releaseTime;
+    if (_playInfo != null) {
+      map['playInfo'] = _playInfo?.map((v) => v.toJson()).toList();
+    }
+    map['campaign'] = _campaign;
+    map['waterMarks'] = _waterMarks;
+    map['ad'] = _ad;
+    map['type'] = _type;
+    map['titlePgc'] = _titlePgc;
+    map['descriptionPgc'] = _descriptionPgc;
+    map['remark'] = _remark;
+    map['ifLimitVideo'] = _ifLimitVideo;
+    map['searchWeight'] = _searchWeight;
+    map['brandWebsiteInfo'] = _brandWebsiteInfo;
+    map['videoPosterBean'] = _videoPosterBean;
+    map['idx'] = _idx;
+    map['shareAdTrack'] = _shareAdTrack;
+    map['favoriteAdTrack'] = _favoriteAdTrack;
+    map['webAdTrack'] = _webAdTrack;
+    map['date'] = _date;
+    map['promotion'] = _promotion;
+    map['label'] = _label;
+    map['descriptionEditor'] = _descriptionEditor;
+    map['collected'] = _collected;
+    map['reallyCollected'] = _reallyCollected;
+    map['played'] = _played;
+    map['lastViewTime'] = _lastViewTime;
+    map['playlists'] = _playlists;
+    map['src'] = _src;
+    map['recallSource'] = _recallSource;
+    map['recall_source'] = _recallSource;
+    return map;
+  }
+
+}
+
+/// height : 720
+/// width : 1280
+/// urlList : [{"name":"aliyun","url":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320080&resourceType=video&editionType=high&source=aliyun&playUrlType=url_oss&udid=","size":51006996},{"name":"ucloud","url":"http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320080&resourceType=video&editionType=high&source=ucloud&playUrlType=url_oss&udid=","size":51006996}]
+/// name : "高清"
+/// type : "high"
+/// url : "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320080&resourceType=video&editionType=high&source=aliyun&playUrlType=url_oss&udid="
+
+class PlayInfo {
+  PlayInfo({
+      num? height, 
+      num? width, 
+      List<UrlList>? urlList, 
+      String? name, 
+      String? type, 
+      String? url,}){
+    _height = height;
+    _width = width;
+    _urlList = urlList;
+    _name = name;
+    _type = type;
+    _url = url;
+}
+
+  PlayInfo.fromJson(dynamic json) {
+    _height = json['height'];
+    _width = json['width'];
+    if (json['urlList'] != null) {
+      _urlList = [];
+      json['urlList'].forEach((v) {
+        _urlList?.add(UrlList.fromJson(v));
+      });
+    }
+    _name = json['name'];
+    _type = json['type'];
+    _url = json['url'];
+  }
+  num? _height;
+  num? _width;
+  List<UrlList>? _urlList;
+  String? _name;
+  String? _type;
+  String? _url;
+PlayInfo copyWith({  num? height,
+  num? width,
+  List<UrlList>? urlList,
+  String? name,
+  String? type,
+  String? url,
+}) => PlayInfo(  height: height ?? _height,
+  width: width ?? _width,
+  urlList: urlList ?? _urlList,
+  name: name ?? _name,
+  type: type ?? _type,
+  url: url ?? _url,
+);
+  num? get height => _height;
+  num? get width => _width;
+  List<UrlList>? get urlList => _urlList;
+  String? get name => _name;
+  String? get type => _type;
+  String? get url => _url;
+
+  Map<String, dynamic> toJson() {
+    final map = <String, dynamic>{};
+    map['height'] = _height;
+    map['width'] = _width;
+    if (_urlList != null) {
+      map['urlList'] = _urlList?.map((v) => v.toJson()).toList();
+    }
+    map['name'] = _name;
+    map['type'] = _type;
+    map['url'] = _url;
+    return map;
+  }
+
+}
+
+/// name : "aliyun"
+/// url : "http://baobab.kaiyanapp.com/api/v1/playUrl?vid=320080&resourceType=video&editionType=high&source=aliyun&playUrlType=url_oss&udid="
+/// size : 51006996
+
+class UrlList {
+  UrlList({
+      String? name, 
+      String? url, 
+      num? size,}){
+    _name = name;
+    _url = url;
+    _size = size;
+}
+
+  UrlList.fromJson(dynamic json) {
+    _name = json['name'];
+    _url = json['url'];
+    _size = json['size'];
+  }
+  String? _name;
+  String? _url;
+  num? _size;
+UrlList copyWith({  String? name,
+  String? url,
+  num? size,
+}) => UrlList(  name: name ?? _name,
+  url: url ?? _url,
+  size: size ?? _size,
+);
+  String? get name => _name;
+  String? get url => _url;
+  num? get size => _size;
+
+  Map<String, dynamic> toJson() {
+    final map = <String, dynamic>{};
+    map['name'] = _name;
+    map['url'] = _url;
+    map['size'] = _size;
+    return map;
+  }
+
+}
+
+/// raw : "http://www.eyepetizer.net/detail.html?vid=320080"
+/// forWeibo : "https://m.eyepetizer.net/u1/video-detail?video_id=320080&resource_type=video&utm_campaign=routine&utm_medium=share&utm_source=weibo&uid=0"
+
+class WebUrl {
+  WebUrl({
+      String? raw, 
+      String? forWeibo,}){
+    _raw = raw;
+    _forWeibo = forWeibo;
+}
+
+  WebUrl.fromJson(dynamic json) {
+    _raw = json['raw'];
+    _forWeibo = json['forWeibo'];
+  }
+  String? _raw;
+  String? _forWeibo;
+WebUrl copyWith({  String? raw,
+  String? forWeibo,
+}) => WebUrl(  raw: raw ?? _raw,
+  forWeibo: forWeibo ?? _forWeibo,
+);
+  String? get raw => _raw;
+  String? get forWeibo => _forWeibo;
+
+  Map<String, dynamic> toJson() {
+    final map = <String, dynamic>{};
+    map['raw'] = _raw;
+    map['forWeibo'] = _forWeibo;
+    return map;
+  }
+
+}
+
+/// feed : "http://ali-img.kaiyanapp.com/9569076e1d2e2240c75df9d61b48a2c0.png?imageMogr2/quality/60/format/jpg"
+/// detail : "http://ali-img.kaiyanapp.com/9569076e1d2e2240c75df9d61b48a2c0.png?imageMogr2/quality/60/format/jpg"
+/// blurred : "http://ali-img.kaiyanapp.com/b568d55ad065ffc391e6e8f5849537e6.png?imageMogr2/quality/60/format/jpg"
+/// sharing : null
+/// homepage : "http://img.kaiyanapp.com/9569076e1d2e2240c75df9d61b48a2c0.png?imageView2/1/w/720/h/560/format/jpg/q/75|watermark/1/image/aHR0cDovL2ltZy5rYWl5YW5hcHAuY29tL2JsYWNrXzMwLnBuZw==/dissolve/100/gravity/Center/dx/0/dy/0|imageslim"
+
+class Cover {
+  Cover({
+      String? feed, 
+      String? detail, 
+      String? blurred, 
+      dynamic sharing, 
+      String? homepage,}){
+    _feed = feed;
+    _detail = detail;
+    _blurred = blurred;
+    _sharing = sharing;
+    _homepage = homepage;
+}
+
+  Cover.fromJson(dynamic json) {
+    _feed = json['feed'];
+    _detail = json['detail'];
+    _blurred = json['blurred'];
+    _sharing = json['sharing'];
+    _homepage = json['homepage'];
+  }
+  String? _feed;
+  String? _detail;
+  String? _blurred;
+  dynamic _sharing;
+  String? _homepage;
+Cover copyWith({  String? feed,
+  String? detail,
+  String? blurred,
+  dynamic sharing,
+  String? homepage,
+}) => Cover(  feed: feed ?? _feed,
+  detail: detail ?? _detail,
+  blurred: blurred ?? _blurred,
+  sharing: sharing ?? _sharing,
+  homepage: homepage ?? _homepage,
+);
+  String? get feed => _feed;
+  String? get detail => _detail;
+  String? get blurred => _blurred;
+  dynamic get sharing => _sharing;
+  String? get homepage => _homepage;
+
+  Map<String, dynamic> toJson() {
+    final map = <String, dynamic>{};
+    map['feed'] = _feed;
+    map['detail'] = _detail;
+    map['blurred'] = _blurred;
+    map['sharing'] = _sharing;
+    map['homepage'] = _homepage;
+    return map;
+  }
+
+}
+
+/// id : 2166
+/// icon : "http://ali-img.kaiyanapp.com/a2fc6d32ac0b4f2842fb3d545d06f09b.jpeg"
+/// name : "开眼记录精选"
+/// description : "「每部电影都是一部纪录片」——比尔·尼科尔斯"
+/// link : ""
+/// latestReleaseTime : 1697158822000
+/// videoNum : 996
+/// adTrack : null
+/// follow : {"itemType":"author","itemId":2166,"followed":false}
+/// shield : {"itemType":"author","itemId":2166,"shielded":false}
+/// approvedNotReadyVideoCount : 0
+/// ifPgc : true
+/// recSort : 0
+/// expert : false
+
+class Author {
+  Author({
+      num? id, 
+      String? icon, 
+      String? name, 
+      String? description, 
+      String? link, 
+      num? latestReleaseTime, 
+      num? videoNum, 
+      dynamic adTrack, 
+      Follow? follow, 
+      Shield? shield, 
+      num? approvedNotReadyVideoCount, 
+      bool? ifPgc, 
+      num? recSort, 
+      bool? expert,}){
+    _id = id;
+    _icon = icon;
+    _name = name;
+    _description = description;
+    _link = link;
+    _latestReleaseTime = latestReleaseTime;
+    _videoNum = videoNum;
+    _adTrack = adTrack;
+    _follow = follow;
+    _shield = shield;
+    _approvedNotReadyVideoCount = approvedNotReadyVideoCount;
+    _ifPgc = ifPgc;
+    _recSort = recSort;
+    _expert = expert;
+}
+
+  Author.fromJson(dynamic json) {
+    _id = json['id'];
+    _icon = json['icon'];
+    _name = json['name'];
+    _description = json['description'];
+    _link = json['link'];
+    _latestReleaseTime = json['latestReleaseTime'];
+    _videoNum = json['videoNum'];
+    _adTrack = json['adTrack'];
+    _follow = json['follow'] != null ? Follow.fromJson(json['follow']) : null;
+    _shield = json['shield'] != null ? Shield.fromJson(json['shield']) : null;
+    _approvedNotReadyVideoCount = json['approvedNotReadyVideoCount'];
+    _ifPgc = json['ifPgc'];
+    _recSort = json['recSort'];
+    _expert = json['expert'];
+  }
+  num? _id;
+  String? _icon;
+  String? _name;
+  String? _description;
+  String? _link;
+  num? _latestReleaseTime;
+  num? _videoNum;
+  dynamic _adTrack;
+  Follow? _follow;
+  Shield? _shield;
+  num? _approvedNotReadyVideoCount;
+  bool? _ifPgc;
+  num? _recSort;
+  bool? _expert;
+Author copyWith({  num? id,
+  String? icon,
+  String? name,
+  String? description,
+  String? link,
+  num? latestReleaseTime,
+  num? videoNum,
+  dynamic adTrack,
+  Follow? follow,
+  Shield? shield,
+  num? approvedNotReadyVideoCount,
+  bool? ifPgc,
+  num? recSort,
+  bool? expert,
+}) => Author(  id: id ?? _id,
+  icon: icon ?? _icon,
+  name: name ?? _name,
+  description: description ?? _description,
+  link: link ?? _link,
+  latestReleaseTime: latestReleaseTime ?? _latestReleaseTime,
+  videoNum: videoNum ?? _videoNum,
+  adTrack: adTrack ?? _adTrack,
+  follow: follow ?? _follow,
+  shield: shield ?? _shield,
+  approvedNotReadyVideoCount: approvedNotReadyVideoCount ?? _approvedNotReadyVideoCount,
+  ifPgc: ifPgc ?? _ifPgc,
+  recSort: recSort ?? _recSort,
+  expert: expert ?? _expert,
+);
+  num? get id => _id;
+  String? get icon => _icon;
+  String? get name => _name;
+  String? get description => _description;
+  String? get link => _link;
+  num? get latestReleaseTime => _latestReleaseTime;
+  num? get videoNum => _videoNum;
+  dynamic get adTrack => _adTrack;
+  Follow? get follow => _follow;
+  Shield? get shield => _shield;
+  num? get approvedNotReadyVideoCount => _approvedNotReadyVideoCount;
+  bool? get ifPgc => _ifPgc;
+  num? get recSort => _recSort;
+  bool? get expert => _expert;
+
+  Map<String, dynamic> toJson() {
+    final map = <String, dynamic>{};
+    map['id'] = _id;
+    map['icon'] = _icon;
+    map['name'] = _name;
+    map['description'] = _description;
+    map['link'] = _link;
+    map['latestReleaseTime'] = _latestReleaseTime;
+    map['videoNum'] = _videoNum;
+    map['adTrack'] = _adTrack;
+    if (_follow != null) {
+      map['follow'] = _follow?.toJson();
+    }
+    if (_shield != null) {
+      map['shield'] = _shield?.toJson();
+    }
+    map['approvedNotReadyVideoCount'] = _approvedNotReadyVideoCount;
+    map['ifPgc'] = _ifPgc;
+    map['recSort'] = _recSort;
+    map['expert'] = _expert;
+    return map;
+  }
+
+}
+
+/// itemType : "author"
+/// itemId : 2166
+/// shielded : false
+
+class Shield {
+  Shield({
+      String? itemType, 
+      num? itemId, 
+      bool? shielded,}){
+    _itemType = itemType;
+    _itemId = itemId;
+    _shielded = shielded;
+}
+
+  Shield.fromJson(dynamic json) {
+    _itemType = json['itemType'];
+    _itemId = json['itemId'];
+    _shielded = json['shielded'];
+  }
+  String? _itemType;
+  num? _itemId;
+  bool? _shielded;
+Shield copyWith({  String? itemType,
+  num? itemId,
+  bool? shielded,
+}) => Shield(  itemType: itemType ?? _itemType,
+  itemId: itemId ?? _itemId,
+  shielded: shielded ?? _shielded,
+);
+  String? get itemType => _itemType;
+  num? get itemId => _itemId;
+  bool? get shielded => _shielded;
+
+  Map<String, dynamic> toJson() {
+    final map = <String, dynamic>{};
+    map['itemType'] = _itemType;
+    map['itemId'] = _itemId;
+    map['shielded'] = _shielded;
+    return map;
+  }
+
+}
+
+/// itemType : "author"
+/// itemId : 2166
+/// followed : false
+
+class Follow {
+  Follow({
+      String? itemType, 
+      num? itemId, 
+      bool? followed,}){
+    _itemType = itemType;
+    _itemId = itemId;
+    _followed = followed;
+}
+
+  Follow.fromJson(dynamic json) {
+    _itemType = json['itemType'];
+    _itemId = json['itemId'];
+    _followed = json['followed'];
+  }
+  String? _itemType;
+  num? _itemId;
+  bool? _followed;
+Follow copyWith({  String? itemType,
+  num? itemId,
+  bool? followed,
+}) => Follow(  itemType: itemType ?? _itemType,
+  itemId: itemId ?? _itemId,
+  followed: followed ?? _followed,
+);
+  String? get itemType => _itemType;
+  num? get itemId => _itemId;
+  bool? get followed => _followed;
+
+  Map<String, dynamic> toJson() {
+    final map = <String, dynamic>{};
+    map['itemType'] = _itemType;
+    map['itemId'] = _itemId;
+    map['followed'] = _followed;
+    return map;
+  }
+
+}
+
+/// name : "YouTube"
+/// alias : "youtube"
+/// icon : "http://ali-img.kaiyanapp.com/fa20228bc5b921e837156923a58713f6.png"
+
+class Provider {
+  Provider({
+      String? name, 
+      String? alias, 
+      String? icon,}){
+    _name = name;
+    _alias = alias;
+    _icon = icon;
+}
+
+  Provider.fromJson(dynamic json) {
+    _name = json['name'];
+    _alias = json['alias'];
+    _icon = json['icon'];
+  }
+  String? _name;
+  String? _alias;
+  String? _icon;
+Provider copyWith({  String? name,
+  String? alias,
+  String? icon,
+}) => Provider(  name: name ?? _name,
+  alias: alias ?? _alias,
+  icon: icon ?? _icon,
+);
+  String? get name => _name;
+  String? get alias => _alias;
+  String? get icon => _icon;
+
+  Map<String, dynamic> toJson() {
+    final map = <String, dynamic>{};
+    map['name'] = _name;
+    map['alias'] = _alias;
+    map['icon'] = _icon;
+    return map;
+  }
+
+}
+
+/// collectionCount : 68
+/// shareCount : 22
+/// replyCount : 4
+/// realCollectionCount : 13
+
+class Consumption {
+  Consumption({
+      num? collectionCount, 
+      num? shareCount, 
+      num? replyCount, 
+      num? realCollectionCount,}){
+    _collectionCount = collectionCount;
+    _shareCount = shareCount;
+    _replyCount = replyCount;
+    _realCollectionCount = realCollectionCount;
+}
+
+  Consumption.fromJson(dynamic json) {
+    _collectionCount = json['collectionCount'];
+    _shareCount = json['shareCount'];
+    _replyCount = json['replyCount'];
+    _realCollectionCount = json['realCollectionCount'];
+  }
+  num? _collectionCount;
+  num? _shareCount;
+  num? _replyCount;
+  num? _realCollectionCount;
+Consumption copyWith({  num? collectionCount,
+  num? shareCount,
+  num? replyCount,
+  num? realCollectionCount,
+}) => Consumption(  collectionCount: collectionCount ?? _collectionCount,
+  shareCount: shareCount ?? _shareCount,
+  replyCount: replyCount ?? _replyCount,
+  realCollectionCount: realCollectionCount ?? _realCollectionCount,
+);
+  num? get collectionCount => _collectionCount;
+  num? get shareCount => _shareCount;
+  num? get replyCount => _replyCount;
+  num? get realCollectionCount => _realCollectionCount;
+
+  Map<String, dynamic> toJson() {
+    final map = <String, dynamic>{};
+    map['collectionCount'] = _collectionCount;
+    map['shareCount'] = _shareCount;
+    map['replyCount'] = _replyCount;
+    map['realCollectionCount'] = _realCollectionCount;
+    return map;
+  }
+
+}
+
+/// id : 743
+/// name : "记录精选"
+/// actionUrl : "eyepetizer://tag/743/?title=%E8%AE%B0%E5%BD%95%E7%B2%BE%E9%80%89"
+/// adTrack : null
+/// desc : null
+/// bgPicture : "http://img.kaiyanapp.com/a082f44b88e78daaf19fa4e1a2faaa5a.jpeg?imageMogr2/quality/60/format/jpg"
+/// headerImage : "http://img.kaiyanapp.com/a082f44b88e78daaf19fa4e1a2faaa5a.jpeg?imageMogr2/quality/60/format/jpg"
+/// tagRecType : "IMPORTANT"
+/// childTagList : null
+/// childTagIdList : null
+/// haveReward : false
+/// ifNewest : false
+/// newestEndTime : null
+/// communityIndex : 0
+
+class Tags {
+  Tags({
+      num? id, 
+      String? name, 
+      String? actionUrl, 
+      dynamic adTrack, 
+      dynamic desc, 
+      String? bgPicture, 
+      String? headerImage, 
+      String? tagRecType, 
+      dynamic childTagList, 
+      dynamic childTagIdList, 
+      bool? haveReward, 
+      bool? ifNewest, 
+      dynamic newestEndTime, 
+      num? communityIndex,}){
+    _id = id;
+    _name = name;
+    _actionUrl = actionUrl;
+    _adTrack = adTrack;
+    _desc = desc;
+    _bgPicture = bgPicture;
+    _headerImage = headerImage;
+    _tagRecType = tagRecType;
+    _childTagList = childTagList;
+    _childTagIdList = childTagIdList;
+    _haveReward = haveReward;
+    _ifNewest = ifNewest;
+    _newestEndTime = newestEndTime;
+    _communityIndex = communityIndex;
+}
+
+  Tags.fromJson(dynamic json) {
+    _id = json['id'];
+    _name = json['name'];
+    _actionUrl = json['actionUrl'];
+    _adTrack = json['adTrack'];
+    _desc = json['desc'];
+    _bgPicture = json['bgPicture'];
+    _headerImage = json['headerImage'];
+    _tagRecType = json['tagRecType'];
+    _childTagList = json['childTagList'];
+    _childTagIdList = json['childTagIdList'];
+    _haveReward = json['haveReward'];
+    _ifNewest = json['ifNewest'];
+    _newestEndTime = json['newestEndTime'];
+    _communityIndex = json['communityIndex'];
+  }
+  num? _id;
+  String? _name;
+  String? _actionUrl;
+  dynamic _adTrack;
+  dynamic _desc;
+  String? _bgPicture;
+  String? _headerImage;
+  String? _tagRecType;
+  dynamic _childTagList;
+  dynamic _childTagIdList;
+  bool? _haveReward;
+  bool? _ifNewest;
+  dynamic _newestEndTime;
+  num? _communityIndex;
+Tags copyWith({  num? id,
+  String? name,
+  String? actionUrl,
+  dynamic adTrack,
+  dynamic desc,
+  String? bgPicture,
+  String? headerImage,
+  String? tagRecType,
+  dynamic childTagList,
+  dynamic childTagIdList,
+  bool? haveReward,
+  bool? ifNewest,
+  dynamic newestEndTime,
+  num? communityIndex,
+}) => Tags(  id: id ?? _id,
+  name: name ?? _name,
+  actionUrl: actionUrl ?? _actionUrl,
+  adTrack: adTrack ?? _adTrack,
+  desc: desc ?? _desc,
+  bgPicture: bgPicture ?? _bgPicture,
+  headerImage: headerImage ?? _headerImage,
+  tagRecType: tagRecType ?? _tagRecType,
+  childTagList: childTagList ?? _childTagList,
+  childTagIdList: childTagIdList ?? _childTagIdList,
+  haveReward: haveReward ?? _haveReward,
+  ifNewest: ifNewest ?? _ifNewest,
+  newestEndTime: newestEndTime ?? _newestEndTime,
+  communityIndex: communityIndex ?? _communityIndex,
+);
+  num? get id => _id;
+  String? get name => _name;
+  String? get actionUrl => _actionUrl;
+  dynamic get adTrack => _adTrack;
+  dynamic get desc => _desc;
+  String? get bgPicture => _bgPicture;
+  String? get headerImage => _headerImage;
+  String? get tagRecType => _tagRecType;
+  dynamic get childTagList => _childTagList;
+  dynamic get childTagIdList => _childTagIdList;
+  bool? get haveReward => _haveReward;
+  bool? get ifNewest => _ifNewest;
+  dynamic get newestEndTime => _newestEndTime;
+  num? get communityIndex => _communityIndex;
+
+  Map<String, dynamic> toJson() {
+    final map = <String, dynamic>{};
+    map['id'] = _id;
+    map['name'] = _name;
     map['actionUrl'] = _actionUrl;
     map['adTrack'] = _adTrack;
-    map['shade'] = _shade;
-    map['label'] = _label;
-    map['labelList'] = _labelList;
-    map['header'] = _header;
-    map['autoPlay'] = _autoPlay;
+    map['desc'] = _desc;
+    map['bgPicture'] = _bgPicture;
+    map['headerImage'] = _headerImage;
+    map['tagRecType'] = _tagRecType;
+    map['childTagList'] = _childTagList;
+    map['childTagIdList'] = _childTagIdList;
+    map['haveReward'] = _haveReward;
+    map['ifNewest'] = _ifNewest;
+    map['newestEndTime'] = _newestEndTime;
+    map['communityIndex'] = _communityIndex;
     return map;
   }
 

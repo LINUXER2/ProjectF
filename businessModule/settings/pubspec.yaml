@@ -10,6 +10,9 @@ dependencies:
   flutter:
     sdk: flutter
 
+  common:
+    path: ../../baseModule/common
+
   cupertino_icons: ^1.0.2
 
 dev_dependencies:

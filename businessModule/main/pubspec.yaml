@@ -11,10 +11,7 @@ dependencies:
 
   common:
     path: ../../baseModule/common
-
-  discovery:
-    path: ../discovery
-
+  get: ^4.6.5
   cupertino_icons: ^1.0.2
 dev_dependencies:
   flutter_test:

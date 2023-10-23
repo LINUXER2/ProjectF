@@ -21,7 +21,7 @@ dependencies:
     path: businessModule/news
   settings:
     path: businessModule/settings
-
+  get: ^4.6.5
 
   cupertino_icons: ^1.0.2
 

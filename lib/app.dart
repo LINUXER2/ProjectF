@@ -5,6 +5,10 @@ import 'package:common/utils/log_utils.dart';
 import 'package:common/utils/system_utils.dart';
 import 'package:discovery/page/discovery_page.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
+import 'package:get/get.dart';
+import 'package:get/get_navigation/src/root/get_material_app.dart';
+import 'package:main/page/main_landing_page.dart';
 import 'package:main/page/main_page.dart';
 import 'package:news/page/news_page.dart';
 import 'package:settings/page/settings_page.dart';
@@ -58,12 +62,45 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
-      title: 'Flutter Demo',
-      theme: ThemeData(
-        primarySwatch: Colors.blue,
+    return GetMaterialApp(
+      initialRoute: "/home",
+      unknownRoute: GetPage(
+          // 页面没找到时会到这个页面
+          name: "/404",
+          page: () => const Center(
+                  child: Text(
+                "PAGE NOT FOUND",
+                style: TextStyle(color: Colors.red),
+              ))),
+      routingCallback: (routing) {
+        LogUtils.d("app", "rout changed,current:${routing?.current}");
+      },
+      getPages: [
+        GetPage(
+            name: "/home",
+            page: () => const MyHomePage(
+                  title: '',
+                )),
+        GetPage(name: "/newslanding", page: () => MainLandingPage()),
+      ],
+      localizationsDelegates: const [
+        DefaultCupertinoLocalizations.delegate,
+        GlobalMaterialLocalizations.delegate,
+        GlobalWidgetsLocalizations.delegate,
+      ],
+      supportedLocales: const [
+        Locale('en', 'US'),
+        Locale('zh', 'CN'),
+      ],
+      localeResolutionCallback: (Locale? locale, Iterable<Locale>? iterable) {
+        LogUtils.d("app", "onLocaleChanged,current:${locale?.languageCode}");
+        return locale;
+      },
+      home: Builder(
+        builder: (context) {
+          return const MyHomePage(title: 'Flutter Demo Home Page');
+        },
       ),
-      home: const MyHomePage(title: 'Flutter Demo Home Page'),
     );
   }
 }
@@ -119,32 +156,15 @@ class _MyHomePageState extends State<MyHomePage> {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
-      localizationsDelegates: const [
-        DefaultCupertinoLocalizations.delegate,
-        GlobalMaterialLocalizations.delegate,
-        GlobalWidgetsLocalizations.delegate,
-      ],
-      supportedLocales: const [
-        Locale('en', 'US'),
-        Locale('zh', 'CN'),
-      ],
-      localeResolutionCallback: (Locale? locale, Iterable<Locale>? iterable) {
-        LogUtils.d(_tag, "onLocaleChanged,current:${locale?.languageCode}");
-        return locale;
-      },
-      home: Builder(
-        builder: (context) {
-          return _renderHome();
-        },
-      ),
-    );
+    return _renderHome();
   }
 
   Widget _renderHome() {
+    //SystemChrome.setEnabledSystemUIMode(SystemUiMode.manual, overlays: [SystemUiOverlay.bottom]); //隐藏状态栏
     return Scaffold(
       appBar: AppBar(
         title: Text(widget.title),
+        systemOverlayStyle: SystemUiOverlayStyle.light,
       ),
       body: Center(
           child: PageView(

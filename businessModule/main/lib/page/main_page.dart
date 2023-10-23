@@ -3,9 +3,12 @@ import 'package:common/network/base_response.dart';
 import 'package:common/utils/log_utils.dart';
 import 'package:common/utils/system_utils.dart';
 import 'package:flutter/material.dart';
+import 'package:get/get.dart';
+import 'package:get/get_core/src/get_main.dart';
 
 import '../api.dart';
 import '../model/feed_bean.dart';
+import 'main_landing_page.dart';
 
 class MainPage extends StatefulWidget {
   const MainPage({Key? key}) : super(key: key);
@@ -14,7 +17,7 @@ class MainPage extends StatefulWidget {
   State<StatefulWidget> createState() => MainPageState();
 }
 
-class MainPageState extends State<MainPage> with BaseScreenStateMixin,AutomaticKeepAliveClientMixin {
+class MainPageState extends State<MainPage> with BaseScreenStateMixin, AutomaticKeepAliveClientMixin {
   List<ItemList> list = [];
   List<ItemList> bannerList = [];
   List<ItemList> feedList = [];
@@ -91,24 +94,37 @@ class MainPageState extends State<MainPage> with BaseScreenStateMixin,AutomaticK
   }
 
   Widget _buildItem(int index) {
-    return Container(
-        height: 240,
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-          crossAxisAlignment: CrossAxisAlignment.start,
-          children: [
-            Image.network(feedList[index].data?.cover?.feed ?? "", fit: BoxFit.cover),
-            Text(
-              feedList[index].data?.title ?? "",
-              maxLines: 2,
-              overflow: TextOverflow.ellipsis,
-              style: const TextStyle(color: Colors.black, fontSize: 16),
-            ),
-          ],
-        ));
+    return GestureDetector(
+        onTap: () {
+          LogUtils.d(_tag, "to landing page:");
+          final params = {"title": "${feedList[index].data?.title}", "url": "${feedList[index].data?.cover?.feed}"};
+          // Get.to(MainLandingPage());  // 无参数
+          // Get.toNamed("/newslanding", arguments: feedList[index].data?.cover?.feed ?? ""); // 任意参数
+          // Get.offNamed("/newslanding",parameters: params); // finish当前页面，后跳转
+          // Get.offAllNamed("/home");// 清除所有页面，后跳到home页，相当于android中的clear_task | new_task
+          // Get.back(); //后退
+          Get.toNamed("/newslanding", parameters: params); // StringMap参数
+        },
+        child: SizedBox(
+            height: 240,
+            child: Column(
+              mainAxisAlignment: MainAxisAlignment.center,
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                ClipRRect(
+                  borderRadius: BorderRadius.circular(10),
+                  child: Image.network(feedList[index].data?.cover?.feed ?? "", fit: BoxFit.cover),
+                ),
+                Text(
+                  feedList[index].data?.title ?? "",
+                  maxLines: 2,
+                  overflow: TextOverflow.ellipsis,
+                  style: const TextStyle(color: Colors.black, fontSize: 16),
+                ),
+              ],
+            )));
   }
 
   @override
   bool get wantKeepAlive => true;
-
 }

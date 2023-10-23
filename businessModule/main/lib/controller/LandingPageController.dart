@@ -3,6 +3,11 @@ import 'package:get/get_state_manager/src/simple/get_controllers.dart';
 
 class LandingPageController extends GetxController {
   static const String _tag = "LandingPageController";
+  static const String ID_ALL= "all";
+  static const String ID_TOP= "top";
+  static const String ID_BOTTOM= "bottom";
+
+  static int num = 0;
 
   @override
   void onInit() {
@@ -13,6 +18,18 @@ class LandingPageController extends GetxController {
   @override
   void onReady() {
     LogUtils.d(_tag, "onReady");
+  }
+
+  void updateTop(){
+    update([ID_TOP]);
+  }
+
+  void updateBottom(){
+    update([ID_BOTTOM]);
+  }
+
+  void updateAll() {
+    update();
   }
 
   @override

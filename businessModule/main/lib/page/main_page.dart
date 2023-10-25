@@ -1,14 +1,11 @@
 import 'package:common/base/base_screen.dart';
-import 'package:common/network/base_response.dart';
 import 'package:common/utils/log_utils.dart';
 import 'package:common/utils/system_utils.dart';
+import 'package:common/widgets/animTabBar.dart';
+import 'package:common/widgets/extendedTabController.dart';
 import 'package:flutter/material.dart';
-import 'package:get/get.dart';
-import 'package:get/get_core/src/get_main.dart';
-
-import '../api.dart';
-import '../model/feed_bean.dart';
-import 'main_landing_page.dart';
+import 'package:main/model/tab_item.dart';
+import 'package:main/page/sub_page.dart';
 
 class MainPage extends StatefulWidget {
   const MainPage({Key? key}) : super(key: key);
@@ -17,10 +14,9 @@ class MainPage extends StatefulWidget {
   State<StatefulWidget> createState() => MainPageState();
 }
 
-class MainPageState extends State<MainPage> with BaseScreenStateMixin, AutomaticKeepAliveClientMixin {
-  List<ItemList> list = [];
-  List<ItemList> bannerList = [];
-  List<ItemList> feedList = [];
+class MainPageState extends State<MainPage> with BaseScreenStateMixin, TickerProviderStateMixin, AutomaticKeepAliveClientMixin {
+  late List<TabItem> _tabs;
+  late ExtendedTabController _controller;
 
   static const String _tag = "MainPageState";
 
@@ -28,7 +24,9 @@ class MainPageState extends State<MainPage> with BaseScreenStateMixin, Automatic
   void initState() {
     super.initState();
     LogUtils.d(_tag, "initState");
-    _loadData();
+    _initTabs();
+    _controller = ExtendedTabController(length: _tabs.length, vsync: this);
+    setScreenReady();
   }
 
   @override
@@ -49,31 +47,6 @@ class MainPageState extends State<MainPage> with BaseScreenStateMixin, Automatic
     LogUtils.d(_tag, "dispose");
   }
 
-  Future<void> _loadData() async {
-    BaseResponse res = await Api.getMainData();
-    if (res.succeed) {
-      list.clear();
-      list.addAll(FeedBean.fromJson(res.data).issueList![0].itemList!);
-      // list.map((e) => {
-      //       if (e.type == "banner2") {
-      //         bannerList.add(e)
-      //       } else if (e.type == "video") {
-      //         feedList.add(e)
-      //       }
-      //     });
-      for (int i = 0; i < list.length; i++) {
-        if (list[i].type == "banner2") {
-          bannerList.add(list[i]);
-        } else if (list[i].type == "video") {
-          feedList.add(list[i]);
-        }
-      }
-      setScreenReady();
-    } else {
-      setScreenError();
-    }
-  }
-
   @override
   Widget build(BuildContext context) {
     super.build(context);
@@ -82,47 +55,50 @@ class MainPageState extends State<MainPage> with BaseScreenStateMixin, Automatic
 
   @override
   Widget buildContent() {
-    return Container(
-      padding: const EdgeInsetsDirectional.only(start: 20, end: 20),
-      child: ListView.builder(
-          cacheExtent: 240,
-          itemCount: feedList.length,
-          itemBuilder: (context, index) {
-            return _buildItem(index);
-          }),
+    return Column(
+      children: [
+        _buildTabs(),
+        Expanded(child: _buildTabViews()),
+      ],
     );
   }
 
-  Widget _buildItem(int index) {
-    return GestureDetector(
-        onTap: () {
-          LogUtils.d(_tag, "to landing page:");
-          final params = {"title": "${feedList[index].data?.title}", "url": "${feedList[index].data?.cover?.feed}"};
-          // Get.to(MainLandingPage());  // 无参数
-          // Get.toNamed("/newslanding", arguments: feedList[index].data?.cover?.feed ?? ""); // 任意参数
-          // Get.offNamed("/newslanding",parameters: params); // finish当前页面，后跳转
-          // Get.offAllNamed("/home");// 清除所有页面，后跳到home页，相当于android中的clear_task | new_task
-          // Get.back(); //后退
-          Get.toNamed("/newslanding", parameters: params); // StringMap参数
-        },
-        child: SizedBox(
-            height: 240,
-            child: Column(
-              mainAxisAlignment: MainAxisAlignment.center,
-              crossAxisAlignment: CrossAxisAlignment.start,
-              children: [
-                ClipRRect(
-                  borderRadius: BorderRadius.circular(10),
-                  child: Image.network(feedList[index].data?.cover?.feed ?? "", fit: BoxFit.cover),
-                ),
-                Text(
-                  feedList[index].data?.title ?? "",
-                  maxLines: 2,
-                  overflow: TextOverflow.ellipsis,
-                  style: const TextStyle(color: Colors.black, fontSize: 16),
-                ),
-              ],
-            )));
+  _initTabs() {
+    _tabs = [];
+    _tabs.add(TabItem(0, "音乐"));
+    _tabs.add(TabItem(1, "电影"));
+    _tabs.add(TabItem(2, "游戏"));
+    _tabs.add(TabItem(3, "时政"));
+    _tabs.add(TabItem(4, "体育"));
+    _tabs.add(TabItem(5, "本地"));
+    _tabs.add(TabItem(6, "娱乐"));
+    _tabs.add(TabItem(7, "视频"));
+    _tabs.add(TabItem(8, "美食"));
+  }
+
+  Widget _buildTabs() {
+    return AnimTabBar(
+      titles: _tabs.map((e) => e.tabName).toList(),
+      controller: _controller,
+      selectedFontSize: 26,
+      selectedFontColor: Colors.red,
+      selectedFontWeight: FontWeight.bold,
+      unselectedFontSize: 18,
+      unselectedFontColor: Colors.black,
+      unselectedFontWeight: FontWeight.normal,
+      marginStart: 6,
+      marginEnd: 6,
+      spacing: 10,
+      showIndicator: true,
+      alignment: AlignmentDirectional.bottomCenter,
+      indicatorColor: Colors.black,
+      maxWidthForCenter: System.width - 80,
+      onTap: (int index) {},
+    );
+  }
+
+  Widget _buildTabViews() {
+    return TabBarView(controller: _controller, children: _tabs.map((e) => SubPage(tabName: e.tabName)).toList());
   }
 
   @override

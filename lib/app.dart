@@ -162,20 +162,21 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget _renderHome() {
     //SystemChrome.setEnabledSystemUIMode(SystemUiMode.manual, overlays: [SystemUiOverlay.bottom]); //隐藏状态栏
     return Scaffold(
-      appBar: AppBar(
-        title: Text(widget.title),
-        systemOverlayStyle: SystemUiOverlayStyle.light,
-      ),
-      body: Center(
+      // appBar: AppBar(
+      //   title: Text(widget.title),
+      //   systemOverlayStyle: SystemUiOverlayStyle.light,
+      // ),
+      body: Container(
+          padding: EdgeInsetsDirectional.only(top: System.statusHeight),
           child: PageView(
-        children: _pages,
-        controller: _pageController,
+            children: _pages,
+            controller: _pageController,
 
-        ///pageView本身没有缓存page，该参数设为true，可以预加载相邻一个page，但仍可能会销毁
-        ///要实现永不销毁，需page继承AutomaticKeepAlive并将wantKeepAlive设为true（或者将page用KeepAliveWrapper包裹）
-        //  allowImplicitScrolling: true,
-        physics: const NeverScrollableScrollPhysics(),
-      )),
+            ///pageView本身没有缓存page，该参数设为true，可以预加载相邻一个page，但仍可能会销毁
+            ///要实现永不销毁，需page继承AutomaticKeepAlive并将wantKeepAlive设为true（或者将page用KeepAliveWrapper包裹）
+            //  allowImplicitScrolling: true,
+            physics: const NeverScrollableScrollPhysics(),
+          )),
       bottomNavigationBar: BottomBar(onTap: onBottomTabClicked, currentIndex: _currentIndex),
     );
   }

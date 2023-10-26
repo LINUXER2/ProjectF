@@ -3,6 +3,7 @@ import 'dart:math';
 import 'dart:ui';
 
 import 'package:flutter/cupertino.dart';
+import 'package:main_plugin/main_plugin.dart';
 
 class System {
   static double get width {
@@ -28,4 +29,9 @@ class System {
   static double get statusHeight {
     return MediaQueryData.fromWindow(window).padding.top;
   }
+
+  static Future<String?> getPlatformName(){
+    return MainPlugin.platformVersion;
+  }
+  
 }

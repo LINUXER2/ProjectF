@@ -16,6 +16,8 @@ dependencies:
   dio: ^5.3.3
   get: ^4.6.5
 
+  main_plugin:
+    path: ../plugins/main_plugin
 
 dev_dependencies:
   flutter_test:

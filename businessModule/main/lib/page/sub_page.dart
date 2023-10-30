@@ -1,4 +1,6 @@
 
+import 'package:common/base/events.dart';
+import 'package:common/constant.dart';
 import 'package:common/network/base_response.dart';
 import 'package:common/utils/log_utils.dart';
 import 'package:common/utils/system_utils.dart';
@@ -28,6 +30,7 @@ class SubPageState extends State<SubPage> with AutomaticKeepAliveClientMixin {
     super.initState();
     tag = tag + "_${widget.tabName}";
     LogUtils.d(tag,"initState");
+    _registerListeners();
     _loadData();
   }
 
@@ -45,6 +48,18 @@ class SubPageState extends State<SubPage> with AutomaticKeepAliveClientMixin {
       }
       setState(() {});
     } else {}
+  }
+
+  _registerListeners() {
+    eventCenter.addListener(Constant.MESSAGE_TAB_CHANGED, _onMessageReceive);
+  }
+
+  _unRegisterListeners() {
+    eventCenter.removeListener(Constant.MESSAGE_TAB_CHANGED, _onMessageReceive);
+  }
+
+  _onMessageReceive(String type, dynamic data) {
+    LogUtils.d(tag, "onMessage:$type,$data");
   }
 
   @override
@@ -100,6 +115,7 @@ class SubPageState extends State<SubPage> with AutomaticKeepAliveClientMixin {
   @override
   void dispose() {
     super.dispose();
+    _unRegisterListeners();
   }
 
   @override

@@ -1,6 +1,7 @@
 import 'package:common/base/base_screen.dart';
 import 'package:common/base/events.dart';
 import 'package:common/constant.dart';
+import 'package:common/utils/config.dart';
 import 'package:common/utils/log_utils.dart';
 import 'package:common/utils/system_utils.dart';
 import 'package:common/widgets/animTabBar.dart';
@@ -95,8 +96,10 @@ class MainPageState extends State<MainPage> with BaseScreenStateMixin, TickerPro
       alignment: AlignmentDirectional.bottomCenter,
       indicatorColor: Colors.black,
       maxWidthForCenter: System.width - 80,
-      onTap: (int index) {
+      onTap: (int index) async {
         LogUtils.d(_tag, "onTap:$index");
+        bool ret = await Config.setInt("index", index);
+        LogUtils.d(_tag, "$ret,get index:${Config.getInt("index")}");
         eventCenter.emit(Constant.MESSAGE_TAB_CHANGED, index);
       },
     );

@@ -3,7 +3,6 @@ import 'package:common/base/events.dart';
 import 'package:common/constant.dart';
 import 'package:common/network/base_response.dart';
 import 'package:common/utils/log_utils.dart';
-import 'package:common/utils/system_utils.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

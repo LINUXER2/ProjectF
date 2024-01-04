@@ -79,7 +79,7 @@ class MainPageState extends State<MainPage> with BaseScreenStateMixin, TickerPro
     _tabs.add(TabItem(8, "美食"));
   }
 
-  Widget _buildTabs() {
+  Widget _buildAnimTabs() {
     return AnimTabBar(
       titles: _tabs.map((e) => e.tabName).toList(),
       controller: _controller,
@@ -96,6 +96,29 @@ class MainPageState extends State<MainPage> with BaseScreenStateMixin, TickerPro
       alignment: AlignmentDirectional.bottomCenter,
       indicatorColor: Colors.black,
       maxWidthForCenter: System.width - 80,
+      onTap: (int index) async {
+        LogUtils.d(_tag, "onTap:$index");
+        bool ret = await Config.setInt("index", index);
+        LogUtils.d(_tag, "$ret,get index:${Config.getInt("index")}");
+        eventCenter.emit(Constant.MESSAGE_TAB_CHANGED, index);
+      },
+    );
+  }
+
+  Widget _buildTabs() {
+    return TabBar(
+      tabs: _tabs
+          .map((e) => Text(
+                e.tabName,
+                style: const TextStyle(color: Colors.black, fontSize: 18),
+              ))
+          .toList(),
+      controller: _controller,
+      isScrollable: true,
+      unselectedLabelStyle: const TextStyle(fontWeight: FontWeight.normal),
+      labelStyle: const TextStyle(fontWeight: FontWeight.bold),
+      labelPadding: const EdgeInsetsDirectional.only(top: 10, start: 10, end: 10, bottom: 5),
+      indicatorSize: TabBarIndicatorSize.label,
       onTap: (int index) async {
         LogUtils.d(_tag, "onTap:$index");
         bool ret = await Config.setInt("index", index);

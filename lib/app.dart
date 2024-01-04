@@ -8,6 +8,7 @@ import 'package:get/get.dart';
 import 'package:main/page/main_landing_page.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:flutter/cupertino.dart';
+import 'package:settings/page/profile_page.dart';
 
 import 'home_page.dart';
 
@@ -79,6 +80,7 @@ class MyApp extends StatelessWidget {
                   title: '',
                 )),
         GetPage(name: "/newslanding", page: () => MainLandingPage()),
+        GetPage(name: "/profilePage", page: () => const ProfilePage()),
       ],
       localizationsDelegates: const [
         DefaultCupertinoLocalizations.delegate,

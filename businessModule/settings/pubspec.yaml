@@ -14,15 +14,18 @@ dependencies:
     path: ../../baseModule/common
 
   cupertino_icons: ^1.0.2
-
+  get: ^4.6.5
 dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^1.0.0
-
+  assets_gen: 1.1.2
 
 flutter:
   uses-material-design: true
+
+  assets:
+    - assets/images/
 
   module:
     androidX: true

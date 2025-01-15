@@ -2,7 +2,7 @@ import 'package:common/export.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:get/get.dart';
-import 'package:main/controller/LandingPageController.dart';
+import 'package:news/controller/LandingPageController.dart';
 
 class MainLandingPage extends StatelessWidget {
   MainLandingPage({Key? key}) : super(key: key);

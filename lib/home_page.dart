@@ -2,8 +2,8 @@ import 'package:common/utils/log_utils.dart';
 import 'package:common/utils/system_utils.dart';
 import 'package:discovery/page/discovery_page.dart';
 import 'package:flutter/material.dart';
-import 'package:main/page/main_page.dart';
-import 'package:news/page/news_page.dart';
+import 'package:music/page/music_page.dart';
+import 'package:news/page/main_page.dart';
 import 'package:settings/page/settings_page.dart';
 
 import 'bottom_bar.dart';
@@ -87,13 +87,13 @@ class _MyHomePageState extends State<MyHomePage> {
   void _initPages() {
     _keys = [];
     _keys.add(GlobalKey<MainPageState>());
-    _keys.add(GlobalKey<NewsPageState>());
+    _keys.add(GlobalKey<MusicPageState>());
     _keys.add(GlobalKey<DiscoveryPageState>());
     _keys.add(GlobalKey<SettingsPageState>());
 
     _pages = [];
     _pages.add(MainPage(key: _keys[0]));
-    _pages.add(NewsPage(key: _keys[1]));
+    _pages.add(MusicPage(key: _keys[1]));
     _pages.add(DiscoveryPage(key: _keys[2]));
     _pages.add(SettingsPage(key: _keys[3]));
   }

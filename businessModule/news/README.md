@@ -1,4 +1,4 @@
-# news
+# main
 
 A new Flutter project.
 

@@ -5,7 +5,7 @@ import 'package:common/utils/config.dart';
 import 'package:common/utils/log_utils.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:main/page/main_landing_page.dart';
+import 'package:news/page/main_landing_page.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:settings/page/profile_page.dart';

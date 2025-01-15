@@ -13,12 +13,12 @@ dependencies:
 
   common:
     path: baseModule/common
-  main:
-    path: businessModule/main
-  discovery:
-    path: businessModule/discovery
   news:
     path: businessModule/news
+  music:
+    path: businessModule/music
+  discovery:
+    path: businessModule/discovery
   settings:
     path: businessModule/settings
   get: ^4.6.5

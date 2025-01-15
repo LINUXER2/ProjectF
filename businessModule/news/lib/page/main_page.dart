@@ -7,8 +7,8 @@ import 'package:common/utils/system_utils.dart';
 import 'package:common/widgets/animTabBar.dart';
 import 'package:common/widgets/extendedTabController.dart';
 import 'package:flutter/material.dart';
-import 'package:main/model/tab_item.dart';
-import 'package:main/page/sub_page.dart';
+import 'package:news/model/tab_item.dart';
+import 'package:news/page/sub_page.dart';
 
 class MainPage extends StatefulWidget {
   const MainPage({Key? key}) : super(key: key);

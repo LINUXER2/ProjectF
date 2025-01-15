@@ -1,15 +1,15 @@
 import 'package:common/utils/log_utils.dart';
 import 'package:flutter/material.dart';
 
-class NewsPage extends StatefulWidget {
-  const NewsPage({Key? key}) : super(key: key);
+class MusicPage extends StatefulWidget {
+  const MusicPage({Key? key}) : super(key: key);
 
   @override
-  State<StatefulWidget> createState() => NewsPageState();
+  State<StatefulWidget> createState() => MusicPageState();
 }
 
-class NewsPageState extends State<NewsPage> with AutomaticKeepAliveClientMixin{
-  static const String _tag = "NewsPageState";
+class MusicPageState extends State<MusicPage> with AutomaticKeepAliveClientMixin{
+  static const String _tag = "MusicPageState";
 
   @override
   void initState() {
@@ -18,7 +18,7 @@ class NewsPageState extends State<NewsPage> with AutomaticKeepAliveClientMixin{
   }
 
   @override
-  void didUpdateWidget(NewsPage oldWidget) {
+  void didUpdateWidget(MusicPage oldWidget) {
     super.didUpdateWidget(oldWidget);
     LogUtils.d(_tag, "didUpdateWidget");
   }
@@ -37,7 +37,7 @@ class NewsPageState extends State<NewsPage> with AutomaticKeepAliveClientMixin{
 
   @override
   Widget build(BuildContext context) {
-    return Container(alignment: AlignmentDirectional.center, child: const Text("NewsPage", style: TextStyle(color: Colors.red, fontSize: 20)));
+    return Container(alignment: AlignmentDirectional.center, child: const Text("MusicPage", style: TextStyle(color: Colors.red, fontSize: 20)));
   }
 
   @override

@@ -31,6 +31,19 @@ dev_dependencies:
   assets_gen: ^1.1.2
   flutter_lints: ^1.0.0
 
+  flutter_ume: ^1.1.1
+  # 原生的flutter_ume_kit_ui版本^1.0.0由于空安全问题编译报错，这里引用基于原生修改之后的版本
+  flutter_ume_kit_ui:
+    path: baseModule/plugins/flutter_ume_kit_ui-1.1.0
+  flutter_ume_kit_device: ^1.0.0
+  flutter_ume_kit_perf: ^1.0.0
+  flutter_ume_kit_show_code: ^1.0.0
+  flutter_ume_kit_console: ^1.0.0
+  flutter_ume_kit_dio: ^1.0.0
+
+dependency_overrides:
+  dio: 5.3.3
+
 flutter:
   assets:
     - assets/images/

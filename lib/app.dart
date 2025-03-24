@@ -1,9 +1,11 @@
 import 'dart:async';
 
+import 'package:common/constant.dart';
 import 'package:common/network/http_utils.dart';
 import 'package:common/utils/config.dart';
 import 'package:common/utils/log_utils.dart';
 import 'package:common/utils/system_utils.dart';
+import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:news/page/main_landing_page.dart';
@@ -12,13 +14,40 @@ import 'package:flutter/cupertino.dart';
 import 'package:settings/page/profile_page.dart';
 
 import 'home_page.dart';
+// 字节开源调试工具类
+import 'package:flutter_ume/flutter_ume.dart'; // UME 框架
+import 'package:flutter_ume_kit_console/flutter_ume_kit_console.dart'; // debugPrint 插件包
+import 'package:flutter_ume_kit_device/flutter_ume_kit_device.dart'; // 设备信息插件包
+import 'package:flutter_ume_kit_perf/flutter_ume_kit_perf.dart'; // 性能插件包
+import 'package:flutter_ume_kit_show_code/flutter_ume_kit_show_code.dart'; // 代码查看插件包
+import 'package:flutter_ume_kit_ui/flutter_ume_kit_ui.dart';
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
   _init();
   runZonedGuarded<Future<void>>(
     () async {
-      runApp(const MyApp());
+      if (kDebugMode && Constant.SHOW_UME) {
+        PluginManager.instance // Register plugin kits
+          ..register(const WidgetInfoInspector())
+          ..register(const WidgetDetailInspector())
+          ..register(const ColorSucker())
+          ..register(AlignRuler())
+          ..register(const ColorPicker()) // New feature
+          ..register(const TouchIndicator()) // New feature
+          ..register(Performance())
+          ..register(const ShowCode())
+          ..register(const MemoryInfoPage())
+          ..register(CpuInfoPage())
+          ..register(const DeviceInfoPanel())
+          ..register(Console());
+        runApp(const UMEWidget(
+          child: MyApp(),
+          enable: true,
+        ));
+      } else {
+        runApp(const MyApp());
+      }
     },
     (error, stackTrace) async {},
     zoneSpecification: ZoneSpecification(

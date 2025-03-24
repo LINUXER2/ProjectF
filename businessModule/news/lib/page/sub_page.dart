@@ -3,6 +3,7 @@ import 'package:common/base/events.dart';
 import 'package:common/constant.dart';
 import 'package:common/network/base_response.dart';
 import 'package:common/utils/log_utils.dart';
+import 'package:common/widgets/r.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
@@ -99,7 +100,7 @@ class SubPageState extends State<SubPage> with AutomaticKeepAliveClientMixin {
               children: [
                 ClipRRect(
                   borderRadius: BorderRadius.circular(10),
-                  child: Image.network(feedList[index].data?.cover?.feed ?? "", fit: BoxFit.cover),
+                  child: R.img(feedList[index].data?.cover?.feed ?? "", fit: BoxFit.cover),
                 ),
                 Text(
                   feedList[index].data?.title ?? "",

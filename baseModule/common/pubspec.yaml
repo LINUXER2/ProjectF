@@ -15,6 +15,7 @@ dependencies:
   dog: 1.4.0
   dio: ^5.3.3
   get: ^4.6.5
+  cached_network_image: 3.3.1
   shared_preferences: 2.0.15
   main_plugin:
     path: ../plugins/main_plugin

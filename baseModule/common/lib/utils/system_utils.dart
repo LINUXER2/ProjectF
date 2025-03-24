@@ -6,6 +6,8 @@ import 'package:flutter/cupertino.dart';
 import 'package:main_plugin/main_plugin.dart';
 
 class System {
+  static late BuildContext context;
+
   static double get width {
     return window.physicalSize.width / window.devicePixelRatio;
   }

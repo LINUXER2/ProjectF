@@ -8,3 +8,4 @@ export 'utils/text_utils.dart';
 export 'base/events.dart';
 export 'utils/extensions.dart';
 export 'widgets/r.dart';
+export 'widgets/toast.dart';

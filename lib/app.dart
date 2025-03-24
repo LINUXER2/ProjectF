@@ -3,6 +3,7 @@ import 'dart:async';
 import 'package:common/network/http_utils.dart';
 import 'package:common/utils/config.dart';
 import 'package:common/utils/log_utils.dart';
+import 'package:common/utils/system_utils.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:news/page/main_landing_page.dart';
@@ -97,6 +98,7 @@ class MyApp extends StatelessWidget {
       },
       home: Builder(
         builder: (context) {
+          System.context = context;
           return const MyHomePage(title: 'Flutter Demo Home Page');
         },
       ),

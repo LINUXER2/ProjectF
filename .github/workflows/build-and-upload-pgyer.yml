@@ -1,0 +1,151 @@
+name: Build & Upload to Pgyer
+
+on:
+  workflow_dispatch:
+    inputs:
+      build_type:
+        description: '构建类型'
+        required: true
+        default: 'android'
+        type: choice
+        options:
+          - android
+          - ios
+      env:
+        description: '环境 (test/prod)'
+        required: true
+        default: 'test'
+        type: choice
+        options:
+          - test
+          - prod
+      git_log:
+        description: '更新日志 (可选)'
+        required: false
+        default: 'GitHub Actions 自动构建'
+        type: string
+
+env:
+  FLUTTER_VERSION: '3.13.9'
+  JAVA_VERSION: '17'
+  PUB_CACHE: '${{ github.workspace }}/.pub-cache'
+
+jobs:
+  build-android:
+    if: github.event.inputs.build_type == 'android'
+    runs-on: macos-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: 'temurin'
+          java-version: ${{ env.JAVA_VERSION }}
+
+      - name: Setup Flutter
+        uses: subosito/flutter-action@v2
+        with:
+          flutter-version: ${{ env.FLUTTER_VERSION }}
+          channel: 'stable'
+          cache: true
+
+      - name: Get Flutter dependencies
+        run: flutter pub get
+
+      - name: Build Android APK
+        run: |
+          flutter build apk --release \
+            --dart-define=DEBUG_MODE=false
+
+      - name: Get Git Log
+        id: git_log
+        run: |
+          LOG=$(git log -10 --pretty=format:"%s" | head -20)
+          echo "git_log<<EOF" >> $GITHUB_OUTPUT
+          echo "$LOG" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+
+      - name: Upload to Pgyer
+        run: |
+          echo "⚠️ 蒲公英 API Key 尚未配置，跳过上传"
+          echo "📦 APK 文件已生成，可在下方 artifacts 下载"
+          echo "📝 请在 GitHub Secrets 中配置 PGYER_API_KEY 后启用上传"
+          
+          # 如果配置了 API Key 则取消下面注释
+          # python3 -c "
+          # import requests
+          # files = {'file': open('build/app/outputs/flutter-apk/app-release.apk', 'rb')}
+          # data = {'_api_key': '${{ secrets.PGYER_API_KEY }}'}
+          # r = requests.post('https://www.pgyer.com/apiv2/app/upload', data=data, files=files)
+          # print(r.json())
+          # "
+        env:
+          PGYER_API_KEY: ${{ secrets.PGYER_API_KEY }}
+
+      - name: Upload APK as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: android-apk
+          path: build/app/outputs/flutter-apk/app-release.apk
+          retention-days: 7
+
+  build-ios:
+    if: github.event.inputs.build_type == 'ios'
+    runs-on: macos-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Flutter
+        uses: subosito/flutter-action@v2
+        with:
+          flutter-version: ${{ env.FLUTTER_VERSION }}
+          channel: 'stable'
+          cache: true
+
+      - name: Get Flutter dependencies
+        run: flutter pub get
+
+      - name: Build iOS IPA
+        run: |
+          flutter build ipa \
+            --release \
+            --dart-define=DEBUG_MODE=false \
+            --export-options-plist=ios/ExportOptions.plist
+        env:
+          APPLE_SIGNING_KEY: ${{ secrets.APPLE_SIGNING_KEY }}
+          APPLE_CERTIFICATE_PASSWORD: ${{ secrets.APPLE_CERTIFICATE_PASSWORD }}
+          APPLE_ID: ${{ secrets.APPLE_ID }}
+          APPLE_APP_SPECIFIC_PASSWORD: ${{ secrets.APPLE_APP_SPECIFIC_PASSWORD }}
+          APPLE_TEAM_ID: ${{ secrets.APPLE_TEAM_ID }}
+
+      - name: Get Git Log
+        id: git_log
+        run: |
+          LOG=$(git log -10 --pretty=format:"%s" | head -20)
+          echo "git_log<<EOF" >> $GITHUB_OUTPUT
+          echo "$LOG" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+
+      - name: Upload to Pgyer
+        run: |
+          echo "⚠️ 蒲公英 API Key 尚未配置，跳过上传"
+          echo "📦 IPA 文件已生成，可在下方 artifacts 下载"
+          echo "📝 请在 GitHub Secrets 中配置 PGYER_API_KEY 后启用上传"
+        env:
+          PGYER_API_KEY: ${{ secrets.PGYER_API_KEY }}
+
+      - name: Upload IPA as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: ios-ipa
+          path: build/ios/ipa/*.ipa
+          retention-days: 7
